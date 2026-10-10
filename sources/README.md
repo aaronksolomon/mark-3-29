@@ -9,6 +9,7 @@
 | [Biblical texts](biblical-texts.md) | Mark and Synoptic parallels; Paul; John; Greek study apparatus | B-01 onward |
 | [Greek and semantic history](greek-and-semantic-history.md) | Contextual meanings, idioms, grammar, variants, and limits of lexical argument | L-01 onward |
 | [Interpretation history](interpretation-history.md) | Didache, Chrysostom, Augustine, Aquinas, Calvin, MacDonald, Catholic teaching | R-01 onward |
+| [Rigidity and discernment](rigidity-and-discernment.md) | Hardening, profession and care, antidotes, Christian responsibility during the Holocaust, interpretive controls | RD-00 onward |
 | [Modern scholarship](modern-scholarship.md) | Checked articles/catalogs, methodological resources, historical harm | S-01 onward |
 | [Forgiveness and reconciliation](plum-village/forgiveness-and-reconciliation.md) | Beginning Anew, reconciliation teaching, books and recordings | PV-01–PV-03, PV-11 |
 | [Time and transformation](plum-village/time-and-transformation.md) | Interbeing of the three times; continuation and transformation | PV-04–PV-06 |
@@ -34,4 +35,4 @@ Links to online Bible displays are convenient access points, not substitutes for
 
 ## What has not been established
 
-No full historical semantic trajectory has yet been demonstrated. No reconstruction of Jesus’s precise utterance is adopted. No universalist or irreversible-hardening conclusion is treated as settled. The interbeing of time is a declared comparative resource, not an etymology of aiōn. See the [claim audit](../notes/claim-audit.md).
+No full historical semantic trajectory has yet been demonstrated. No reconstruction of Jesus’s precise utterance is adopted. No universalist or irreversible-hardening conclusion is treated as settled. The interbeing of time is a declared comparative resource, not an etymology of aiōn. Rigidity is an interpretive proposal, not a new translation of Mark 3:29. See the [claim audit](../notes/claim-audit.md).
