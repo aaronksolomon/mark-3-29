@@ -1,0 +1,16 @@
+# Local working material only; no publication license implied.
+.DS_Store
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.venv/
+private/
+local-only/
+# Do not commit full third-party books, articles, or recordings.
+*.pdf
+*.epub
+*.mobi
+*.mp3
+*.mp4
+*.wav
