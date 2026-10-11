@@ -5,13 +5,13 @@
 >
 > — Mark 3:28–29, New International Version (2011). [RD-00](../sources/rigidity-and-discernment.md#rd-00--niv-opening)
 
-<!-- Working draft v0.3 — continuation of Aaron’s revision 6801a0b. Introduction polished; dogmatism and Gospel boundary-crossing added to section 4; section 5 developed; section 8 expanded around logic, the two truths, and koan-like inquiry. Research scaffolding remains in sections 2 and 6. Assistant-assisted prose for Aaron to revise; not a finished article. -->
+<!-- Working draft v0.4 — Scripture excerpts standardized: Mark 3:28–30 retains close Greek, romanization, gloss, and translation detail; later passages use brief NIV excerpts, with one contextual Greek term where useful. Assistant-assisted prose for Aaron to revise; not a finished article. -->
 
-## 1. A tension before an answer
+## 1. The tension
 
-In one movement, this saying opens forgiveness across the range of human sin and slander, then names a stark and apparently permanent exception. What distinguishes the second saying from the first? Is Jesus, as Mark presents him, identifying a particular act whose consequences cannot be overcome, or a condition in which the very possibility of forgiveness is refused? The words themselves do not offer an easy answer. There is a need for us to look deeply and consider what kind of teaching this is. Paradox and tension are not unfamiliar in the Gospel narratives. The severity of the words does not relieve us of the need to interpret them. [B-02](../sources/biblical-texts.md#b-02)
+In one movement, this saying opens forgiveness across the range of human sin and slander, then names a stark and apparently permanent exception. What distinguishes the second saying from the first? Is Jesus, as Mark presents him, identifying a particular act whose consequences cannot be overcome, or a condition in which the very possibility of forgiveness is refused? Or is this utterance a rebuke meant to wake those in the scene to the seriousness of their words and actions? The text itself does not offer an easy answer. There is a need for us to look deeply and consider what kind of teaching this is. Paradox and tension are not unfamiliar in the Gospel narratives. The severity of the words does not relieve us of the need to interpret them. [B-02](../sources/biblical-texts.md#b-02)
 
-Mark gives the warning a specific setting. The scribes have attributed Jesus’s liberating work to an unclean power. Mark explains: “Because they were saying, ‘He has an unclean spirit’” (3:30, study rendering). One possibility is that the accusation reveals a rigidity of perception: a judgment so defended that what might challenge or heal it is itself named harmful. Blasphemy names the maligning of the Spirit; rigidity is our proposal about the condition sustaining that accusation. Could the judgment prevent the very recognition through which it might change? This concerns interpreters as well as the people in the story. Can our religious understanding become so fixed that defending it takes precedence over recognizing the good before us? At what point does conviction become dogmatism?
+Mark gives the warning a specific setting. The scribes have attributed Jesus’s liberating work to an unclean power. One possibility is that the accusation reveals a rigidity of perception: a judgment so defended that what might challenge or heal it is itself named harmful. Blasphemy names the maligning of the Spirit; rigidity is our proposal about the condition sustaining that accusation. Could the judgment prevent the very recognition through which it might change? This concerns interpreters as well as the people in the story. Can our religious understanding become so fixed that defending it takes precedence over recognizing the good before us? At what point does conviction become dogmatism?
 
 We bring our own histories to these words. Sin may suggest moral failure, inherited corruption, broken relationship, or violation of divine or human law. Forgiveness may suggest pardon, release from debt, relinquished resentment, or reconciliation. Guilt can mean being answerable for an act or feeling guilty about it. Forever may suggest an endless succession of moments. These notions and associations are not necessarily interchangeable. Which are appropriate here, and which do we supply without noticing?
 
@@ -31,6 +31,18 @@ The inquiry therefore concerns both the saying and the human work of receiving a
 
 **Natural English:** “Never has forgiveness” or “has no forgiveness forever.” “Into the age” is a mechanical gloss, not better idiomatic English. It does not say “until the end of the age.” [B-01–B-02](../sources/biblical-texts.md#b-01)
 
+Mark’s explanation in verse 30 is part of the passage under examination:
+
+**NIV:** “because they were saying, ‘He has an unclean spirit.’”
+
+**Greek:** ὅτι ἔλεγον· Πνεῦμα ἀκάθαρτον ἔχει.
+
+**Romanization:** *hoti elegon: pneuma akatharton echei*.
+
+**Segmented gloss:** ὅτι, because; ἔλεγον, they were saying; πνεῦμα ἀκάθαρτον, an unclean spirit; ἔχει, he has.
+
+The imperfect ἔλεγον presents the accusation as ongoing speech in the scene. “They kept saying” can convey that aspect, but the verb does not itself add a condition for later forgiveness. [B-02](../sources/biblical-texts.md#b-02)
+
 Both clauses deserve to be heard. The breadth of the first does not make the second disappear. The severity of the second does not prevent us from looking deeply into meaning, intention, setting, and subsequent interpretation.
 
 ## 2. Words moving through worlds — section to develop
@@ -43,15 +55,9 @@ The wider range of aphesis includes release and remission. That makes “release
 
 ## 3. What the story names
 
-Mark supplies a reason for the warning: the scribes were saying that Jesus had an unclean spirit. Within the story, what Jesus is doing overcomes destructive power; the accusation attributes that work to the ruler of demons. The issue is not simply an irreverent word. It is a reversal in the recognition of what is taking place. [B-02](../sources/biblical-texts.md#b-02)
+Mark grounds the warning in the scribes’ accusation (3:30, NIV; quoted above). Within the story, Jesus’s work overcomes destructive power; the accusation attributes that work to the ruler of demons. The issue is not simply an irreverent word. It is a reversal in the recognition of what is taking place. [B-02](../sources/biblical-texts.md#b-02)
 
-**Greek:** ὅτι ἔλεγον· Πνεῦμα ἀκάθαρτον ἔχει — *hoti elegon: pneuma akatharton echei*.
-
-**Segmented gloss:** ὅτι, because; ἔλεγον, they were saying; πνεῦμα ἀκάθαρτον, an unclean spirit; ἔχει, he has.
-
-**Natural English:** “Because they were saying, ‘He has an unclean spirit.’”
-
-Jesus answers the accusation through images: a divided kingdom, a divided house, and a strong man who must be bound before his house can be plundered. The images ask the hearers to reconsider their explanation of what is happening. They do not remove the distinction between liberation and destructive power; they challenge the way that distinction is being applied. [B-02](../sources/biblical-texts.md#b-02)
+Jesus summons the accusers and asks, “How can Satan drive out Satan?” (3:23, NIV). He then compares the conflict to a divided kingdom and house, and describes a man who “first ties up the strong man” before robbing his house (3:27, NIV). These images ask the hearers to reconsider their explanation. They do not erase the distinction between liberation and destructive power; they challenge how that distinction is being applied. [B-02](../sources/biblical-texts.md#b-02)
 
 This brings the warning closer to a recognizable human danger: we may reject something good because receiving it would unsettle our understanding. Mark’s perspective is not, however, a transcript of the historical opponents’ minds. The story does not explicitly tell us that they privately recognized divine action and knowingly lied about it. Neither should we assume that sincerity makes harmful judgment harmless.
 
@@ -67,29 +73,21 @@ Dogmatism gives this rigidity a doctrinal form. A formulation is treated not as 
 
 The First of the Order of Interbeing’s Fourteen Mindfulness Trainings, Openness, addresses this danger directly. It includes Buddhist teachings within its warning against attachment to doctrine and commits practitioners to transforming dogmatism. The Second Training develops nonattachment to views through listening and continuing inquiry. These are strong commitments, not the abandonment of guidance. They offer a practice for keeping a teaching open to the understanding it is meant to cultivate. [ND-01](../sources/nonattachment-and-nondual-reading.md#nd-01--openness-and-nonattachment-to-views)
 
-Mark offers a nearby point of contact. Earlier in the same chapter, Jesus asks whether the Sabbath permits doing good and saving life. The response is silence. Mark describes Jesus as angry and grieving at the opponents’ hardness of heart before he restores the man’s hand. [RD-01](../sources/rigidity-and-discernment.md#rd-01--hardness-before-the-blasphemy-controversy)
-
-**Greek:** συλλυπούμενος ἐπὶ τῇ πωρώσει τῆς καρδίας αὐτῶν.
-
-**Romanization:** *syllypoumenos epi tē pōrōsei tēs kardias autōn*.
-
-**Segmented gloss:** συλλυπούμενος, grieving; ἐπὶ τῇ πωρώσει, at the hardness/hardening; τῆς καρδίας, of the heart; αὐτῶν, of them/their.
-
-**Natural English:** “grieved at their hardness of heart,” or “grieving over their hardened hearts” (Mark 3:5).
+Mark offers a nearby point of contact. Jesus asks whether it is lawful to do good or evil on the Sabbath, but they remain silent. He looks around “deeply distressed at their stubborn hearts” before restoring the man’s hand (3:4–5, NIV). The Greek noun πώρωσις (*pōrōsis*) can describe hardness or callousness; here it characterizes their response, not a diagnosis of an entire group. [RD-01](../sources/rigidity-and-discernment.md#rd-01--hardness-before-the-blasphemy-controversy)
 
 Hardness of heart and blasphemy are not thereby established as synonyms. But the chapter presents a recurring question: what happens when an established judgment prevents a person from responding to restoration? In the later controversy, the accusation can protect itself against correction. What the story presents as evidence of liberation becomes evidence of demonic power. Could this be the condition that gives the warning its force?
 
-Mark also attributes hardened hearts to the disciples (6:52; 8:17). Jesus questions their understanding and memory and continues to teach them. Hardening is not a quality that divides Jewish opponents from Christian insiders. It can describe those who follow Jesus. Its presence does not automatically mean that a person is past all possibility of response. [RD-02](../sources/rigidity-and-discernment.md#rd-02--the-disciples-are-not-exempt)
+Mark says the disciples did not understand the loaves because “their hearts were hardened” (6:52, NIV). Later Jesus asks them, “Are your hearts hardened?” and, “Don’t you remember?” (8:17–18, NIV). Hardening is not a quality that divides Jesus’s opponents from his disciples; it can describe those who follow him. Its presence does not automatically mean that a person is past all possibility of response. [RD-02](../sources/rigidity-and-discernment.md#rd-02--the-disciples-are-not-exempt)
 
-John offers a related comparison. At the end of the healing story in John 9, the assertion of sight is connected with sin’s remaining. The problem concerns a claim to understanding in the face of what the story discloses. Yet John’s opening also rejects a simple attribution of the man’s physical blindness to sin. We should not turn disability, uncertainty, or lack of capacity into moral failure. [RD-03](../sources/rigidity-and-discernment.md#rd-03--claimed-sight-and-remaining-sin)
+John offers a related comparison. At the story’s beginning, Jesus rejects the disciples’ assumption that the man’s blindness resulted from sin: “Neither this man nor his parents sinned” (9:3, NIV). At its end, he connects claimed sight with sin’s remaining: “now that you claim you can see, your guilt remains” (9:41, NIV). The point concerns a claim to understanding within this story, not physical disability, uncertainty, or lack of capacity as moral failure. [RD-03](../sources/rigidity-and-discernment.md#rd-03--claimed-sight-and-remaining-sin)
 
 ### When religious profession displaces care
 
-This possibility connects Mark’s warning to a wider tension between professed allegiance and enacted faithfulness. In Matthew 7:21–23, calling Jesus Lord is not enough. Those rejected even appeal to prophecy, exorcisms, and powerful deeds performed in his name. Religious language and impressive claims do not exempt a life from examination. The surrounding teaching asks readers to consider fruits, examine themselves, and act on what they hear. A claimed healing is not, simply because it is claimed, proof of a teacher’s goodness or authority. [RD-04](../sources/rigidity-and-discernment.md#rd-04--profession-claimed-power-and-conduct)
+This possibility connects Mark’s warning to a wider tension between professed allegiance and enacted faithfulness. Matthew warns, “Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven” (7:21, NIV). Those rejected appeal to prophecy, exorcisms, and powerful deeds in Jesus’s name. Religious language and impressive claims do not exempt a life from examination. The surrounding teaching asks readers to consider fruit, examine themselves, and act on what they hear. A claimed healing is not, simply because it is claimed, proof of a teacher’s goodness or authority. [RD-04](../sources/rigidity-and-discernment.md#rd-04--profession-claimed-power-and-conduct)
 
-Matthew 25:31–46 makes care for hungry, displaced, sick, and imprisoned people decisive within a scene of judgment. Its identification of the least brothers is disputed, and its ending retains severe punishment language. Recognition and response to concrete need nevertheless belong at the center of the scene. Mark’s criticism of piety that exploits widows and James’s injunction to care for widows and orphans belong to related, but separate, passages. [RD-05](../sources/rigidity-and-discernment.md#rd-05--hunger-imprisonment-recognition-and-judgment), [RD-06](../sources/rigidity-and-discernment.md#rd-06--widows-exploitation-and-care)
+Matthew’s judgment scene names care concretely: “whatever you did for one of the least of these brothers and sisters of mine, you did for me” (25:40, NIV). The identity of “the least” is disputed, and the passage ends with severe punishment language. Mark condemns leaders who “devour widows’ houses” (12:40, NIV), while James calls for care “for orphans and widows in their distress” (1:27, NIV). These are related but distinct passages. [RD-05](../sources/rigidity-and-discernment.md#rd-05--hunger-imprisonment-recognition-and-judgment), [RD-06](../sources/rigidity-and-discernment.md#rd-06--widows-exploitation-and-care)
 
-These comparisons ask whether a religious identity can become a substitute for the life it claims to express. The question is already present within Jewish scripture: Isaiah 58 joins acceptable fasting to the release of the oppressed and provision for people in need. It would distort this inheritance to tell a story in which Christianity supplies compassion to a Judaism that lacked it. [RD-07](../sources/rigidity-and-discernment.md#rd-07--the-ethical-criticism-is-already-jewish)
+These comparisons ask whether religious identity can become a substitute for the life it claims to express. The question is already present within Jewish scripture. Isaiah describes the fast God chooses as loosening “the chains of injustice” and sharing food “with the hungry” (58:6–7, NIV). It would distort this inheritance to tell a story in which Christianity supplies compassion to a Judaism that lacked it. [RD-07](../sources/rigidity-and-discernment.md#rd-07--the-ethical-criticism-is-already-jewish)
 
 ### A warning to the interpreters
 
@@ -103,25 +101,25 @@ The alternative need not be abandonment of doctrine. In Nostra aetate, the Secon
 
 ### What might interrupt rigidity?
 
-The texts suggest practices rather than a formula. Self-examination comes before correcting another person in Matthew 7:1–5. Luke introduces the Pharisee and tax collector’s prayer as a challenge to confidence in one’s righteousness joined to contempt for others. The reader is asked to relinquish an exemption from correction, not exchange one supposedly inferior group for another. [RD-04](../sources/rigidity-and-discernment.md#rd-04--profession-claimed-power-and-conduct), [RD-08](../sources/rigidity-and-discernment.md#rd-08--practices-that-may-interrupt-rigidity)
+The texts suggest practices rather than a formula. Before correcting another, Matthew says to “first take the plank out of your own eye” (7:5, NIV). Luke introduces the Pharisee and tax collector with a warning about people “confident of their own righteousness and looked down on everyone else” (18:9, NIV); the tax collector prays, “God, have mercy on me, a sinner” (18:13, NIV). The reader is asked to relinquish an exemption from correction, not exchange one supposedly inferior group for another. [RD-04](../sources/rigidity-and-discernment.md#rd-04--profession-claimed-power-and-conduct), [RD-08](../sources/rigidity-and-discernment.md#rd-08--practices-that-may-interrupt-rigidity)
 
-Care is another interruption. In Luke 10, Jesus and the legal expert begin with the commandments to love God and neighbor. The Samaritan story then shifts attention from deciding who qualifies as our neighbor toward recognizing who acts as a neighbor. Mercy is enacted across a boundary, within a conversation already grounded in Jewish scripture. [ND-06](../sources/nonattachment-and-nondual-reading.md#nd-06--the-neighbor-and-worship-beyond-rival-locations)
+Care is another interruption. Jesus and the legal expert begin with the commandments to “Love the Lord your God” and “Love your neighbor as yourself” (Luke 10:27, NIV). The Samaritan story shifts attention from deciding who qualifies as our neighbor toward recognizing who acts as one: the Samaritan “took pity on him,” and Jesus concludes, “Go and do likewise” (10:33, 37, NIV). Mercy is enacted across a boundary within a conversation already grounded in Jewish scripture. [ND-06](../sources/nonattachment-and-nondual-reading.md#nd-06--the-neighbor-and-worship-beyond-rival-locations)
 
-Mark supplies an even closer comparison. The disciples try to stop someone casting out demons in Jesus’s name because he does not follow their group (9:38–40). Jesus tells them not to stop him. Here it is the disciples whose sense of belonging threatens to obstruct a healing. The story does not abolish discernment; it challenges the assumption that legitimate action must remain within our circle. [ND-05](../sources/nonattachment-and-nondual-reading.md#nd-05--a-healing-outside-the-disciples-group)
+Mark supplies an even closer comparison. The disciples try to stop an exorcist because “he was not one of us” (9:38, NIV). Jesus answers, “Do not stop him” (9:39, NIV). Here it is the disciples whose sense of belonging threatens to obstruct a healing. The story does not abolish discernment; it challenges the assumption that legitimate action must remain within our circle. [ND-05](../sources/nonattachment-and-nondual-reading.md#nd-05--a-healing-outside-the-disciples-group)
 
 These encounters give us a reason to listen across the boundaries of our own tradition. We can value where a teaching comes from without making its origin the test of its truth. A Buddhist teaching may help us hear Mark differently; Mark may question what we believe we understand through Buddhism. What matters is what becomes visible through the encounter, and whether it can bear further attention in study and life.
 
-Sustained learning belongs here too. In Mark 8, Jesus asks the disciples to remember and reconsider. In John, abiding in the teaching and doing truth are joined to knowing. Study, prayer, practice, and attention to consequences can correct one another. Listening to someone harmed by an institution must include the possibility of changing its practices, not merely receiving testimony while leaving everything unchanged. [RD-02](../sources/rigidity-and-discernment.md#rd-02--the-disciples-are-not-exempt), [B-09–B-11](../sources/biblical-texts.md#b-09)
+Sustained learning belongs here too. In Mark 8 Jesus asks, “Do you still not see or understand?” and, “Don’t you remember?” (8:17–18, NIV). John joins abiding and knowing: “If you hold to my teaching, you are really my disciples” and “the truth will set you free” (8:31–32, NIV). Study, prayer, practice, and attention to consequences can correct one another. Listening to someone harmed by an institution must include the possibility of changing its practices, not merely receiving testimony while leaving everything unchanged. [RD-02](../sources/rigidity-and-discernment.md#rd-02--the-disciples-are-not-exempt), [B-09](../sources/biblical-texts.md#b-09)
 
 These are possible antidotes, not demands to place on people who have been harmed. A boundary against further abuse is not evidence of dogmatism. Nor can everyone become receptive by an act of will. Paul’s story allows encounter and the Spirit to interrupt an understanding that did not initiate its own correction.
 
-The proposal remains open: while healing is treated as an enemy, it cannot be welcomed as healing. If that relation changes, what happens to the condition named by the warning? Mark’s emphatic language, Matthew’s extension to both ages, and Mark 4:10–12’s difficult account of seeing and forgiveness remain part of this question. [RD-11](../sources/rigidity-and-discernment.md#rd-11--hard-evidence-the-proposal-must-retain)
+The proposal remains open: while healing is treated as an enemy, it cannot be welcomed as healing. If that relation changes, what happens to the condition named by the warning? Mark’s emphatic language, Matthew’s extension to both ages, and Mark’s difficult account of parables—“otherwise they might turn and be forgiven” (4:12, NIV)—remain part of this question. [RD-11](../sources/rigidity-and-discernment.md#rd-11--hard-evidence-the-proposal-must-retain)
 
 The antidote to rigidity may not be a lack of conviction. It may be a form of fidelity that remains answerable to truth, to those affected by its claims, and to the possibility of correction. That requirement applies to this essay’s interpretation as well.
 
 ## 5. The humanity of transmission
 
-Matthew retains the controversy but explicitly excludes forgiveness in both this age and the coming age. Luke places the saying among instructions about acknowledgment, denial, and the Spirit’s help before authorities. These differences show interpretation within the Gospel tradition itself. They do not, without further argument, establish which words Jesus originally spoke or which Gospel introduced an element. [B-03–B-04](../sources/biblical-texts.md#b-03)
+Matthew’s version says the blasphemy “will not be forgiven, either in this age or in the age to come” (12:32, NIV). Luke places the saying among instructions about acknowledgment, denial, and testimony before authorities; it also promises, “the Holy Spirit will teach you at that time what you should say” (12:12, NIV). Luke’s warning is that “whoever blasphemes against the Holy Spirit will not be forgiven” (12:10, NIV). The warning appears in both Gospels, but the wording and settings differ. This shows interpretation within the Gospel tradition; it does not establish which words Jesus originally spoke or which Gospel introduced an element. [B-03–B-04](../sources/biblical-texts.md#b-03)
 
 A saying does something within a relationship. It can warn, rebuke, invite, unsettle, or console. Its meaning is not exhausted by deciding which proposition it asserts. A severe warning may seek to interrupt a course of action; a later reader may receive the same words as a classification of people whose destiny is already fixed. Could this difference matter here? To ask is not to decide that Mark intended only a temporary condition. It is to consider what changes when speech addressed to someone becomes doctrine pronounced about someone.
 
@@ -139,9 +137,9 @@ Modern Catholic teaching locates the problem in refusal of mercy. MacDonald ques
 
 ## 7. Paul and the possibility of changed seeing — central argument
 
-Paul puts pressure on any account that treats deep religious misrecognition as necessarily incurable. In Galatians he describes trying to destroy the church and being intensely zealous for ancestral traditions before a revelation changed his direction. Philippians places the descriptions “Pharisee” and persecutor beside one another. These are not portraits of mild uncertainty. They concern active opposition with consequences for others. [B-05–B-06](../sources/biblical-texts.md#b-05)
+Paul puts pressure on any account that treats deep religious misrecognition as necessarily incurable. In Galatians he recalls, “I persecuted the church of God and tried to destroy it” (1:13, NIV), then says God “was pleased to reveal his Son in me” (1:15–16, NIV). Philippians describes his former zeal as “persecuting the church” (3:6, NIV). These are accounts of active opposition with consequences for others, followed by a changed direction. [B-05–B-06](../sources/biblical-texts.md#b-05)
 
-Acts gives the transformation a narrative involving blindness, regained sight, and the Holy Spirit. First Timothy presents Paul as a former blasphemer who received mercy, while expressly distinguishing his earlier ignorance and unbelief. These witnesses should not be flattened into one autobiographical statement: Acts is a narrative about Paul, and the authorship of 1 Timothy is disputed. They nevertheless form part of the Christian canon’s account of transformation. [B-07–B-08](../sources/biblical-texts.md#b-07)
+Acts narrates a restoration of sight and Ananias’s words, “you may see again and be filled with the Holy Spirit” (9:17, NIV). First Timothy portrays Paul as a former blasphemer who received mercy: “I was shown mercy because I acted in ignorance and unbelief” (1:13, NIV); it also says, “Christ Jesus came into the world to save sinners” (1:15, NIV). These witnesses should not be flattened into one autobiography: Acts is a narrative about Paul, and 1 Timothy’s authorship is disputed. They nevertheless form part of the Christian canon’s account of transformation. [B-07–B-08](../sources/biblical-texts.md#b-07)
 
 Paul does not prove that someone who committed the exact act condemned in Mark was subsequently forgiven. No source places him in that scene or attributes that accusation to him. The distinction between ignorant opposition and knowing rejection also deserves attention. But his life makes a broader claim difficult to sustain: that destructive opposition to what will later be recognized as God’s work must seal a person permanently against recognition.
 
@@ -175,7 +173,7 @@ The conventional and ultimate are not two compartments in which responsibility i
 
 ### A question that includes the reader
 
-John offers a point of contact in Jesus’s prayer that his followers may be one: the Father in Jesus, Jesus in the Father, and the disciples in them (17:20–23). This language of mutual indwelling describes communion without simply eliminating relationship. It can be read alongside nondual teaching, while retaining John’s particular account of God, Jesus, and discipleship. What might such language allow us to experience that the image of wholly separate beings leaves out? [ND-07](../sources/nonattachment-and-nondual-reading.md#nd-07--unity-without-erasing-relation)
+John offers a point of contact in Jesus’s prayer “that all of them may be one,” as the Father is in Jesus and Jesus in the Father (17:20–23, NIV). This language of mutual indwelling describes communion without simply eliminating relationship. It can be read alongside nondual teaching, while retaining John’s particular account of God, Jesus, and discipleship. What might such language allow us to experience that the image of wholly separate beings leaves out? [ND-07](../sources/nonattachment-and-nondual-reading.md#nd-07--unity-without-erasing-relation)
 
 Thích Nhất Hạnh’s letter “Bat Nha: a Koan” offers another connection. Addressing a crisis of persecution, he asks the practitioner to encounter the question as something involving their own life, not merely a puzzle concerning other people. The work of understanding includes how the question is lived. [ND-04](../sources/nonattachment-and-nondual-reading.md#nd-04--a-koan-involving-the-reader)
 
@@ -183,7 +181,7 @@ Mark’s warning can be approached in this koan-like way without calling it a Ze
 
 This does not make the opening promise and its exception two interchangeable truths, or remove Mark’s severity. It changes our relation to the tension. We no longer need to stand outside it as though its only purpose were to classify others.
 
-John’s language of abiding, knowing, and doing truth belongs here too (8:31–36; 7:17; 3:21). It joins understanding with a life in relation to Jesus and his teaching. The inquiry is not finished when we possess a satisfactory formulation. We still have to discover what that understanding becomes in practice. [B-09–B-11](../sources/biblical-texts.md#b-09)
+John’s language of abiding, knowing, and doing truth belongs here too. Jesus says, “Anyone who chooses to do the will of God will find out” whether the teaching is from God (7:17, NIV), and “whoever lives by the truth comes into the light” (3:21, NIV). These passages join understanding with a life in relation to God and Jesus’s teaching. The inquiry is not finished when we possess a satisfactory formulation; we still have to discover what that understanding becomes in practice. [B-09–B-11](../sources/biblical-texts.md#b-09)
 
 ## 9. An open conclusion
 
@@ -205,4 +203,4 @@ We need not pretend that all these readings are equally supported. Neither need 
 
 ---
 
-**NIV acknowledgment:** Scripture quotation marked NIV is from the Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used by permission. All rights reserved worldwide. Other biblical English identified as a study rendering is supplied for this project; named source translations and paraphrases are distinguished in the source notes.
+**NIV acknowledgment:** Scripture excerpts marked NIV are from the Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used by permission. All rights reserved worldwide. Greek glosses and unmarked natural English alternatives are study renderings supplied for this project; other translations and paraphrases are identified in the source notes.
