@@ -9,13 +9,13 @@
 
 ## 1. A tension before an answer
 
-In one movement, this saying opens forgiveness to the whole range of human wrongdoing and then names an exception that appears permanent. What distinguishes the second case from the first? Is Jesus, as Mark presents him, identifying a particular act whose consequences cannot be overcome, or a condition in which the very possibility of forgiveness is refused? The words do not permit an easy answer. But neither does their severity relieve us of the need to interpret them. [B-02](../sources/biblical-texts.md#b-02)
+In one movement, this saying opens forgiveness to the whole range of human action and then names a stark and apparently permanent exception. What distinguishes the second saying from the first? Is Jesus, as Mark presents him, identifying a particular act whose consequences cannot be overcome, or a condition in which the very possibility of forgiveness is refused? The words themselves do not offer an easy answer. There is a need for us to look deeply and to consider; paradox and tension is not unfamiliar in the Gospel narratives. The severity of the words does not relieve us of the need to interpret them. [B-02](../sources/biblical-texts.md#b-02)
 
-Mark gives the warning a specific setting. The scribes have attributed Jesus's liberating work to an unclean power. One possibility explored here is that the accusation reveals a rigidity of perception: a judgment so defended that what might challenge or heal it is itself named evil. This is a proposal about the condition underlying the accusation, not a substitute translation for blasphemy. It raises a question that concerns interpreters as well as the people in the story. Can a religious understanding become so fixed that defending it takes precedence over recognizing the good before us?
+Mark gives the warning a specific setting. The scribes have attributed Jesus's liberating work to an unclean power: [give verse quote here]. One possibility is that the accusation reveals a rigidity of perception: a judgment so defended that what might challenge or heal it is itself named harmful. This is a proposal about the condition underlying the accusation, not a substitute translation for blasphemy [elaborate]. It raises a question that concerns interpreters as well as the people in the story. Can our religious understanding become so fixed that defending it takes precedence over recognizing the good before us? [Discussion of *dogmatic* or possible introduction?]
 
-We bring histories of our own to these words. Sin may suggest moral failure, inherited corruption, broken relationship, or violation of divine law. Forgiveness may suggest pardon, release from debt, relinquished resentment, or reconciliation. Guilt can mean being answerable for an act or feeling guilty about it. Forever may suggest an endless succession of moments. These associations are not interchangeable. Which are appropriate here, and which do we supply without noticing?
+We bring our own histories to these words. Sin may suggest moral failure, inherited corruption, broken relationship, or violation of divine or human law. Forgiveness may suggest pardon, release from debt, relinquished resentment, or reconciliation. Guilt can mean being answerable for an act or feeling guilty about it. Forever may suggest an endless succession of moments. These notions and associations are not necessarily interchangeable. Which are appropriate here, and which do we supply without noticing?
 
-The inquiry therefore concerns both the saying and the human work of receiving it. What happens when words attributed to Jesus in a particular conflict are remembered, arranged within a Gospel, translated, preached, and incorporated into doctrine? Respect for Jesus does not require us to decide beforehand that he could never have spoken severely. Respect for scripture need not require that every reported sentence be treated as a complete theological account detached from its occasion. Jesus, the evangelists, and their later readers belong to this inquiry as human participants, not as abstractions whose words arrive without circumstances.
+The inquiry therefore concerns both the saying and the human work of receiving it and understanding it. What happens when words attributed to Jesus in a particular conflict are remembered, arranged within a Gospel, translated, preached, and incorporated into doctrine? Respect for Jesus does not require us to decide beforehand his intentions, his quality of speech, whether he spoken severely and why--is this message a message of strong warning out of compassion? Respect for scripture need not require that every reported sentence be treated as a complete theological account detached from its occasion. Jesus, the evangelists, and their later readers belong to this inquiry as human participants, not as abstractions whose words arrive disconnected from real life and circumstances.
 
 ### The two clauses
 
@@ -31,7 +31,7 @@ The inquiry therefore concerns both the saying and the human work of receiving i
 
 **Natural English:** “Never has forgiveness” or “has no forgiveness forever.” “Into the age” is a mechanical gloss, not better idiomatic English. It does not say “until the end of the age.” [B-01–B-02](../sources/biblical-texts.md#b-01)
 
-Both clauses deserve to remain audible. The breadth of the first should not make the second disappear. The severity of the second should not prevent us from asking what its words, setting, and subsequent interpretation actually establish.
+Both clauses deserve to be heard. The breadth of the first does not make the second disappear. The severity of the second does not prevent us from looking deeply into the meaning, intention, setting, and subsequent interpretation.
 
 ## 2. Words moving through worlds — section to develop
 
@@ -59,7 +59,7 @@ This narrative explanation brings the warning closer to a recognizable human dan
 
 ### A condition, not a class of people
 
-By rigidity I do not mean having convictions, belonging to a tradition, or holding firmly to a moral obligation. I mean protecting a judgment from correction: refusing to let what happens, what another person says, or what our actions produce call that judgment into question. The problem is not simply that we have an interpretation. It is that our interpretation has become exempt from examination.
+Rigidity here does not mean convictions, belonging to a tradition, or holding firmly to a moral obligation. I mean protecting a judgment from correction: refusing to let what happens, what another person says, or what our actions produce call that judgment into question. The problem is not simply that we have an interpretation. It is that our interpretation has become exempt from examination.
 
 Mark offers a nearby point of contact. Earlier in the same chapter, Jesus asks whether the Sabbath permits doing good and saving life. The response is silence. Mark describes Jesus as angry and grieving at the opponents' hardness of heart before he restores the man's hand. [RD-01](../sources/rigidity-and-discernment.md#rd-01--hardness-before-the-blasphemy-controversy)
 
