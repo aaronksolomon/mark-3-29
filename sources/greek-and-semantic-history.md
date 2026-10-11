@@ -1,6 +1,6 @@
 # Greek and semantic history
 
-**Status:** initial lexical controls and research questions; not a completed diachronic study. Online entries were checked on 2026-10-10. A lexical range is not permission to insert every sense into an occurrence. The main Greek passages are presented in [biblical-texts.md](biblical-texts.md).
+**Status:** initial lexical controls and research questions; not a completed diachronic study. Online entries were checked on 2026-10-10. The v2 flow-and-evidence pass adds the directly checked biblical comparisons in L-08. A lexical range is not permission to insert every sense into an occurrence. The main Greek passages are presented in [biblical-texts.md](biblical-texts.md).
 
 ## L-01
 
@@ -101,6 +101,28 @@
 **Segmented gloss:** aiōniou, eternal/everlasting (genitive); hamartēmatos, sin (genitive). **Natural English:** “of an eternal sin.” “Age-enduring” is a marked study alternative, not a demonstrated finite duration here.
 
 **Question:** How does an adjective modifying sin relate to guilt, continuing action, or consequences? Do not automatically replace the noun “sin” with “punishment,” but do not infer absence of judgment from the distinction.
+
+## L-08
+
+**Biblical comparisons: debt, sin, and release. Added in the flow-and-evidence pass following author revision `d6e1bf6`.**
+
+**Responsible texts and editions:** Matthew 6:12 and Luke 11:4; Luke 4:18 and 24:47. NIV (2011), Biblica, as displayed by BibleGateway; Greek clauses checked in the Online Greek Bible. These are neighboring textual uses, not a completed history of Greek or Jewish concepts.
+
+- [Matthew 6:12, NIV](https://www.biblegateway.com/passage/?search=Matthew+6%3A12&version=NIV)
+- [Luke 11:4, NIV and Greek-text footnote](https://www.biblegateway.com/passage/?search=Luke+11%3A4&version=NIV)
+- [Luke 4:18, NIV](https://www.biblegateway.com/passage/?search=Luke+4%3A18&version=NIV)
+- [Luke 4:18, Greek](https://www.greekbible.com/luke/4/18)
+- [Luke 24:47, Greek](https://www.greekbible.com/luke/24/47)
+
+**Status:** the three NIV passages and Luke 11:4’s footnote were read directly; the two Greek Luke verses were checked. No critical apparatus, Hebrew source collation, or dependence model was examined in this pass. The web displays’ adjacent English is not used as the source of the NIV quotations.
+
+**Brief excerpts:** Matthew asks to “forgive us our debts”; Luke begins “Forgive us our sins.” Luke 4:18 includes “set the oppressed free.” These excerpts anchor the discussion in v2 §3; they should not become interchangeable definitions.
+
+**Luke 11:4 detail:** the NIV main text translates the second clause using sin-language; its footnote identifies the underlying Greek as indebtedness. The draft’s reference to forgiving those indebted to us is a paraphrase of that Greek-text note, not an unmarked quotation of the NIV main text. Retain this distinction in later revisions.
+
+**Aphesis comparison:** Luke 4:18 contains both ἄφεσιν (*aphesin*, release) for captives and ἐν ἀφέσει (*en aphesei*, in release) with the oppressed. Luke 24:47 uses ἄφεσιν ἁμαρτιῶν (*aphesin hamartiōn*, forgiveness/remission of sins). In ordinary English these contexts support release from oppression and forgiveness of sins respectively. The shared noun provides a comparison; it does not establish that the two situations are identical or that all its meanings operate in Mark 3:29.
+
+**Use and limits:** debt and sin imagery coexist within the Gospel tradition. This gives a concrete reason not to import one modern model into every occurrence. It does not prove a chronology from innocent error to crime, date either prayer’s origin, or determine Mark’s account of guilt and punishment. The larger Hebrew/Septuagint and historical-semantic inquiry remains open.
 
 ## Methodological reading priorities
 

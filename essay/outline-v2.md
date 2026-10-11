@@ -1,12 +1,12 @@
 # Version 2 outline and revision map
 
-**Status:** initial major-revision setup, 2026-10-10 (America/Los_Angeles). Six numbered sections correspond one-to-one to [working-draft-v2.md](working-draft-v2.md). This is a substantial continuation of v1, not a rewrite from scratch or a completed publication draft.
+**Status:** flow-and-evidence pass following Aaron’s revision `d6e1bf6f984f5dc3cde135e4f62ab32456e5f143`. Six numbered sections correspond one-to-one to [working-draft-v2.md](working-draft-v2.md). This continues the major revision from v1; it is not a new essay or a finished publication draft.
 
-**Starting text:** Aaron’s latest [working-draft.md](working-draft.md) at `6370787e4a244ac2990c5a2e77c96ad5e7e66b2f`, internally labeled v0.4. The existing draft and [outline.md](outline.md) are preserved unchanged and are called v1 for this revision cycle.
+**Starting text:** Aaron’s [working-draft.md](working-draft.md) at `6370787e4a244ac2990c5a2e77c96ad5e7e66b2f`, internally labeled v0.4. That draft and [outline.md](outline.md) remain preserved as v1. V2 began at `178a320`; the present pass uses Aaron’s subsequent edits and inline requests at `d6e1bf6`.
 
-**Review used:** [2026-10-10 substantive review](reviews/2026-10-10-working-draft-review.md). Its baseline was the earlier `49d4148`; the author’s subsequent language, scripture excerpts, and Greek-format revision take priority where they differ. Review recommendations are editorial proposals, not evidence for historical claims.
+**Review used:** [2026-10-10 substantive review](reviews/2026-10-10-working-draft-review.md). Its baseline was `49d4148`; subsequent author language and scripture-format choices take priority. Review recommendations are editorial proposals, not historical evidence.
 
-**Working title:** *All Will Be Forgiven? Compassion, Warning, and the Humanity of Interpretation*. The subtitle is provisional and follows the review’s proposed hierarchy.
+**Working title:** *All Will Be Forgiven? Compassion, Warning, and our Shared Humanity*. This retains Aaron’s new subtitle rather than restoring the review’s proposed wording.
 
 ## Governing question
 
@@ -14,100 +14,105 @@ How might Jesus’s severe address express concern for people whose judgment has
 
 **Leading proposal:** compassionate warning is a considered way of hearing the encounter, not proof of universal restoration or recovered access to Jesus’s private intention. What the words assert, what speaking them may seek to do, and what ultimately happens are related but distinct questions.
 
+**Flow principle for this pass:** establish the scene before naming an abstract condition; explain the interpretive move before qualifying it; carry one question forward rather than reopening the same methodological discussion in each paragraph. Keep the hardest contrary evidence where it bears on the argument.
+
 ## 1. The tension
 
 **Purpose:** retain Aaron’s opening and make the governing question visible before methodological detail.
 
-**Retained:** exact italicized NIV lead-in; the range of sin and slander; the shared inquiry; the human work of receiving a saying.
+**Retained:** exact italicized NIV lead-in; the stark and permanent exception; shared inquiry; the possibility that sharp speech may serve compassion; the human work of receiving a saying.
 
-**Revised:** act and condition are no longer exclusive alternatives. A deed can express a disposition and carry a consequence. The compassionate-warning possibility leads without cancelling finality.
+**Refined:** the alternatives now form one connected paragraph rather than a sequence of technical classifications. Compassionate intention and final consequence are distinguished once, without turning the distinction into an extended preliminary defense.
 
-**Status:** opening paragraphs drafted. Revisit only after the middle settles; resist adding another catalogue of possible meanings.
+**Status:** polished working opening. Revisit after the body settles; do not add another catalogue of meanings here.
 
 ## 2. A warning within an encounter
 
-**Purpose:** place Mark 3:23’s summons, the parabolic argument, and 3:30’s present accusation before the extended Greek analysis.
+**Purpose:** let the reader understand the accusation and Jesus’s response before being asked to consider rigidity.
 
-**Retained/moved:** v1 §3’s divided kingdom and strong-man discussion; §5’s account of speech within a relationship; §4’s neighboring anger-and-grief passage.
+**Developed in response to Aaron’s brackets:**
 
-**New support:** Chrysostom’s corrective purpose in *Homily 41*, §§1 and 5. This is reception evidence, not proof of the historical Jesus’s intention. The separate scene in Mark 3:5 must remain separate.
+- Mark 3:7–12’s setting of healing and impure spirits; the accusation in 3:22, with a short exact NIV quotation.
+- What the accusation asserts: it attributes Jesus’s work against demons to their ruler rather than simply denying the events.
+- The summons and parabolic argument in 3:23–27: division undermines a dominion; taking the strong man’s possessions requires overcoming him.
+- Mark 3:30 as a return to the present accusation, not an unexplained reference to ritual impurity or a hypothetical future slip.
+- How present harmful speech and an effort to interrupt its course can coexist within a warning.
+- A gradual introduction of rigidity: when even a challenge to the accusation can be absorbed as further evidence for it.
 
-**Status:** continuous draft. Possible next addition: one brief, properly sourced connection to God’s reign or Ezekiel 33:7–11. Neither is needed merely to add another parallel.
+**Retained:** speech acts within relationships; the distinct anger-and-grief episode at 3:5; Chrysostom’s corrective purpose. The narrative is not access to the historical accusers’ private minds. The early healing summary is not presented as a single witnessed exorcism occurring during the controversy.
+
+**Status:** expanded continuous exposition; all bracketed author requests in this section are addressed. Avoid adding distant parallels before the central scene is clear.
 
 ## 3. What the words require and interpreters add
 
-**Purpose:** complete a bounded textual discussion and begin a comparative reception account, rather than promise an uncompleted history of semantics.
+**Purpose:** explain what the close text constrains and how the principal interpretations answer different questions about repentance.
 
-**Close text:** Greek script, romanization, segmented gloss, and natural English for Mark’s key clauses and 3:30. Other scripture appears through short NIV excerpts, not repeated Greek apparatus.
+**Close text retained:** Greek script, romanization, segmented gloss, and natural English for Mark’s key clauses and 3:30. Supporting passages use short English excerpts rather than extended apparatus.
 
-**Distinctions:** forgiveness/release is not simply recognition, psychological healing, reconciliation, or restored trust. Ancient liability language remains real. “Eternal sin” is the reading of the named critical edition; it is not Mark’s own modern text-critical preference.
+**New concrete semantic comparison:** Matthew 6:12’s debts and Luke 11:4’s sins/debt language; Luke 4:18’s release and Luke 24:47’s forgiveness. [L-08](../sources/greek-and-semantic-history.md#l-08) records the checked texts, including the distinction between Luke 11:4’s NIV main text and Greek-text footnote. These examples demonstrate overlapping usage, not a completed historical trajectory.
 
-**Reception, started:** Chrysostom’s repentance acknowledgment; Augustine’s final impenitence and caution about living persons; Aquinas’s preventive account and divine healing; Calvin’s irreversible hardening; Catholic refusal of mercy; MacDonald’s resistance to a final condition. Each receives a short quotation and an explanation of its interpretive contribution. The wider Didache/John Paul II material is preserved in sources and v1, not discarded.
+**Necessary distinctions:** recognition, healing, divine forgiveness, reconciliation, restored trust, and removal of consequences are related but not synonyms. Ancient liability remains real. The named critical Greek edition reads “eternal sin”; that does not exclude judgment or independently establish a psychological account.
 
-**Strong objection:** compassion may warn of an actual irreversible loss. Matthew 12:32 excludes both ages; Mark 4:10–12 connects parables and non-understanding with failure to turn and receive forgiveness. Explain the latter’s challenge, not merely call it difficult.
+**Reception now connected through a question:** where does each account locate the refusal that prevents forgiveness? Chrysostom’s acknowledgment of repentance remains alongside his punitive and anti-Jewish context. Augustine locates finality at death. Aquinas connects preventive speech with final impenitence and separately considers rejection of the means of cure. Calvin distinguishes ignorance from a completed rejection in which repentance will not arise. The Catechism and MacDonald differ over how far refusal can remain open to divine action.
 
-**Status:** bounded lexical prose and first reception comparison drafted. Most in need of the next substantive pass: sharpen transitions and compare two or three decisive moves in more depth. Dated semantic history, manuscript witnesses, and original-language patristic work remain outstanding.
+**Strong objection retained:** compassionate warning may concern an actual final loss. Matthew 12:32 excludes both ages; Mark 4:10–12 directly complicates the claim that every parable transparently opens understanding.
+
+**Status:** developed bounded exposition and reception comparison. A full history of semantic change, manuscript witnesses, and original-language patristic analysis are still outstanding. Further work should deepen necessary distinctions, not merely add authorities.
 
 ## 4. Rigidity, changed seeing, and responsibility
 
 **Purpose:** give rigidity a clear role as a proposed condition, then test its scope with Paul and the interpreter’s own conduct.
 
-**Retained:** definition of rigidity; distinction between doctrine and dogmatism; First and Second Trainings; Mark’s disciples and outsider exorcist; Paul’s persecution and transformation; the inward application of forgiveness; historical responsibility and doctrinal correction.
+**Retained:** conviction/dogmatism distinction; First and Second Trainings; disciples’ hardening and the outsider exorcist; Paul’s persecution and transformation; the inward danger of using forgiveness to silence; Christian historical responsibility and doctrinal correction.
 
-**Reduced:** repeated hardening explanations and the long succession of parallel passages. Matthew 7 and 25 remain; widow texts, Isaiah 58, John 9, and Samaritan material remain in v1 and their dossiers for selective reuse.
+**Refined:** the transition from §3 states why we return to the proposed condition. Paul is neither an exact counterexample to Mark nor a test of whether only mild wrongdoing can change. The ignorance/knowing-rejection distinction remains visible, and persecution carries the moral weight rather than Pharisaic identity.
 
-**Substantive correction:** present refusal does not establish permanent refusal, but neither does personal change settle enduring liability. A lasting consequence can be attributed to a changing person. State this fully once and use it later.
+**One connected inference:** present refusal does not prove permanent refusal; change does not automatically prove pardon. A changing person may bear a lasting consequence. State this in the Paul discussion and use it later rather than repeatedly restarting it.
 
-**Paul:** persecution, not Pharisaic identity, carries the moral weight. Keep his own letters, Acts, and 1 Timothy distinct. The ignorance/knowing-rejection objection is the serious objection, not a claim that only mild wrongdoing can be forgiven.
+**Historical paragraph:** Christian responsibility during the Holocaust tests interpretive conduct, not the correctness of the proposed exegesis. Preserve inherited anti-Judaism, other causes, differing responses, and the dignity of those harmed. Nostra aetate shows that authoritative teaching can correct harmful interpretations.
 
-**Historical paragraph:** Christian responsibility in the Holocaust tests interpretive conduct; it does not prove the proposed exegesis. Preserve specific responsibility, other causes, and the dignity of those harmed. Nostra aetate shows that doctrine can correct interpretation as well as harden it.
-
-**Status:** major reallocation drafted, retaining substantial v1 language. Read for balance: this must not again absorb most of the essay.
+**Status:** language polished, substantial earlier wording retained. Do not rebuild the full parallel-text survey; the reserve passages remain in v1 and the dossiers.
 
 ## 5. Receiving a teaching without fixing the person
 
-**Purpose:** keep the humanity of transmission and the practical contribution of nondual inquiry together.
+**Purpose:** show how the human transmission of a saying connects to our use of descriptions of people, then give nondual attention a concrete role.
 
-**Retained/moved:** Matthew/Luke comparison; speech, memory, and human interpretation; Dei verbum; Jesus’s humanity; logic and the adequacy of descriptions; accountability without total identification; the koan-like involvement of the reader; John’s lived truth.
+**Retained:** Matthew/Luke comparison; Dei verbum; Jesus’s humanity; logic and the adequacy of descriptions; continuity with accountability; the Third Training’s challenge to severe speech; koan-like involvement; John’s lived truth.
 
-**Focused Buddhist contribution:** the historical and ultimate dimensions do not divide responsibility into a lower realm that can be dismissed. A changing person remains answerable. The Third Training now questions the favored compassionate reading: when does warning name danger, and when does it impose a view through authority or threat?
+**New connecting paragraph:** a warning addressed within an encounter can later become a supposedly exhaustive description of the person. This provides the transition from transmission to nondual attention instead of beginning a second philosophical essay.
 
-**Kept in reserve:** fuller three-times exposition, John 17, and additional interreligious parallels. They remain valuable material; include only where they perform a necessary argumentative task. No apology for using Buddhist teaching is needed.
+**Focused expansion:** the fuller TNH excerpt rejects both absolute sameness and complete separation. One paragraph from Sister Annabel Laity’s account of the three times connects regret, present conduct, and continuation. It does not reinterpret aiōn, erase past harm, or demonstrate that every consequence ends.
 
-**Status:** substantial carried-forward paragraphs and new reciprocal ethical test. Further work should improve the transition from human transmission to nondual attention, not expand into a separate survey of Buddhist philosophy.
+**Reciprocal inquiry:** the Third Training asks whether severe speech names danger or pressures assent. A claimed compassionate purpose cannot exempt a teacher from examination. Mark’s warning also tests an assumption that all caring speech must reassure.
+
+**Status:** transition developed and the three-times paragraph restored for a specific purpose. John 17 and additional interreligious parallels remain in reserve. A fuller exposition of the two truths would require more source work and need not be added to this essay.
 
 ## 6. The warning before us
 
 **Purpose:** conclude with the preferred hearing, its unresolved limit, and one practical question.
 
-**Retained:** the reality of severity, humanity as a medium of encounter, accountability, and the reader’s willingness to be questioned.
+**Retained:** severity; continued address; human encounter; accountability; the reader’s willingness to be questioned.
 
-**Changed:** a shorter conclusion states what the inquiry has begun to hear rather than repeatedly granting permission to ask questions. The remaining question is not a test of whether dissenters are sufficiently open.
+**Refined:** the closing now returns directly to the encounter rather than summarizing every methodological safeguard. It keeps the finality question in one paragraph and ends with the responsibility of listening differently.
 
-**Status:** provisional closing drafted; revise last after §§3–5 stabilize.
+**Status:** polished provisional close. Revise last when the middle has settled; avoid adding a new Christological argument here.
 
-## What this pass adopts and what it defers
+## Revision record
 
-| Review guidance | Initial v2 action |
+| Stage | Contribution |
 |---|---|
-| Center compassionate warning while keeping humanity of encounter/transmission | Adopted as the question organizing six movements. |
-| Preserve recent author changes | Source baseline is latest v1, not the review’s earlier baseline; source text left unchanged. |
-| Put scene before apparatus | Adopted; Greek moves to §3. |
-| Complete bounded lexical/reception work | Started as an honest limited discussion; broader historical work remains queued. |
-| Give finality and Mark 4 a serious hearing | Included in §3, not relegated to notes. |
-| Distinguish personal change from lasting consequence | Explicit in §4 and used in §5. |
-| Give Paul a proportionate role | Integrated into rigidity; no “central argument” label or mild-wrongdoing straw opponent. |
-| Retain substantive Buddhism and make it reciprocal | First/Second Trainings retained; Third Training tests compassionate severity. |
-| Reduce catalogue and conclusion | Reallocated existing material; reserve passages remain in v1/sources. |
-| Quote sources rather than merely name them | Short excerpts added from Christian interpreters, Vatican texts, museum history, and Plum Village sources. |
-| Synchronize project guidance | AGENTS, README, active-v2 outline, and next steps updated. No new review-management layer. |
+| Initial v2 at `178a320` | Six-section reallocation; scene before apparatus; compassionate-warning emphasis; short quotations across sources; v1 preserved. |
+| Aaron’s `d6e1bf6` | New shared-humanity subtitle; direct opening language; requests for the accusation’s context, clearer treatment of present speech, and a gradual introduction of rigidity. |
+| Current flow-and-evidence pass | Addresses those requests; connects reception through repentance and finality; adds bounded lexical examples; improves transitions; restores one purposeful three-times paragraph. |
 
-## Excerpt checks and editorial controls
+## Checks and unfinished research
 
-Selected primary English passages rechecked during this pass: Chrysostom *Homily 41* §§1,5; Augustine *Sermon 71* §21; Aquinas II–II q.14 aa.1,3; Calvin on Matthew 12:31–32; MacDonald *It Shall Not Be Forgiven*; Catechism §1864; Dei verbum §19; Nostra aetate §4; the First–Third Trainings; the 2006 TNH interview; and *Bat Nha: a Koan*. The cited source dossiers remain the bibliography. Patristic English excerpts are translations, not newly checked Greek or Latin originals.
+The relevant English passages were rechecked in the existing editions for Chrysostom, Augustine, Aquinas, Calvin, MacDonald, the Catechism, and Dei verbum. Mark 3’s accusation was checked against NIV and its narrative context against the USCCB-hosted text. The new lexical comparisons have their own access record in L-08. TNH’s interview, the First–Third Trainings, and Sister Annabel’s three-times discussion were rechecked before the expanded comparison.
 
-**NIV correction:** v1 labeled “unclean spirit” as NIV at Mark 3:30. The current NIV reads “impure spirit.” V2 uses the named edition accurately and retains “unclean” only in the identified study rendering. V1 is deliberately unchanged. [NIV 3:22–30](https://www.biblegateway.com/passage/?search=Mark+3%3A22-30&version=NIV).
+This is not a collation of original Greek/Latin patristic texts, a manuscript apparatus, or a complete historical-semantic study. Existing source IDs remain stable; retained citations are not claims that every source has been freshly reviewed in full.
 
-**Outstanding controls:** severe speech is not justified by claimed loving intention; a contrary reading may be principled rather than dogmatic; doubt, disability, trauma, and protective boundaries must not become diagnoses of blasphemy; present conduct still matters in a preventive reading; transformed perception does not establish pardon or restored relationship. These govern further polishing alongside the [claim audit](../notes/claim-audit.md).
+**NIV detail:** Mark 3:30 reads “impure spirit”; “unclean” remains only in the labeled study rendering. The NIV main text of Luke 11:4 renders its second clause with sin-language; its Greek-text footnote supplies the indebtedness comparison. Keep quotations and paraphrases distinct.
 
-**Version discipline:** edit v2 going forward unless Aaron explicitly asks to revise v1. Preserve the existing review and archives. Use Git history for ordinary v2 iterations; do not create v2-final, v2-new, or additional competing drafts.
+**Outstanding controls:** severe speech is not justified by loving intent; principled disagreement is not dogmatism; trauma, disability, doubt, and protective boundaries are not diagnoses of blasphemy; present conduct matters in a preventive reading; transformation does not establish forgiveness or restored relationship. See the [claim audit](../notes/claim-audit.md).
+
+**Version discipline:** continue in v2. Preserve v1, its outline, the dated review, and all archives. Use Git history for routine revisions rather than creating competing draft files.
