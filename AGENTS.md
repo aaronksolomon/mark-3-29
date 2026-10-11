@@ -12,9 +12,23 @@ Use clear, connected paragraphs with an unhurried but direct rhythm. “Look dee
 
 Distinguish strong conviction from dogmatism. Name harm and responsibility plainly without making a person or tradition the embodiment of blindness. Do not flatten anger, severity, compassion, and fallibility into mutually exclusive categories.
 
-The current v2 emphasis is compassionate warning within a human encounter. Develop this as a qualified preferred hearing, not only an endlessly deferred question. Distinguish what the saying asserts, what speaking it may seek to accomplish, and what ultimately happens to its hearers. Compassionate purpose does not prove reversibility or excuse intimidation. Claims about Jesus’s historical intention remain proportionate to their evidence. A principled contrary reading must not be diagnosed as dogmatism.
+The current v2 emphasis is provocative, possibly compassionate warning within a human encounter. Develop this as a qualified preferred hearing, not only an endlessly deferred question. Distinguish what the saying asserts, what speaking it may seek to accomplish, and what ultimately happens to its hearers. Compassionate purpose does not prove reversibility or excuse intimidation. Claims about Jesus’s historical intention remain proportionate to their evidence. A principled contrary reading must not be diagnosed as dogmatism.
 
 Polish locally before rewriting whole sections, unless Aaron explicitly requests a major revision. V2 is such a revision: move and connect strong v1 paragraphs before replacing them. Keep author edits unless accuracy, grammar, or coherence requires a change; make material conceptual changes visible in the handoff. Complete bracketed author requests. Prefer one clear qualification at the point of inference to repeated defensive disclaimers. Keep detailed counterarguments and research status in source notes and the claim audit; retain the hardest evidence in the reader-facing argument as well.
+
+### Narrative and contemplative direction — Aaron’s `b6998b0` and subsequent request
+
+Let the human scene lead. Establish the flow of Mark before abstract categories: God’s reign, healing, disputed forgiveness, encounters around meals and Sabbath, and the accusation about Jesus’s power. The promise of forgiveness may intensify the warning rhetorically; do not assert that it has no substantive meaning of its own. Rising urgency is a reading of the recorded sequence, not permission to invent an unrecorded refusal between Jesus’s argument and warning.
+
+Prefer “clinging to certainty” or “attachment to a view” for the general habit previously called rigidity; use dogmatism for its doctrinal form. Biblical hardening language remains a specific comparison. Do not use fanaticism as a loose synonym for conviction or disagreement. Describe what people are doing before naming their condition.
+
+Parable and koan-like inquiry should shape the reader’s encounter rather than arrive only as late comparisons. A difficult saying may question the one interpreting it; this is not a waiver of historical study or coherent reasoning. Keep the Greek accessible, but allow extended apparatus in an expandable study note or a clearly linked source note so it does not interrupt every narrative movement. Preserve the required translation distinctions there. Reduce repeated explanations of the same logical limit.
+
+Humanizing Jesus need not normalize away significance or divinity. Attend to growth, fatigue, prayer, anger, grief, relationships, and teaching in circumstances, with sources. Do not require the reader to accept moral error or a merely inspired-human Christology as the price of taking humanity seriously. Classical Christian teaching itself affirms genuine humanity; its fuller claims should be represented accurately rather than borrowed selectively.
+
+For “only begotten” / monogenēs, distinguish John’s claim about Jesus from the constructive image that each person is loved as if an only child. The latter is not a defensible literal translation or an established original meaning of John 3:16. The Buddhist mother-and-only-child simile concerns the cultivation of boundless care, not a statement about a creator God. These teachings may participate in a genuine comparison without being made to say the same thing. Keep this thread proportionate to the Mark inquiry. See `sources/humanity-and-provocative-teaching.md`.
+
+Introduce historical writers for readers who may not know them: John Chrysostom, Augustine of Hippo, Thomas Aquinas, John Calvin, George MacDonald, with a brief role when useful. Do not assume that surname-only references are self-explanatory. Linji comparisons require a checked text for specific quotations; a publisher’s description remains a description, not the ancient teacher’s speech.
 
 ### Inquiry across traditions
 

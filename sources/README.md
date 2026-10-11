@@ -1,6 +1,6 @@
 # Sources and research status
 
-**Initial source check: 2026-10-10.** These are working notes, not a completed literature review. The source files preserve useful quotations and questions without storing full third-party works.
+**Initial source check: 2026-10-10; targeted humanity/provocative-teaching additions: 2026-10-11.** These are working notes, not a completed literature review. The source files preserve useful quotations and questions without storing full third-party works.
 
 ## Topic map
 
@@ -11,6 +11,7 @@
 | [Interpretation history](interpretation-history.md) | Didache, Chrysostom, Augustine, Aquinas, Calvin, MacDonald, Catholic teaching | R-01 onward |
 | [Rigidity and discernment](rigidity-and-discernment.md) | Hardening, profession and care, antidotes, Christian responsibility during the Holocaust, interpretive controls | RD-00 onward |
 | [Nonattachment and nondual reading](nonattachment-and-nondual-reading.md) | Dogmatism, two truths, logic and description, koan-like inquiry, Gospel boundary-crossing and communion | ND-01–ND-08 |
+| [Humanity and provocative teaching](humanity-and-provocative-teaching.md) | Mark’s narrative arc, genuine humanity and divinity, unique Son/only-child comparison, boundless care, Linji acquisition lead | HT-01–HT-06 |
 | [Modern scholarship](modern-scholarship.md) | Checked articles/catalogs, methodological resources, historical harm | S-01 onward |
 | [Forgiveness and reconciliation](plum-village/forgiveness-and-reconciliation.md) | Beginning Anew, reconciliation teaching, books and recordings | PV-01–PV-03, PV-11 |
 | [Time and transformation](plum-village/time-and-transformation.md) | Interbeing of the three times; continuation and transformation | PV-04–PV-06 |
@@ -36,4 +37,6 @@ Links to online Bible displays are convenient access points, not substitutes for
 
 ## What has not been established
 
-No full historical semantic trajectory has yet been demonstrated. No reconstruction of Jesus’s precise utterance is adopted. No universalist or irreversible-hardening conclusion is treated as settled. The interbeing of time is a declared comparative resource, not an etymology of aiōn. Rigidity is an interpretive proposal, not a new translation of Mark 3:29. Nondual and koan-like readings concern how we may receive a teaching; they do not establish Buddhist influence on the evangelists or remove the need for coherent reasoning. See the [claim audit](../notes/claim-audit.md).
+No full historical semantic trajectory has yet been demonstrated. No reconstruction of Jesus’s precise utterance is adopted. No universalist or irreversible-hardening conclusion is treated as settled. The interbeing of time is a declared comparative resource, not an etymology of aiōn. Rigidity, now more often described as clinging to certainty, is an interpretive proposal, not a new translation of Mark 3:29. Nondual and koan-like readings concern how we may receive a teaching; they do not establish Buddhist influence on the evangelists or remove the need for coherent reasoning.
+
+The image of each person loved as if an only child is constructive theology, not a replacement translation of John’s monogenēs. The Linji book record is an acquisition lead; no specific saying from the book has been verified in the new pass. See [HT-03–HT-06](humanity-and-provocative-teaching.md#ht-03) and the [claim audit](../notes/claim-audit.md).
