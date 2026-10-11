@@ -1,6 +1,6 @@
 # Claim audit — do not silently inherit the conversation’s overstatements
 
-**Status:** initial audit, 2026-10-10. Earlier assistant answers supplied useful leads but were not uniformly reliable. This file governs promotion from archive to active prose.
+**Status:** initial audit, 2026-10-10; expanded after Aaron’s revision `6801a0b` for dogmatism and nondual reading. Earlier assistant answers supplied useful leads but were not uniformly reliable. This file governs promotion from archive to active prose.
 
 | Claim or formulation | Assessment and required handling |
 |---|---|
@@ -31,6 +31,17 @@
 | “The three times inter-are” is verified here as an exact TNH quotation. | The direct verified passage is Sister Annabel Laity’s *The Three Dharma Seals*. She presents it as a Plum Village teaching. Keep attribution exact. [PV-04](../sources/plum-village/time-and-transformation.md#pv-04). |
 | A Plum Village talk description is a transcript quotation. | No. Editorial summaries and transcript excerpts must be identified separately. Record review status and verify audio before attributing exact words. |
 | “Grace makes consequences valuable” justifies past harm. | No. Learning from consequences does not make suffering necessary, desirable, deserved, or excusable. |
+| Rigidity or dogmatism is the lexical meaning of blasphemy. | No. These are working interpretive categories. Mark’s hardening language provides a comparison, not an equivalence. Do not identify every disagreement, uncertainty, or protective boundary as culpable refusal. |
+| The First Training rejects all doctrines or moral commitments. | It rejects attachment and dogmatism, including attachment to Buddhist teachings; the trainings themselves are commitments. Read the Second Training alongside it. [ND-01](../sources/nonattachment-and-nondual-reading.md#nd-01--openness-and-nonattachment-to-views). |
+| Modern logic requires permanent personal identities or prevents thinking about change. | Not established and not needed. Distinguish valid inference from true premises and adequate descriptions. A present condition does not imply its permanence without an added premise. [ND-08](../sources/nonattachment-and-nondual-reading.md#nd-08--logic-and-the-choice-of-a-description). |
+| Buddhist logic is one system that permits any contradiction. | Misleading. No such general account is established here. The essay uses TNH’s critique of fixed notions, not a surveyed rival calculus. “Not one, not two” need not be treated as a numerical contradiction. |
+| The two truths mean that Mark’s two clauses are both true in the same respect despite contradiction. | Not the proposal. Mark’s general statement plus exception need not be formally inconsistent. Do not simply assign one clause to conventional truth and the other to ultimate truth. These Buddhist teachings concern a way of seeing, not an automatic solution to syntax. |
+| Historical/ultimate dimensions and conventional/ultimate truth are identical terms in every Buddhist school. | No. Attribute the relationship to the specific TNH interview and Plum Village teaching. Do not make ordinary accountability a disposable “lower” truth. [ND-02–ND-03](../sources/nonattachment-and-nondual-reading.md#nd-02--historical-and-ultimate-neither-monism-nor-separation). |
+| Nondual insight erases responsibility or requires reconciliation. | No. Our application holds continuity and transformation together. A person remains answerable for past action without being reduced to it. Difference, consent, and boundaries remain ethically significant. |
+| The Samaritan is a generic member of a wholly unrelated religion. | In John 4, the woman identifies Jacob as an ancestor; the dispute involves an intertwined Israelite inheritance. Specify the boundary rather than flattening it. Luke’s mercy teaching begins with Jewish scriptural commandments. [ND-06](../sources/nonattachment-and-nondual-reading.md#nd-06--the-neighbor-and-worship-beyond-rival-locations). |
+| Mark 9 proves all religions or all claimed healings are equally true. | No. The exorcist works in Jesus’s name, though outside the disciples’ group. The episode challenges group control; it does not eliminate discernment. [ND-05](../sources/nonattachment-and-nondual-reading.md#nd-05--a-healing-outside-the-disciples-group). |
+| John 17 establishes Buddhist metaphysics or reports the historical Jesus’s interior experience directly. | No. Mutual indwelling invites comparison; Johannine communion has its own context and particular commitments. [ND-07](../sources/nonattachment-and-nondual-reading.md#nd-07--unity-without-erasing-relation). |
+| Mark 3:29 is historically a Zen koan. | No. A koan-like approach is a proposed practice of reading in which the reader is implicated. It does not replace historical or ethical inquiry. TNH’s imagined roles in *Bat Nha* are not separate witness transcripts. [ND-04](../sources/nonattachment-and-nondual-reading.md#nd-04--a-koan-involving-the-reader). |
 
 ## Substantive unresolved questions
 
@@ -41,5 +52,7 @@
 5. How do early Jewish sources hold pardon together with consequences? Avoid contrasting Jewish severity with Christian mercy.
 6. What survives of the proposed interpretation under the strongest irreversible-hardening reading?
 7. How can practice inform interpretation without making preference or one community’s experience self-validating?
+8. What can nondual reading disclose while preserving the distinction between a source’s claims and our constructive use of it?
+9. What would count against the essay’s account of rigidity, and how would we recognize that evidence?
 
-**Source status:** the lexical and selected reception passages have been checked in accessible online editions. Critical manuscript witnesses, primary patristic languages, and much of the historical semantic corpus remain to be studied. See [reading queue](../sources/to-find.md).
+**Source status:** the lexical and selected reception passages have been checked in accessible online editions. Critical manuscript witnesses, primary patristic languages, and much of the historical semantic corpus remain to be studied. See the [reading queue](../sources/to-find.md) and the focused leads in [nonattachment and nondual reading](../sources/nonattachment-and-nondual-reading.md#further-reading-kept-out-of-the-main-draft-for-now).
