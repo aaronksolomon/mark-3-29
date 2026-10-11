@@ -1,6 +1,6 @@
 # Nonattachment, nondual reading, and the limits of formulations
 
-**Scope:** a focused addition following Aaron’s revision `6801a0b`. Sources checked 2026-10-10. These notes support the dogmatism discussion, the human transmission section, and the time/practice section. They are not a survey of Buddhist logic or a claim that the Gospels secretly teach one Buddhist system.
+**Scope:** a focused addition following Aaron’s revision `6801a0b`, extended in the initial v2 pass to include the Third Training and the distinction between personal change and enduring liability. Sources checked 2026-10-10. These notes support the dogmatism discussion, the human transmission section, and the time/practice section. They are not a survey of Buddhist logic or a claim that the Gospels secretly teach one Buddhist system.
 
 **Working distinction:** rigidity protects a judgment from correction; dogmatism makes that protection a rule of belief, sometimes an institutional demand. These are the essay’s working definitions, not recovered Greek meanings. Christian and Buddhist sources participate in the inquiry directly. Attribution distinguishes what a source says from what we propose to learn through it.
 
@@ -9,11 +9,13 @@
 **Order of Interbeing / Plum Village, The Fourteen Mindfulness Trainings**, revision presented by Thích Nhất Hạnh in February 2012.
 
 - [Official text](https://plumvillage.org/mindfulness/the-14-mindfulness-trainings)
-- **Locators:** First Training, “Openness”; Second, “Non-Attachment to Views.”
-- **Status:** written text checked. Complements [PV-07](plum-village/living-teaching-and-humanity.md#pv-07), rather than replacing that record.
+- **Locators:** First Training, “Openness”; Second, “Non-Attachment to Views”; Third, “Freedom of Thought.”
+- **Status:** First–Third written trainings rechecked for v2. Complements [PV-07](plum-village/living-teaching-and-humanity.md#pv-07), rather than replacing that record.
 - **Brief quotation:** “transform dogmatism and violence in ourselves and the world.”
 
 The First Training includes Buddhist doctrines within its warning against attachment; the Second connects revisability with listening and lived inquiry. Use these as practices that also question our preferred Buddhist or Christian interpretation, not as proof that either community is free of dogmatism. The trainings are commitments, not descriptions of all practitioners’ actual behavior.
+
+The Third opposes compelling assent through authority or threat and affirms compassionate dialogue. V2 brings this into conversation with its preferred hearing of Mark: a warning may truthfully name a danger, but claimed loving intention does not establish that its use respects the hearer or serves their good. The comparison tests the essay’s preferred interpretation rather than merely confirming it. It does not equate every unwelcome warning with coercion.
 
 ## ND-02 — Historical and ultimate; neither monism nor separation
 
@@ -21,7 +23,7 @@ The First Training includes Buddhist doctrines within its warning against attach
 
 - [Interview text](https://plumvillage.org/about/thich-nhat-hanh/interviews-with-thich-nhat-hanh/shambhala-sun-march-2006-exclusive-interview)
 - **Locators:** questions beginning “I very much like the way you describe…” and “Some people I have spoken to seem to interpret…”; the following discussion of the Buddha’s humanity.
-- **Status:** relevant interview passages checked, not an audio transcription independently verified here.
+- **Status:** relevant interview passages rechecked for v2, not an audio transcription independently verified here.
 - **Brief quotation:** “interbeing does not mean that everything is one or that everything is different.”
 
 The wave/water example relates historical and ultimate dimensions without separating them into two worlds. TNH also rejects making interbeing into an assertion that everything is simply one. This supports examination of how descriptions are held; it does not establish a universal Buddhist formal logic. The essay’s application to responsibility after transformation is its own argument.
@@ -45,7 +47,7 @@ The article identifies the three times and specifies that “truths” includes 
 
 - [Letter](https://plumvillage.org/about/thich-nhat-hanh/letters/bat-nha-a-koan)
 - **Locators:** opening explanation of koan practice; paragraphs beginning “A koan cannot…” and “If you think Bat Nha…”; the subsequent imagined first-person viewpoints.
-- **Status:** relevant written passages checked. The first-person roles are TNH’s literary devices, not separately verified witness statements.
+- **Status:** relevant written passages rechecked for v2. The first-person roles are TNH’s literary devices, not separately verified witness statements.
 - **Brief quotation:** “Bat Nha truly becomes a koan only when you understand it as your own problem”.
 
 The letter makes a crisis involving persecution an inquiry in which the practitioner is implicated, rather than an external puzzle. It distinguishes contemplative realization from intellectual resolution. Our proposed koan-like reading of Mark concerns this involvement of the reader, not historical identity between Gospel parables and Zen koans. Do not suggest that staying indefinitely distressed is itself the goal, or use the analogy to silence factual or ethical scrutiny.
@@ -104,6 +106,8 @@ Separate four questions: is an inference valid; are its premises true; is its de
 
 For example, let `R(p,t)` mean that a person repudiates mercy at a time, and `A(p,t)` that the person receives it. Even if we propose `R(p,t) -> not A(p,t)`, this does not entail `R(p,t')` or `not A(p,t')` for every later time `t'`. Conversely, ceasing to satisfy `R` does not, by this implication alone, guarantee `A`. Both stronger conclusions need additional premises. This illustrates how reasoning can expose an unwarranted inference; it does not prove that Mark intends a merely temporary condition. His temporal language is exactly what the interpretation must still examine.
 
+**V2 clarification:** enduring liability is another possibility, not equivalent to permanent refusal. A changing person can still be held answerable for a past act. Non-totalizing identity therefore does not refute a judicial reading or establish forgiveness. This is why v2 distinguishes a disposition, its possible transformation, and whatever consequence is being asserted.
+
 Do not attribute permanence, exclusive social categories, or all dogmatism to modern logic. Do not describe Buddhist logic as one agreed calculus that simply permits contradictions. The focused question is whether a selected formulation is being treated as an exhaustive account of reality. “Not one, not two” need not become a numerical claim or a waiver of consistency.
 
 ## Further reading, kept out of the main draft for now
@@ -112,4 +116,4 @@ Do not attribute permanence, exclusive social categories, or all dogmatism to mo
 - **Thích Nhất Hạnh, Đông Phương Luận Lý Học / Oriental Logic.** The [official extended biography](https://plumvillage.org/about/thich-nhat-hanh/biography/thich-nhat-hanh-full-biography) identifies this early work. Bibliographic lead only; locate the original and a reliable translation before describing its argument. No treatment is required for this essay’s present scope.
 - **Thích Nhất Hạnh’s explanation of the 2014 Heart Sutra retranslation.** [Official landing-page lead](https://plumvillage.org/about/thich-nhat-hanh/letters/thich-nhat-hanh-new-heart-sutra-translation). Search metadata located, but the page did not load reliably in this pass; the commentary was not examined. Potentially useful for the humanity and revisability of transmission, not yet evidence for a manuscript-history claim.
 
-**Editorial boundary:** develop the relationship to Mark, not a separate treatise on Buddhist philosophy. Keep the strongest counterevidence visible: Mark’s temporal idiom, Matthew’s two-age formulation, the possibility of a judicial reading, and the particular commitments of each Gospel.
+**Editorial boundary:** develop the relationship to Mark, not a separate treatise on Buddhist philosophy. Keep the strongest counterevidence visible: Mark’s temporal idiom, Matthew’s two-age formulation, the possibility of a judicial reading, and the particular commitments of each Gospel. Let the comparative sources question the essay’s preferred interpretation as well as support it.
