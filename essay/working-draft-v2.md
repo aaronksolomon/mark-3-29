@@ -5,13 +5,13 @@
 >
 > — Mark 3:28–29, New International Version (2011). [RD-00](../sources/rigidity-and-discernment.md#rd-00--niv-opening)
 
-<!-- V2, Semitic-witness and temporal-perspective addition, 2026-10-12, based on c9f2183250fb5525756f271529863d94ef0db18c. The existing narrative, six sections, and print-visible Greek are retained. Compact additions concern the Syriac witness, age-language, and time as lived through memory, expectation, and practice. Hebrew experiments and fuller research remain in the two new source dossiers. V1, its outline, the review, and archives are unchanged. -->
+<!-- V2, focused compassionate-wake-up-call pass, 2026-10-12, based on d9f330c63e082c5ae11f316964182c5dfbe9f8dc. Local changes to the opening, the reversal of judgment in the encounter, and the conclusion give the sharp address the leading role. The linguistic, Semitic, temporal, historical, and comparative studies remain unchanged, as do the six-section structure and NIV opening. V1, its outline, the review, and archives are unchanged. -->
 
 ## 1. Hearing the warning
 
 In one movement, this saying opens forgiveness across the range of human sin and slander, then names a stark exception. Read as two detached statements, the words seem to pull us in opposite directions. Heard within an encounter, they may do something more: the breadth of the first makes the warning that follows all the more startling. Against the possibility of forgiveness for so much, Jesus places the gravity of what his hearers are saying. The contrast may be part of the force with which he is trying to reach them. [B-02](../sources/biblical-texts.md#b-02)
 
-Compassion gives this possibility its center: the concern to heal, restore, and bring people into a different relationship with one another and with God. A provocative warning can confront people with what their judgment has prevented them from seeing. Its severity may belong to an effort to reach them, rather than an abandonment of concern. This does not require a human teacher to be untouched by anger or conflict. Nor does compassion alone settle what an “eternal sin” means. What the words say and what their saying might awaken in another person belong to the same difficult encounter.
+The warning can be heard as a sharp act of compassion, an effort to awaken people whose certainty has closed off listening. Jesus uses the language of judgment to confront the judgment being made about his work. The danger is not an abstract error about holiness: the Spirit through whom healing and forgiveness come is being treated as an enemy. The severity draws attention to what that rejection means. A concern to heal and restore need not always sound reassuring; here it may take the form of an urgent call to hear what one is saying.
 
 We bring our own histories to these words. Forgiveness may suggest pardon, release, or reconciliation; judgment may suggest moral discernment or condemnation. Jesus and those who heard him also spoke within a world of inherited meanings, loyalties, and disputes. A saying addressed to particular people carries that setting with it, even when it reaches far beyond the occasion. What happens when a specific expression in a lived moment becomes a judgment we pronounce about someone, or a group?
 
@@ -47,7 +47,7 @@ Then the address becomes sharper. Jesus speaks of the breadth of forgiveness and
 
 Seen in this light, the opening promise of forgiveness is not merely a reassuring statement that the next sentence interrupts; it serves to heighten the warning. The movement from familiar images to words of such severity can be heard as an urgent attempt to awaken the hearers. Mark records no reply between the argument and the warning. The rising intensity belongs to one continuing address, not a separately recorded failure of persuasion. [HT-01](../sources/humanity-and-provocative-teaching.md#ht-01)
 
-There is a further reversal across these chapters. Earlier, Jesus is accused of blasphemy because he forgives. Now he warns of blasphemy in the judgment directed against his work. Could this be an attempt—using a vocabulary his hearers take very seriously—to disturb their confidence in how they apply it? The judgment that Jesus’s work is evil is itself brought under judgment. Mark does not say that these teachers had previously declared someone eternally unforgivable; the force of the reversal does not depend on such an unrecorded declaration.
+There is a further reversal across these chapters. Earlier, Jesus is accused of blasphemy because he forgives. Now the language of judgment turns back upon the judgment directed against his work. Jesus and the healing he offers are being denounced as instruments of evil. His response can be heard as a compassionate wake-up call, using words his hearers take seriously to make them hear the seriousness of their own words. To oppose the Spirit of holiness is to turn against the very source of healing and forgiveness. So understood, the warning does more than classify a wrong: it confronts the rejection of what could bring release. [B-02](../sources/biblical-texts.md#b-02), [R-02](../sources/interpretation-history.md#r-02)
 
 ### A saying that unsettles its hearers
 
@@ -225,7 +225,7 @@ John also speaks of “whoever lives by the truth” coming into the light (3:21
 
 ## 6. The warning before us
 
-Returning to Mark 3, the saying can be heard as part of an encounter rather than an isolated rule. The promise of forgiveness and its breadth give the warning its startling force. Jesus speaks to people who have called the work of liberation evil, and the language of judgment confronts their own judgment. Heard as a provocative act of teaching, the saying asks what they—and also we—have become unable to receive.
+Returning to Mark 3, the saying can be heard as a sharp, compassionate wake-up call. The promise of forgiveness and its breadth give the warning its startling force. Jesus speaks to people who have called the work of liberation evil, and the language of judgment confronts their own judgment. The warning brings the danger into the present encounter: while healing is treated as an enemy, it cannot be welcomed as healing. Its force lies in calling people to recognize what they are turning away from.
 
 The meaning of “eternal sin” remains challenging. The Greek is emphatic, other Gospel passages sustain its severity, and interpreters have not reached one answer. A compassionate purpose does not settle those differences. Yet uncertainty about a final outcome need not suspend the work of seeing, repentance, and responsibility. When understanding changes, the suffering already caused still calls for acknowledgment and whatever repair is possible; a new beginning is not an erased past.
 
