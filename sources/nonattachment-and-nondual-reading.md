@@ -1,21 +1,23 @@
 # Nonattachment, nondual reading, and the limits of formulations
 
-**Scope:** a focused addition following Aaron’s revision `6801a0b`, extended in the initial v2 pass to include the Third Training and the distinction between personal change and enduring liability. Sources checked 2026-10-10. These notes support the dogmatism discussion, the human transmission section, and the time/practice section. They are not a survey of Buddhist logic or a claim that the Gospels secretly teach one Buddhist system.
+**Scope:** a focused addition following Aaron’s revision `6801a0b`, extended in v2 for the Third Training and the distinction between personal change and enduring responsibility. Initial sources checked 2026-10-10; ND-01’s full Third Training and the new ND-09 were checked on 2026-10-11 in response to `8dd280b`. These notes support dogmatism, human transmission, and lived practice. They are not a survey of Buddhist logic or a claim that the Gospels secretly teach one Buddhist system.
 
-**Working distinction:** rigidity protects a judgment from correction; dogmatism makes that protection a rule of belief, sometimes an institutional demand. These are the essay’s working definitions, not recovered Greek meanings. Christian and Buddhist sources participate in the inquiry directly. Attribution distinguishes what a source says from what we propose to learn through it.
+**Working distinction:** clinging to certainty protects a judgment from correction; dogmatism gives that protection doctrinal or institutional form. These are working descriptions, not recovered Greek meanings. Christian and Buddhist sources participate directly. Attribution distinguishes what a source says from what the essay proposes to learn through it.
 
 ## ND-01 — Openness and nonattachment to views
 
-**Order of Interbeing / Plum Village, The Fourteen Mindfulness Trainings**, revision presented by Thích Nhất Hạnh in February 2012.
+**Order of Interbeing / Plum Village, The Fourteen Mindfulness Trainings**, revision presented by Thích Nhất Hạnh in February 2012, as displayed on the official page.
 
 - [Official text](https://plumvillage.org/mindfulness/the-14-mindfulness-trainings)
-- **Locators:** First Training, “Openness”; Second, “Non-Attachment to Views”; Third, “Freedom of Thought.”
-- **Status:** First–Third written trainings rechecked for v2. Complements [PV-07](plum-village/living-teaching-and-humanity.md#pv-07), rather than replacing that record.
+- **Locators:** introductory history; First Training, “Openness”; Second, “Non-Attachment to Views”; Third, “Freedom of Thought.”
+- **Status:** First–Third written trainings and introductory attribution rechecked on 2026-10-11. Complements [PV-07](plum-village/living-teaching-and-humanity.md#pv-07), rather than replacing that record.
 - **Brief quotation:** “transform dogmatism and violence in ourselves and the world.”
 
-The First Training includes Buddhist doctrines within its warning against attachment; the Second connects revisability with listening and lived inquiry. Use these as practices that also question our preferred Buddhist or Christian interpretation, not as proof that either community is free of dogmatism. The trainings are commitments, not descriptions of all practitioners’ actual behavior.
+The First includes Buddhist doctrines within its warning against attachment. The Second joins continued inquiry with listening and practice. These commitments also question preferred Buddhist or Christian interpretations; they are not descriptions of every practitioner’s conduct. The page attributes the trainings and the Order’s beginnings to Thích Nhất Hạnh in 1966.
 
-The Third opposes compelling assent through authority or threat and affirms compassionate dialogue. V2 brings this into conversation with its preferred hearing of Mark: a warning may truthfully name a danger, but claimed loving intention does not establish that its use respects the hearer or serves their good. The comparison tests the essay’s preferred interpretation rather than merely confirming it. It does not equate every unwelcome warning with coercion.
+**The Third Training in full context:** it rejects forced belief and affirms freedom to differ, then commits practitioners to helping transform fanaticism and narrowness through compassionate dialogue. V2 now quotes its positive commitment as well as its prohibition. See the draft for those brief excerpts rather than duplicating them here.
+
+**Editorial use:** do not oppose authentic warning and compassion. A true warning can be urgent and unwelcome. The relevant distinction is between communicating danger for another’s benefit and using a claimed danger to compel assent. Claimed loving intent does not authenticate a warning; nor does discomfort discredit it. This is the essay’s ethical application, not a declaration that the training settles Jesus’s historical intention. [ND-09](#nd-09--truthful-beneficial-and-timely-speech) supplies a closely related primary discourse.
 
 ## ND-02 — Historical and ultimate; neither monism nor separation
 
@@ -106,14 +108,27 @@ Separate four questions: is an inference valid; are its premises true; is its de
 
 For example, let `R(p,t)` mean that a person repudiates mercy at a time, and `A(p,t)` that the person receives it. Even if we propose `R(p,t) -> not A(p,t)`, this does not entail `R(p,t')` or `not A(p,t')` for every later time `t'`. Conversely, ceasing to satisfy `R` does not, by this implication alone, guarantee `A`. Both stronger conclusions need additional premises. This illustrates how reasoning can expose an unwarranted inference; it does not prove that Mark intends a merely temporary condition. His temporal language is exactly what the interpretation must still examine.
 
-**V2 clarification:** enduring liability is another possibility, not equivalent to permanent refusal. A changing person can still be held answerable for a past act. Non-totalizing identity therefore does not refute a judicial reading or establish forgiveness. This is why v2 distinguishes a disposition, its possible transformation, and whatever consequence is being asserted.
+**V2 clarification:** enduring responsibility is another possibility, not equivalent to permanent refusal. A changing person can still be held answerable for a past act. Non-totalizing identity therefore does not refute a judicial reading or establish forgiveness. This is why v2 distinguishes a disposition, its possible transformation, and whatever consequence is being asserted. “Liability” remains a legitimate scholarly gloss; “being held answerable” is often clearer in the essay.
 
 Do not attribute permanence, exclusive social categories, or all dogmatism to modern logic. Do not describe Buddhist logic as one agreed calculus that simply permits contradictions. The focused question is whether a selected formulation is being treated as an exhaustive account of reality. “Not one, not two” need not become a numerical claim or a waiver of consistency.
+
+## ND-09 — Truthful, beneficial, and timely speech
+
+**Majjhima Nikāya 58, Abhaya Sutta: To Prince Abhaya**, translated by Ṭhānissaro Bhikkhu (1997), Access to Insight edition revised 30 November 2013.
+
+- [Primary translation](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html)
+- **Locator:** the sixfold discussion of speech, especially item 3, after the child-with-an-object-in-its-mouth comparison.
+- **Status:** full displayed discourse and translator’s introduction read on 2026-10-11. Pali not independently collated. The site links a newer version; the draft deliberately cites this identified edition.
+- **Brief excerpt:** “has a sense of the proper time”. The draft quotes the adjacent description of true, beneficial but unwelcome speech.
+
+**Context:** the prince’s question arises from a reported judgment concerning Devadatta, including hell, an eon, and incurability. The text does not simply dissolve severe judgment into reassurance. Its criterion for speech includes truth, benefit, timing, and concern for beings.
+
+**Use and limit:** supports the distinction between unpleasant and harmful speech. It does not establish Jesus’s intention or justify any modern teacher’s claimed insight. This is an early Buddhist canonical comparison, not a teaching attributed to Thích Nhất Hạnh. The translator’s introduction and later-commentary explanation remain distinct from the discourse.
 
 ## Further reading, kept out of the main draft for now
 
 - **Thích Nhất Hạnh, The Heart of the Buddha’s Teaching, chapter 17, “The Two Truths.”** [Catalog record and contents](https://archive.org/details/heartofbuddhaste0000nhth). Contents checked; chapter and edition-specific pages still to obtain. Do not quote it as read.
 - **Thích Nhất Hạnh, Đông Phương Luận Lý Học / Oriental Logic.** The [official extended biography](https://plumvillage.org/about/thich-nhat-hanh/biography/thich-nhat-hanh-full-biography) identifies this early work. Bibliographic lead only; locate the original and a reliable translation before describing its argument. No treatment is required for this essay’s present scope.
-- **Thích Nhất Hạnh’s explanation of the 2014 Heart Sutra retranslation.** [Official landing-page lead](https://plumvillage.org/about/thich-nhat-hanh/letters/thich-nhat-hanh-new-heart-sutra-translation). Search metadata located, but the page did not load reliably in this pass; the commentary was not examined. Potentially useful for the humanity and revisability of transmission, not yet evidence for a manuscript-history claim.
+- **Thích Nhất Hạnh’s explanation of the 2014 Heart Sutra retranslation.** [Official landing-page lead](https://plumvillage.org/about/thich-nhat-hanh/letters/thich-nhat-hanh-new-heart-sutra-translation). Search metadata located, but the page did not load reliably in the initial pass; the commentary was not examined. Potentially useful for the humanity and revisability of transmission, not yet evidence for a manuscript-history claim.
 
-**Editorial boundary:** develop the relationship to Mark, not a separate treatise on Buddhist philosophy. Keep the strongest counterevidence visible: Mark’s temporal idiom, Matthew’s two-age formulation, the possibility of a judicial reading, and the particular commitments of each Gospel. Let the comparative sources question the essay’s preferred interpretation as well as support it.
+**Editorial boundary:** develop the relationship to Mark, not a separate treatise on Buddhist philosophy. Keep the strongest counterevidence visible: Mark’s temporal idiom, Matthew’s two-age formulation, the possibility of a judicial reading, and the particular commitments of each Gospel. Let the comparative sources question the preferred interpretation as well as support it.

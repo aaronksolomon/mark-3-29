@@ -1,127 +1,135 @@
 # Version 2 outline and revision map
 
-**Status:** narrative and contemplative pass, 2026-10-11, following Aaron’s edited draft and commentary at `b6998b05945838696186d8801f8c1143346e7ba2`. Six numbered sections correspond one-to-one to [working-draft-v2.md](working-draft-v2.md). This remains a working essay, not a completed publication draft.
+**Status:** author-feedback and print-visible-language pass following `8dd280bac71e3c9c78a151106b07a51223525894`. Six numbered sections correspond one-to-one to [working-draft-v2.md](working-draft-v2.md). This remains a working essay, not a completed publication draft.
 
-**Provenance:** v2 began at `178a320`, using v1 at `6370787`; Aaron revised it at `d6e1bf6`, the flow-and-evidence pass followed at `ac76d95`, and Aaron’s `b6998b0` supplied the current narrative and provocative-warning direction. [Working draft v1](working-draft.md), [outline v1](outline.md), the [substantive review](reviews/2026-10-10-working-draft-review.md), and archives remain unchanged. Earlier revision detail remains recoverable through Git history.
+**Provenance:** v2 began at `178a320`, using v1 at `6370787`; subsequent author edits and revision passes are preserved in Git history. The immediate baseline is Aaron’s `8dd280b`, following the narrative/contemplative pass `4b0ad27`. [Working draft v1](working-draft.md), [outline v1](outline.md), the [substantive review](reviews/2026-10-10-working-draft-review.md), and archives remain unchanged.
 
-**Working title:** *All Will Be Forgiven? Compassion, Warning, and our Shared Humanity*. Aaron’s subtitle is retained.
+**Working title:** *All Will Be Forgiven? Compassion, Warning, and our Shared Humanity*. Aaron’s title, subtitle, and full italicized NIV opening remain.
 
 ## Governing movement
 
-Hear the warning within Mark’s story and the lives it presents. Let parable, provocative address, and the reader’s involvement organize the inquiry. Linguistic study and reception history support that encounter rather than replace it. Humanizing Jesus need not diminish divinity; humanizing his hearers does not make the accusation harmless. The resulting attention includes disciples, Pharisees and other religious teachers, evangelists, later interpreters, and ourselves.
+Hear the warning within the Gospel’s narrative and the human lives it presents. The first clause’s breadth can heighten the exception’s force without ceasing to affirm forgiveness. Jesus’s address may seek to interrupt clinging to a judgment; neither that purpose nor the koan-like engagement settles the finality of the words.
 
-**Leading reading:** the breadth of forgiveness may heighten the warning’s force. Jesus’s words can be heard as a provocative effort to unsettle an entrenched judgment. This does not prove that the first clause is merely rhetorical, that the warning has no propositional content, or that its consequence must be temporary.
+Keep the humanity of Jesus, those questioning him, his disciples, the evangelists, and later interpreters visible without minimizing harmful actions or reducing divinity. Linguistic study, history, and lived insight belong together. The exposition should not repeatedly describe what the essay or its reader is about to do.
 
-**Preferred term:** *clinging to certainty*, with *dogmatism* for its doctrinal form. Retain biblical hardening language where it appears. Avoid replacing one diagnostic label with another: boundaries, principled dissent, and honest uncertainty are not spiritual failure.
+**Preferred language:** clinging to certainty or attachment to a view; dogmatism for the doctrinal form. Use concrete descriptions before abstractions. “Those making the accusation” and “those questioning Jesus” usually serve better than a standing category of opponents. This is not denial of conflict or attribution of motives.
 
 ## 1. Hearing the warning
 
-**Job:** retain the exact italicized NIV opening; introduce the two clauses as a movement within an address rather than two independent doctrinal theses.
+**Job:** make the tension and the human address present immediately.
 
-**Retained:** shared inquiry, severe wording, the question about a lived expression becoming a judgment about someone or a group.
+The opening retains Aaron’s rhetorical observation: a broad announcement makes the exception startling. The following paragraph now states what provocative warning may do without “this is the way of hearing we will explore.” Shared “we” concerns human experience, not a roadmap.
 
-**New emphasis:** a broad announcement of forgiveness can make the exception more startling. A compassionate purpose remains possible without deciding finality in advance.
-
-**Status:** revised continuous opening. No additional preliminary taxonomy is needed.
+**Status:** locally revised. Compassion and finality remain distinct without a preliminary catalogue of alternatives.
 
 ## 2. A teacher among people
 
-**Job:** establish Mark’s narrative arc and the human encounter before introducing the condition sustaining the accusation.
+**Job:** follow the narrative before naming the condition that may sustain the accusation.
 
-**Sequence:**
+The sequence remains Spirit and God’s reign; healing and prayer; disputed forgiveness, meals, and Sabbath; the pressures on family and community; the accusation from Jerusalem; Jesus’s summons, parables, and severe warning. The first clause intensifies the second within one recorded address. No unrecorded reply or failed intermediate exchange has been supplied.
 
-1. Mark 1: Spirit, God’s reign, healing, and prayer.
-2. Mark 2: forgiveness prompts a charge of blasphemy; meals, fasting, and Sabbath generate further disputes; Jesus responds with questions and images.
-3. Mark 3: Sabbath healing opens the chapter; anger and grief coexist; crowds and family place the teacher amid human pressures.
-4. Teachers from Jerusalem attribute exorcism to demonic power; Jesus summons them, uses parables, and delivers the warning.
-5. The language of judgment turns toward the act of judging; the promise of forgiveness can heighten that confrontation.
-6. The koan-like approach introduces the reader’s involvement, supported by TNH’s checked letter rather than an invented Linji quotation.
+**Revisions after `8dd280b`:**
 
-**Author commentary addressed:** the opening controversy is identified accurately; referents are explicit; the accusation is named as an accusation; the Holy/impure Spirit contrast is explained; rising urgency replaces repetitive preventive-condition cautions; the transition to dogmatism begins with an observable way of holding a judgment.
+- Family misunderstanding is described without a contrast between benevolent relatives and a fixed class of religious opponents.
+- “Jesus responds by calling them over” is retained and grammatically connected to the question.
+- The blasphemy reversal remains an observation across different scenes, not evidence that the same speakers had issued eternal condemnations.
+- Koan-like attention enters through the teaching itself rather than a statement about what a Zen-formed reader may notice.
+- John Chrysostom is identified by century and place: a late-fourth-century preacher in Antioch, Roman Syria. [HT-08](../sources/humanity-and-provocative-teaching.md#ht-08) records the biographical source separately from his homily.
 
-**Necessary limits:** no response is recorded between argument and warning, so do not narrate an unreported failed exchange. The scribes are not reported as having pronounced anyone eternally unforgivable. Mark 2 and Mark 3 are distinct scenes; do not imply identical speakers. Jesus uses a shared Jewish vocabulary, not an enlightened language outside an inferior Jewish world.
-
-**Sources:** [HT-01](../sources/humanity-and-provocative-teaching.md#ht-01), B-02, RD-01, R-02, ND-04.
+**Status:** continuous narrative retained and smoothed. No new reconstruction of Jesus’s private intentions.
 
 ## 3. What the words keep open—and what they do not
 
-**Job:** retain the linguistic constraints and historical range of interpretation without making the essay a glossary or a succession of logical distinctions.
+**Job:** let the complete wording support interpretation and lead naturally into the history of repentance and finality.
 
-**Presentation:** concise main paragraphs; complete Greek, romanization, literal gloss, and natural English retained in an expandable `<details>` study note. The full textual research remains in the source dossiers. The note is in the document, not deleted or represented as completed work elsewhere.
+### A. The words of the passage
 
-**Reception:** introduce John Chrysostom, Augustine of Hippo, Thomas Aquinas, John Calvin, the Catholic Catechism, and George MacDonald with enough identification for nonspecialists. Keep short excerpts and explain what changes in each reading. Do not isolate hopeful words from punitive and anti-Jewish context.
+No collapsible material. Each of Mark 3:28, 3:29, and 3:30 now appears in full Greek, romanization, literal English, and a short natural-English explanation. Brackets explain selected terms. “Literal English” replaces “gloss” in the essay. Long Greek is set in ordinary paragraphs rather than crowded table cells.
 
-**Hard evidence:** Matthew 12:32 and Mark 4:12 remain in the main text. Contemplative engagement does not demonstrate reversibility or make disagreement with this reading dogmatic.
+Two words previously quoted from 3:28 were only an excerpt. The full verse specifies sins and blasphemies; the following verse gives the exception. The complete 3:29 now includes whoever blasphemes against the Holy Spirit, not just its temporal clause. The force of “never” remains explicit once, without repeated disputes over discarded translations.
 
-**Status:** compressed and connected. A full semantic history, apparatus collation, and original-language patristic investigation remain research tasks, not newly completed findings.
+**Historical clarification:** the Gospel is generally understood to have been composed in Greek, but no original transcript of Jesus’s speech is claimed. The critical edition is named. [HT-07](../sources/humanity-and-provocative-teaching.md#ht-07) records the distinction and access limits.
+
+### B. Words in context
+
+The Lord’s Prayer is identified by name and location: Matthew 6:12’s debts and Luke 11:4’s sins and indebtedness, distinguishing the NIV main text from its footnote. Aphesis is specified as the noun in Mark 3:29, not generalized to every use of forgiveness in the Gospel. “Being answerable” replaces insurance-sounding liability in ordinary exposition without eliminating judgment.
+
+### C. Staying with the difficulty
+
+The reception discussion grows out of what faithful translation does and does not decide. Keep short excerpts from John Chrysostom, Augustine of Hippo, Thomas Aquinas, John Calvin, the Catechism, and George MacDonald. Each interpretation brings wider theological commitments; hopeful passages retain punitive or polemical contexts.
+
+### D. The severity remains
+
+Matthew 12:32 and Mark 4:12 remain substantial evidence for a finality reading. The prose now states plainly that compassion and a conviction of final loss can coexist. Aaron’s preferred paragraph—about our position in relation to the address changing without necessarily changing its truth—is retained.
+
+**Status:** the close-reading presentation is complete for the selected verses. This is not completion of the larger semantic history, manuscript apparatus, or Greek/Latin patristic research.
 
 ## 4. When certainty closes the heart
 
-**Job:** explain clinging to certainty through conduct, test it with the disciples and Paul, and turn the warning toward interpreters.
+**Job:** connect attachment to conduct, transformation, and the responsibility of religious interpretation.
 
-**Retained:** First and Second Mindfulness Trainings; hardening among the disciples; the outsider exorcist; persecution and changed seeing in Paul; the difference between mercy and automatic repair; religious profession and actual care; Christian historical responsibility and doctrinal correction.
+The new opening returns to the accusation: liberation is called evil and becomes something to resist. The definition of dogmatism follows from that action. The Order of Interbeing is identified as founded by Thích Nhất Hạnh. First/Second Trainings, the disciples’ hardening, and the outsider exorcist remain.
 
-**Changed:** rigidity is no longer the dominant abstraction. The central definition is keeping a conviction at the expense of finding out whether it is true. Dogmatism is its doctrinal form, not all conviction. Fanaticism is not introduced as a loose synonym.
+Paul’s persecution carries the comparison, not Pharisaic identity. His letter, Acts, and disputed 1 Timothy stay distinct. His transformation is not proof that he committed the exact sin of Mark, nor does a changed person cease to be answerable for past harm.
 
-**Paul:** still a canonical question, not an exact counterexample. Distinguish his letters, Acts, and disputed 1 Timothy; retain the ignorance qualification. Do not imply that the possibility of change removes consequences or guarantees forgiveness.
+Matthew’s profession/care passages retain short actual excerpts; the fragment at 25:40 is restored to a meaningful sentence. The Holocaust discussion remains specific to inherited Christian teaching, Nazi racial ideology, political power, and differing responses. Nostra aetate illustrates correction without erasing injury. The ending affirms honest disagreement without directly invoking agreement with this essay.
 
-**Historical responsibility:** preserve the Holocaust discussion and *Nostra aetate*, without treating Jewish suffering as a generic spiritual illustration or a proof of this exegesis.
-
-**Status:** revised for flow and proportionality; source detail stays in the existing dossiers.
+**Status:** opening and transitions revised, core retained. Fuller widow, Samaritan, and other comparisons remain in v1 and dossiers; no renewed survey added.
 
 ## 5. Humanity without distance from the divine
 
-**Job:** make Jesus’s humanity a positive center, then relate undivided care and nondual attention to the persons named by the warning.
+**Job:** develop humanity, care, accountable change, compassionate speech, and abiding as a connected movement.
 
-### A. Human life and transmission
+### A. Human teacher and transmission
 
-Retain Matthew/Luke, *Dei verbum*, and the human stream. Add Luke’s growth in wisdom and John’s fatigue. The Catechism’s human-mind/human-heart wording supplies an explicit Christian witness that genuine humanity is not the negation of divinity. Do not collapse classical incarnation into the claim that Jesus was only an inspired individual, or make moral error a prerequisite of humanity.
+Retain Matthew/Luke, Dei verbum, growth, fatigue, and the Catechism’s human mind and heart. Ordinary human speech and circumstance are not presented as a subtraction from divinity. “Exchange” replaces “controversy” where a technical genre term adds no value.
 
-### B. The only-child image
+### B. Only child and whole world
 
-Distinguish John’s unique Son from its language of becoming children of God. The Greek *monogenēs* does not mean every person is an only child. Offer “loved as if an only child” as an openly constructive image. The *Discourse on Love* extends a mother’s wholehearted care to all beings; Matthew 5:44–45 gives a Christian point of encounter through enemy-love and the Father’s provision.
-
-This develops Aaron’s desired inclusive intuition without describing it as the likely original translation. Keep the comparison compact; do not open a separate history of Trinitarian terminology.
+Retain unique sonship, becoming children of God, the mother/only-child simile, and enemy-love. Each person loved as if an only child remains a contemplative extension. The author’s suggestion about a possible source of John’s expression is not promoted to a historical origin claim. The revised paragraph connects instead to John 3:16’s love for the world.
 
 ### C. More than a description
 
-Retain “This is not a choice between logic and insight,” wave/water, continuity with accountability, and the three times. The point is not a formal proof against lasting judgment. It concerns whether condemnation or a claim to change makes us stop attending to a person and to those affected.
+Retain the distinction between truthful description and an exhaustive account; wave/water; the three times; and Sister Annabel Laity’s name, Sister True Virtue. Accountability continues through change. No claim that nonduality independently resolves final judgment.
 
-### D. A question that works on the reader
+### D. Compassion that is not merely reassurance
 
-Develop the koan-like stance as the practice of letting the warning question its interpreter. Retain the Third Training’s scrutiny of authority and threat, and John’s lived truth. Zen provocation is not an excuse for intimidation or a claim of successful teaching merely because a teacher intended it.
+Read the Third Training through both freedom of thought and its positive commitment to transforming fanaticism and narrowness through compassionate dialogue. An authentic warning about real danger may be urgent; discomfort is not the measure of coercion. Claiming benevolent intention still does not establish truth or benefit.
 
-**Sources:** new [HT-02–HT-05](../sources/humanity-and-provocative-teaching.md#ht-02), existing ND-01–ND-04, PV-04, R-09, B-11.
+One concise primary comparison is new: *Abhaya Sutta*, MN 58, concerning true, beneficial, timely but unwelcome speech. [ND-09](../sources/nonattachment-and-nondual-reading.md#nd-09--truthful-beneficial-and-timely-speech) retains the discourse’s own severe judgment setting, translation identity, and limits. The addition replaces the earlier simplistic warning-versus-pressure contrast; it does not create a new section on Buddhist ethics.
 
-**Status:** expanded. Next pass should assess proportion and whether the only-child comparison serves the Mark inquiry without introducing a competing essay.
+### E. Remaining in the teaching
+
+John 8:31–32 returns as a complete short NIV quotation. Abiding, knowing, and freedom connect the contemplative inquiry to practice and the coming conclusion. The context includes the Son’s release from sin. It is not a generic endorsement of subjective experience. John 3:21’s lived truth remains alongside it. Detailed Greek for John stays in [B-09](../sources/biblical-texts.md#b-09), following the policy of full apparatus only for Mark’s central passage.
+
+**Status:** critical transitions developed; no separate Christological or comparative-philosophy essay added.
 
 ## 6. The warning before us
 
-**Job:** return to the actual address, affirm the possibility of provocative care, leave finality genuinely unresolved, and end with one practical question.
+**Job:** return to the address, name the remaining uncertainty, and let abiding lead into conduct.
 
-**Retained:** consequences remain; open interpretation is not a moral exemption; Jesus’s humanity is a place of encounter rather than a subtraction from significance.
+The closing preserves Aaron’s stronger emphasis on human time, place, culture, relationships, and the danger of generous language becoming anemic in practice. The previously abrupt accountability sentence is connected to repentance, acknowledgment, and repair. The ending echoes the restored John passage without repeating it or explaining the essay’s method again.
 
-**Changed:** less recap of inferential safeguards, more attention to what the warning asks of us. No claim that a contemplative reading proves the verse temporary or that all theological outcomes are equally supported.
+## Decisions on this round of author feedback
 
-## Decisions on Aaron’s commentary
-
-| Input | Action |
+| Comment | Revision |
 |---|---|
-| Show Mark’s earlier arc | Developed chapters 1–3 with selective primary-text references. |
-| Hear the first clause intensifying the second | Adopted as a significant rhetorical reading; not asserted as its only meaning. |
-| Bring the provocative wake-up address forward | Developed the movement and its reversal of judgment language; no invented dialogue or unrecorded responses. |
-| Avoid repeated logic-splitting | Condensed main lexical prose; retained close apparatus in an expandable note and full dossiers. |
-| Find a better term than rigidity | Prefer clinging to certainty; define dogmatism; distinguish hardening and fanaticism. |
-| Introduce earlier writers for unfamiliar readers | Use John Chrysostom, Augustine of Hippo, Thomas Aquinas, John Calvin, and brief role descriptions. |
-| Humanize without detracting from divinity | Added direct biblical and Catholic witnesses; kept the inquiry open beyond one Christological formula. |
-| Only-begotten / only-child image | Developed as a theological and contemplative comparison, not the Greek’s likely original meaning. |
-| Mother protecting her only child | Verified TNH’s *Discourse on Love* translation; distinguished practice of boundless care from a creator-God assertion. |
-| Linji as interpretive model | Added verified book/catelog lead at HT-05; main koan discussion uses the already checked TNH letter. No invented Linji quotation. |
+| Avoid direct references to essay/reader | Removed roadmap language and repeated methodological announcements; retained shared human “we.” |
+| Prefer human descriptions to “opponents” | Used roles and actions, without claiming to know motives or denying conflict. |
+| Identify Chrysostom’s century/place | Added late-fourth-century Antioch and a sourced biographical note. |
+| No collapsible Greek; full verses | Removed details/summary; included all three verses, romanization, literal English, and concise interpretation. |
+| Clarify the Greek source | Distinguished Greek composition and manuscript transmission from a transcript of Jesus. |
+| Clarify the prayer and terms | Named Lord’s Prayer and verses; specified aphesis at 3:29; used answerability in prose. |
+| Improve language-to-reception transition | Recast as “Staying with the difficulty,” connecting interpretation to unanswered textual questions. |
+| Better entry to dogmatism | Began with the accusation’s treatment of liberation before defining attachment. |
+| Warning is not inherently coercion | Read both halves of Third Training; added a short, context-preserving MN 58 comparison. |
+| Restore John’s abiding/truth saying | Quoted John 8:31–32 near the close and let the conclusion use its movement. |
+| Clarify conclusion’s accountability | Joined uncertainty about finality to present repentance and repair. |
 
-## Remaining work and preservation
+## Verification, remaining work, and preservation
 
-New source checks concern Mark’s narrative, human life and incarnation, *monogenēs*, the *Discourse on Love*, and the Linji book record. The reception excerpts are carried forward from previously checked source notes; this pass does not claim new original-language collation. The longer acquisition program remains in [sources/to-find.md](../sources/to-find.md).
+New checks: complete displayed Greek at Mark 3:28–30 against B-02; SBL edition information; Greek-composition clarification; Chrysostom’s biographical setting; full Third Training and founding attribution; MN 58; the NIV prayers and John 8:31–36; the Discourse on Love image. Previously checked reception excerpts are retained, not represented as newly collated in Greek or Latin.
 
-Before circulation: competent Greek review; a reader who favors a finality interpretation; review of the Jewish/Christian historical framing; and author assessment of the only-child comparison. Full humanization need not depend on a new claim about John’s Greek.
+Before circulation: competent Greek review; a serious reading by someone who favors finality; review of Jewish/Christian historical framing; and Aaron’s judgment of the only-child comparison and balance of Buddhist material. The full historical-semantic research program remains in [sources/to-find.md](../sources/to-find.md).
 
-Continue editing v2. Preserve v1, its outline, the dated review, and archives. Aaron’s inline commentary at `b6998b0` remains available in Git history; it has been addressed in the prose rather than silently treated as verified historical evidence.
+Continue editing v2. Preserve v1, its outline, the dated review, and archives. Inline author comments at `8dd280b` remain recoverable in Git history. Routine changes do not require a new draft file or another review-management layer.
