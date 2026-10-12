@@ -1,6 +1,6 @@
 # Sources and research status
 
-**Initial source check: 2026-10-10; targeted additions: 2026-10-11.** These are working notes, not a completed literature review. Source files preserve useful quotations and questions without storing full third-party works. The latest additions concern complete Greek presentation, Chrysostom’s setting, and truthful but unwelcome speech.
+**Initial source check: 2026-10-10; targeted additions: 2026-10-11–12.** These are working notes, not a completed literature review. Source files preserve useful quotations and questions without storing full third-party works. The latest addition is a bounded study of Jewish contexts and cross-tradition inquiry, with explicit chronological and translation limits.
 
 ## Topic map
 
@@ -8,6 +8,7 @@
 |---|---|---|
 | [Biblical texts](biblical-texts.md) | Mark and Synoptic parallels; Paul; John; Greek study apparatus | B-01 onward |
 | [Greek and semantic history](greek-and-semantic-history.md) | Contextual meanings, idioms, grammar, variants, and limits of lexical argument | L-01 onward |
+| [Jewish contexts and cross-tradition inquiry](jewish-context-and-cross-tradition-inquiry.md) | Sabbath, mercy and warning, Ben Sira, Mishnah, Maimonides, contemporary reading, boundary-crossing, Mark 4, reserve parallels | JC-01–JC-11 |
 | [Interpretation history](interpretation-history.md) | Didache, Chrysostom, Augustine, Aquinas, Calvin, MacDonald, Catholic teaching | R-01 onward |
 | [Rigidity and discernment](rigidity-and-discernment.md) | Hardening, profession and care, antidotes, Christian responsibility during the Holocaust, interpretive controls | RD-00 onward |
 | [Nonattachment and nondual reading](nonattachment-and-nondual-reading.md) | Dogmatism, two truths, koan-like inquiry, Gospel parallels, and MN 58 on true and beneficial speech | ND-01–ND-09 |
@@ -33,10 +34,14 @@ Source notes separate what a text says from what the project proposes to infer. 
 
 Brief direct quotations identify their author and locator. English patristic quotations are translations, not the Greek or Latin originals. Biblical English supplied as a study rendering is our own unless an edition is named. In the active essay, the full Greek of Mark 3:28–30 is followed by romanization, literal English with brief clarifications, and natural English alternatives. It is visible in ordinary Markdown suitable for print. More detailed word-by-word notes remain in the dossiers. A mechanical literal rendering is not automatically the best translation.
 
+The new Mishnah and Maimonides snippets are explicitly identified as project study renderings from the linked Hebrew, not quotations from an unconsulted published English edition. Sirach is quoted in NRSVUE, not NIV. Preserve these distinctions and obtain qualified review before publication.
+
 Links to online Bible displays are access points, not substitutes for a named critical text and apparatus. Some sites display English that does not match the Greek noun exactly; check independently. A critical Greek edition is not a transcript of the historical Jesus. Full original-language and manuscript work remains in the research queue.
 
 ## What has not been established
 
 No full historical semantic trajectory has been demonstrated. No reconstruction of Jesus’s precise utterance is adopted. No universalist or irreversible-hardening conclusion is settled. The interbeing of time is a comparative resource, not an etymology of aiōn. Rigidity, now more often described as clinging to certainty, is an interpretive proposal, not a new translation of Mark 3:29. Nondual and koan-like readings concern how a teaching may be received; they do not establish Buddhist influence on the evangelists or remove coherent reasoning.
 
-Each person loved as if an only child is constructive theology, not a replacement translation or demonstrated historical origin of John’s monogenēs. The Linji book record remains a lead. The new MN 58 comparison retains its severe context and does not certify a teacher’s claims merely because speech is called compassionate. See [HT-03–HT-08](humanity-and-provocative-teaching.md#ht-03), [ND-09](nonattachment-and-nondual-reading.md#nd-09--truthful-beneficial-and-timely-speech), and the [claim audit](../notes/claim-audit.md).
+The Jewish dossier is a starting corpus, not a single theology or a completed survey from antiquity to the present. Later rabbinic and medieval sources must not be projected into Jesus’s scene. A Gospel’s composition date is not the date of its oldest surviving copy. Mark 4’s hardening language does not independently establish eternal duration; its concealment and judgment still require examination.
+
+Each person loved as if an only child is constructive theology, not a replacement translation or demonstrated historical origin of John’s monogenēs. The Linji and Sun My Heart records remain leads. The MN 58 comparison retains its severe context and does not certify a teacher’s claims merely because speech is called compassionate. See [HT-03–HT-08](humanity-and-provocative-teaching.md#ht-03), [ND-09](nonattachment-and-nondual-reading.md#nd-09--truthful-beneficial-and-timely-speech), [JC-01–JC-11](jewish-context-and-cross-tradition-inquiry.md#jc-01), and the [claim audit](../notes/claim-audit.md).

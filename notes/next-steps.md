@@ -1,38 +1,42 @@
 # Next steps — the v2 revision
 
-**Active draft:** [essay/working-draft-v2.md](../essay/working-draft-v2.md).  
-**Section plan and revision decisions:** [outline-v2.md](../essay/outline-v2.md).  
+**Active draft:** [working-draft-v2.md](../essay/working-draft-v2.md).  
+**Section plan and decisions:** [outline-v2.md](../essay/outline-v2.md).  
 **Substantive review:** [2026-10-10 review](../essay/reviews/2026-10-10-working-draft-review.md).
 
-The current pass follows Aaron’s `8dd280b` feedback. The narrative direction and six-section structure remain. Editorial signposting is reduced, the central Greek is complete and print-visible, the Third Training is read as freedom of thought joined to compassionate dialogue, and John 8:31–32 returns near the conclusion. V1, the review, and archives are unchanged.
+The current pass follows Aaron’s `fe35e8a` edits. V2 remains active. Buddhism enters earlier, Jewish sources now ground the narrative and interpretation positively, and Mark 4 is treated more carefully within its chapter. The source work is a beginning, not a completed history of Jewish theology. V1, its outline, the review, and archives remain unchanged.
 
-## Next writing priorities
+## Immediate reading and writing
 
-1. **Read the full draft for continuity rather than adding topics.** The accusation, warning, close text, reception, attachment, humanity, and abiding should form one movement. Keep Aaron’s shared inquiry without announcements about what the essay or reader is doing.
-2. **Review the Greek presentation in print.** Mark 3:28–30 are complete, with Greek, romanization, literal English, and natural-English explanation. Check legibility, transliteration, and syntax with a competent Greek reader. Keep the first clause within its full verse; do not restore collapsible sections.
-3. **Test the reception account and its strongest alternative.** A compassionate purpose does not establish reversible consequences. Matthew 12:32, Mark 4:12, and the distinctions between repentance, pardon, and accountability remain. Check whether the short excerpts explain actual differences without repeating qualifications.
-4. **Assess the revised compassionate-speech passage.** An authentic warning can be urgent and unwelcome. The Third Training’s positive commitment and MN 58 now provide firmer context. The issue is truth, benefit, timing, and concern, not whether a tone sounds gentle. Do not use either source to authenticate every teacher’s claimed insight.
-5. **Keep the only-child comparison proportionate.** It is a contemplative image of undivided care, not a literal translation or demonstrated historical source of John’s expression. The Gospel’s unique-son language and invitation to become children of God remain distinct.
-6. **Let John’s abiding passage do its work.** John 8:31–32 now connects study and lived practice before the closing. Avoid explaining the same relation a second time in the conclusion. Retain the Christian context of the Son’s liberation from sin rather than making experience the sole authority.
+1. Read the opening through the end of §2. Does Buddhist comparison have a clear purpose before technical study begins? Does Jesus’s Jewish inheritance feel constitutive rather than an added disclaimer? Compress repetition rather than add more boundary-crossing stories.
+2. Check the new Jewish paragraphs in §3. Ben Sira, the later Mishnah, and medieval Maimonides must not become one undifferentiated account of what Jesus’s contemporaries believed. A sympathetic portrayal should still retain hardening, judgment, and obligations after harm.
+3. Re-read Mark 4:10–25 with Isaiah 6:9–13 and Matthew 13:10–17. The current draft distinguishes its hardening question from Matthew 12:32’s explicit temporal scope. Have both a compassionate-warning reader and a finality reader test this paragraph.
+4. Keep the six movements proportionate. The expanded research belongs chiefly in the sources. The only-child comparison, fuller semantic history, and Zen comparisons must not each become another essay.
+5. Retain the complete print-visible Greek and John’s abiding/doing-truth passages. Verify romanization and the two new Hebrew study renderings before circulation. Keep all editions and translator attributions visible.
 
-## Source checks added in this pass
+## Jewish study: next bounded pass
 
-- [HT-07](../sources/humanity-and-provocative-teaching.md#ht-07): the Gospel’s Greek composition, critical edition, and distinction from a transcript of Jesus; complete verse-text controls.
-- [HT-08](../sources/humanity-and-provocative-teaching.md#ht-08): John Chrysostom’s late-fourth-century Antioch setting, separately sourced from his homily’s interpretation.
-- [ND-01](../sources/nonattachment-and-nondual-reading.md#nd-01--openness-and-nonattachment-to-views): the Third Training’s full movement from freedom of thought to compassionate dialogue, plus the founding attribution.
-- [ND-09](../sources/nonattachment-and-nondual-reading.md#nd-09--truthful-beneficial-and-timely-speech): *Abhaya Sutta*, MN 58, read in the identified Ṭhānissaro Bhikkhu translation. Its severe Devadatta setting remains recorded; the Pali has not been independently collated.
-- The NIV wording of the Lord’s Prayer comparisons and John 8:31–36 was rechecked. Existing [B-09](../sources/biblical-texts.md#b-09) and [L-08](../sources/greek-and-semantic-history.md#l-08) remain the records for the argument; Luke 11:4’s indebtedness appears in the NIV footnote, not its main text.
+Use [Jewish contexts and cross-tradition inquiry](../sources/jewish-context-and-cross-tradition-inquiry.md) as the starting record.
 
-## Research retained without inflating every revision
+- **Sabbath:** examine first-century diversity and emergency/non-emergency treatment. Later Mishnah Yoma 8:6 cannot be retrojected as a complete account of the scene in Mark 3.
+- **Repentance and repair:** compare Exodus 34, Ezekiel 33, Ben Sira 28, Mishnah Yoma 8:9, and Maimonides, Laws of Repentance 2 and 6. Record what kind of harm, pardon, duty, and consequence each discusses.
+- **Contemporary Jewish interpretation:** obtain and read Rabbi Danya Ruttenberg’s On Repentance and Repair. Only the author’s description has been checked. Attend to differences as well as agreements with the draft’s framework.
+- **Method:** retain the existing Barr and Anderson priorities. Build dated examples rather than deriving a theology from etymologies. A Jewish scholar or teacher should review the treatment of Torah, mercy, and hardening.
 
-The [acquisition queue](../sources/to-find.md) still includes Barr, Anderson, critical Mark commentaries, the complete Kręcidło article, and a dated Hebrew/Septuagint/Greek corpus. Consult an apparatus before listing manuscript witnesses or inferring scribal motives. Original-language patristic work and a fuller semantic history remain incomplete.
+## Additions held in reserve
 
-The *Zen Battles* record remains a catalog lead, not a read book. Existing Plum Village texts support the narrower contemplative comparison without a new claim about Linji’s exact words or successful teaching effects. The only-child comparison is not evidence of Buddhist influence on John.
+The fig tree/Temple sequence, the woman threatened with stoning, and blind-guide comparisons are recorded at JC-11. John 7:53–8:11 needs manuscript-history study; it cannot simply establish original Johannine composition or a general account of Jewish law. A symbolic fig-tree reading must not become an allegory of permanent Jewish rejection.
 
-## Before circulation
+Linji’s teachings in Thích Nhất Hạnh’s Zen Battles and The Sun My Heart remain reading leads. Locate a brief primary passage and stable locator before replacing the verified Bat Nha comparison. A catalog description is not the book.
 
-Check every substantive quotation in its named edition and preserve its context. Seek Greek review and a principled contrary reading. Review descriptions of Jewish figures and Christian historical responsibility. Aaron controls autobiographical additions, publication voice, and whether comparative material serves the essay.
+A separate compact chronology should distinguish Gospel composition, surviving manuscript dates and languages, and earlier source traditions. Mark’s Greek composition does not establish a transcript of Jesus; Thomas’s priority has not been demonstrated here. Do not expand the main essay with speculative manuscript history.
 
-## Preservation
+## Continuing controls
 
-Do not edit `essay/working-draft.md`, `essay/outline.md`, the dated review, or archives as a by-product of v2 work. Use Git history for routine iterations. Keep the active six-section outline synchronized and retain the exact NIV opening. No new personal testimony or additional draft variants without Aaron’s direction.
+Compassion is the author’s guiding commitment, not a reason to describe all disagreement as cruelty or dogmatism. An act of warning may express concern while its threatened outcome remains disputed. Mark records no reply between the parabolic argument and warning. Refusal of healing is an interpretive possibility, not a grammatical proof that forgiveness automatically follows a change of mind.
+
+The wider [research queue](../sources/to-find.md) remains: critical commentaries, the full Kręcidło article, manuscript apparatus, original-language patristic editions, and a fuller historical-semantic corpus. None is represented as completed in this pass.
+
+## Before circulation and preservation
+
+Check quotations against their editions and seek competent Greek/Hebrew review, a principled contrary theological reading, and Jewish review of the historical framing. Aaron controls personal narrative and publication voice. Keep edits in v2; preserve v1, its outline, the dated review, and archives. Use Git history instead of multiplying draft files.
