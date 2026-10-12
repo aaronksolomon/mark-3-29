@@ -5,7 +5,7 @@
 >
 > — Mark 3:28–29, New International Version (2011). [RD-00](../sources/rigidity-and-discernment.md#rd-00--niv-opening)
 
-<!-- V2, Jewish-grounding and comparative-inquiry pass, 2026-10-12. Based on Aaron’s edits and proposals at fe35e8aed443284b33b5cb4b6bedb2632b5d0816. The six-section structure remains; Buddhism is introduced earlier, Jewish sources receive a positive and chronologically differentiated role, and Mark 4 is reconsidered within its chapter and Isaiah background. Full Greek remains print-visible. See outline-v2.md and the new Jewish-context dossier for research status and decisions on deferred parallels. V1, its outline, the review, and archives remain unchanged. -->
+<!-- V2, Semitic-witness and temporal-perspective addition, 2026-10-12, based on c9f2183250fb5525756f271529863d94ef0db18c. The existing narrative, six sections, and print-visible Greek are retained. Compact additions concern the Syriac witness, age-language, and time as lived through memory, expectation, and practice. Hebrew experiments and fuller research remain in the two new source dossiers. V1, its outline, the review, and archives are unchanged. -->
 
 ## 1. Hearing the warning
 
@@ -99,6 +99,10 @@ In ordinary English: “Because they were saying, ‘He has an unclean spirit.�
 
 The language is forceful. The breadth of forgiveness heightens the exception without becoming empty rhetoric, and the Greek does not remove the severity. Yet even a faithful translation leaves questions about the relation between the statement, the person making it, and the forgiveness being denied.
 
+The Syriac Peshitta, a later Gospel version in a literary form of Aramaic, preserves that force. It contrasts *rūḥā d-qudšā*, “Spirit of holiness,” with *rūḥā ṭanpṯā*, “an impure spirit,” and retains an emphatic denial of forgiveness. Its ending speaks of enduring judgment rather than the critical Greek’s eternal sin. This is another witness to the teaching’s reception, not a recovered transcript of Jesus. The repeated word for spirit makes the reversal audible: what is named holy is being called impure. Holiness, however, is not simply another word for purity. [AS-03–AS-04](../sources/semitic-gospel-witnesses.md#as-04--peshitta-mark-32830-checked-wording)
+
+The word translated “age,” *aiōn*, also stands behind English *eon*, through Latin. That history invites attention to the horizon of a saying, but it does not turn “forever” into a fixed number of years. An age can name a world-order as well as an extent of time; Matthew’s contrast between this age and the coming one makes that horizon explicit. What the idiom asserts and how its hearers experience time are related questions, not identical ones. [TA-01](../sources/time-age-and-eternity.md#ta-01--aiōn-and-english-eon), [B-03](../sources/biblical-texts.md#b-03)
+
 ### Forgiveness, turning, and responsibility
 
 Our English words bring other associations into those questions. In the Lord’s Prayer, Matthew has “forgive us our debts” (6:12, NIV), while Luke begins “Forgive us our sins” and then uses language of indebtedness, as the NIV’s Greek-text footnote explains (11:4). The noun for forgiveness in Mark 3:29, *aphesis*, likewise belongs to the language of release and remission. Pardon, freedom from a burden, and the restoration of a relationship can illuminate one another without being the same thing. None can be reduced simply to feeling better about the past. [L-03](../sources/greek-and-semantic-history.md#l-03), [L-08](../sources/greek-and-semantic-history.md#l-08)
@@ -187,7 +191,15 @@ A statement about what someone has done can become the final account of who they
 
 Thích Nhất Hạnh approaches historical and ultimate dimensions through the image of wave and water. The wave’s arising and passing are not denied, but neither do they exhaust what the wave is. He cautions that “interbeing does not mean that everything is one or that everything is different.” This invites attention to two forms of closure: identifying someone completely with a past act, or imagining that transformation produces an unrelated person with no responsibility for it. [ND-02](../sources/nonattachment-and-nondual-reading.md#nd-02--historical-and-ultimate-neither-monism-nor-separation)
 
+### Time as lived, remembered, and anticipated
+
+How a person carries the past is not only a question of elapsed time. Jewish Passover practice makes a past deliverance part of present identity and obligation. Mishnah Pesachim asks each generation to see itself “as though it had come out of Egypt” (10:5; study rendering from Hebrew). This later rabbinic formulation develops the first-person language of Exodus 13:8. The event is not simply over and absent; remembrance enters how life is lived now. [TA-03](../sources/time-age-and-eternity.md#ta-03--passover-the-past-enters-present-practice)
+
+Augustine offers a different but related attention to time in his *Confessions*: “a present of things past, a present of things present, and a present of things future” (XI.20.26). He locates these in memory, present awareness, and expectation. John’s Gospel also speaks of someone who already “has eternal life,” while retaining a future resurrection and judgment (5:24–29, NIV). These are not one philosophy, but they show that ancient religious reflection cannot be reduced to an endless succession of identical moments. Nor does attending to lived time require abandoning chronology. [TA-04](../sources/time-age-and-eternity.md#ta-04--augustines-three-presents), [TA-05](../sources/time-age-and-eternity.md#ta-05--eternal-life-as-present-and-future)
+
 Sister Annabel Laity (True Virtue) gives this a temporal expression: “The three times inter-are.” Past action continues in its consequences; how we respond now helps form what comes next. Her discussion of regret turns toward acting differently in the present, not making the past unhappen. Transformation can mean entering responsibility more fully. It does not require another person to forgive, reconcile, or restore access, and it does not decide how long a consequence may endure. [PV-04](../sources/plum-village/time-and-transformation.md#pv-04)
+
+The relation among the times therefore matters alongside their duration. A past act is not changed into something that never happened, yet its continuation can involve remorse, repair, renewed harm, or a different way of living. This does not make “never” mean “for a while.” It asks how the life named by a judgment continues, and whether an interpretation of eternity has made that life seem incapable of further encounter. [TA-06–TA-07](../sources/time-age-and-eternity.md#ta-06--method-chronology-and-lived-time-are-not-mutually-exclusive)
 
 ### Compassion that is not merely reassurance
 
@@ -223,4 +235,4 @@ An understanding of forgiveness can remain generous in its claims while becoming
 
 ---
 
-**Translation acknowledgments:** Scripture excerpts marked NIV are from the Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used by permission. All rights reserved worldwide. Sirach excerpts are identified as NRSVUE (New Revised Standard Version Updated Edition). Greek and Hebrew renderings identified as literal or study translations are supplied for this project. Other quotations retain their source’s English wording and are identified by author, work, and locator; source records distinguish translations, paraphrases, and interpretive proposals.
+**Translation acknowledgments:** Scripture excerpts marked NIV are from the Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used by permission. All rights reserved worldwide. Sirach excerpts are identified as NRSVUE (New Revised Standard Version Updated Edition). Greek, Hebrew, and Syriac renderings identified as literal or study translations are supplied for this project. Other quotations retain their source’s English wording and are identified by author, work, and locator; source records distinguish translations, paraphrases, and interpretive proposals.
