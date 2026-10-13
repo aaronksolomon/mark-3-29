@@ -2,22 +2,24 @@
 
 **Active draft:** [working-draft-v3.md](../essay/working-draft-v3.md).
 **Section plan and decisions:** [outline-v3.md](../essay/outline-v3.md).
-**Alternate draft and outline:** [working-draft-v3-alt.md](../essay/working-draft-v3-alt.md) and [outline-v3-alt.md](../essay/outline-v3-alt.md), preserved for reconciliation.
+**Alternate draft and outline:** [working-draft-v3-alt.md](../essay/working-draft-v3-alt.md) and [outline-v3-alt.md](../essay/outline-v3-alt.md), preserved for comparison.
 **Prior-v2 review:** [2026-10-12 review](../essay/reviews/2026-10-12-working-draft-v2-rev.md); historical, not a review of v3.
 **Earlier v1 review:** [2026-10-10 review](../essay/reviews/2026-10-10-working-draft-review.md).
 
-V3’s active language base is copied exactly from frozen v2 at `5566a18`. The alternate at `f8679bb` carries forward six movements and section 5 order while incorporating substantial structural revision. Reconciliation remains open. The 2026-10-12 review and earlier v1 review are historical resources; neither is a review of v3. V1, its outline, both reviews, and archives are preserved.
+The selective clarity-and-flow pass begins from Aaron’s restored v3 at `e0ba679`. It keeps that prose as the language base, using the alternate and review for particular corrections and connections rather than adopting their overall compression. There is no word-count or reduction target. The opening’s development, complete Greek, comparative rationale, logic/insight sentence, developed humanity discussion, and final question are preserved. V3-alt, frozen v2, v1, their outlines, both reviews, and archives remain unchanged.
 
 This is a working revision, not completion of the specialist research below. The inherited [claim audit](claim-audit.md) records risks to avoid; its older rows should not be read as a list of defects still present in v3.
 
 ## Immediate reading and polishing
 
-1. Read the narrative, complete Greek, and response question together. Does the compassionate hearing remain clear while facing what Mark says the hearers are already doing? Keep Jesus’s warning and their accusation distinct, and avoid turning an intended response into a recorded result.
-2. Read for flow and proportion before adding material. Check transitions through the language and reception discussion, and from the person/time comparisons into compassionate speech and practice. Each source should advance the encounter or its reception rather than begin another essay.
-3. Test the hardest evidence with both a compassionate-warning reader and a principled finality reader. Matthew 12:32 names the two-age scope; Mark 4 retains disclosure, concealment, and judgment. The connection between Augustine’s lived time and final-impenitence reading should keep temporal subtlety from being used as proof against finality.
-4. Read the ending with Christian, Buddhist, and other readers in mind. Looking deeply should name attention to actual judgments, harm, and possible change; it should not make accepting this interpretation the test of openness. Preserve the distinction between transformation, divine forgiveness, reconciliation, and restored trust.
+1. **Read the transitions in context before revising again.** The new bridges connect repentance with the historical interpretations, attention to others with Jesus’s humanity, the only-child image with non-exhaustive description, and temporal continuation with compassionate speech. Confirm that they help the thought unfold rather than explain the essay’s procedure.
+2. **Preserve the difference between return and repetition.** The central concern can reappear in Jesus’s warning, later interpretation, and our conduct. Do not delete a sentence merely because its vocabulary has appeared before. Make a local change when the referent is unclear or the sentence adds no new movement.
+3. **Keep the textual questions together.** The sin/judgment paragraph now sits with the Syriac discussion. The new question before the Christian interpreters concerns people already making the accusation and what recognition could mean for them. Do not infer a response Mark does not narrate.
+4. **Read section 5 for continuity.** Keep the human reason for the only-child discussion, the full humanity/divinity paragraph, and the invitation to listen without prescribing the result. Its temporal discussion concerns present responsibility; Augustine’s subtle temporal account coexists with final impenitence.
+5. **Retain the preferred hearing and its real limits.** Matthew 12:32 remains the two-age challenge. Mark 4 concerns the teaching’s role in disclosure and concealment, not only insufficient attention. Neither precision requires turning the whole essay back into a logical debate about finality.
+6. **Let the ending stand unless a concrete problem emerges.** The invitation is not a summary to compress further. Preserve “anemic in practice,” the fuller return to shared humanity, and the question about what might become possible if we listened again.
 
-Keep the complete print-visible Greek and John’s abiding/doing-truth passages. Greek, Hebrew, and Syriac review and edition-level quotation checks remain before circulation; do not represent local consistency edits as specialist verification.
+Keep the complete print-visible Greek and John’s abiding/doing-truth passages. The current pass leaves the Greek, romanizations, and literal translations intact; only the natural-English labels are standardized. Targeted checks concerned Mark 4:10–25, Pesachim 10:5’s Hebrew, the Peshitta ending, and Augustine’s relevant English passages. These are not a new manuscript collation or comprehensive specialist review.
 
 ## Jewish study: next bounded pass
 
@@ -44,4 +46,4 @@ The wider [research queue](../sources/to-find.md) remains: critical commentaries
 
 ## Before circulation and preservation
 
-Check quotations against their editions and seek competent Greek/Hebrew/Syriac review, a principled contrary theological reading, and Jewish review of the historical framing. Aaron controls personal narrative and publication voice. Keep edits in v2; preserve v1, its outline, both dated reviews, and archives. Use Git history instead of multiplying draft files.
+Check quotations against their editions and seek competent Greek/Hebrew/Syriac review, a principled contrary theological reading, and Jewish review of the historical framing. Aaron controls personal narrative and publication voice. Keep edits in active v3; preserve v3-alt, frozen v2, v1, their outlines, both dated reviews, and archives. Use Git history instead of multiplying draft files.

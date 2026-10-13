@@ -6,14 +6,14 @@ The project hears Mark 3:28–30 as a possible compassionate wake-up call: Jesus
 
 ## Active work: version 3
 
-- [Working draft v3](essay/working-draft-v3.md) — starts with the frozen-v2 language as the base for reconciliation.
-- [V3 outline and revision map](essay/outline-v3.md) — follows that language base.
-- [V3 alternate draft](essay/working-draft-v3-alt.md) and [alternate outline](essay/outline-v3-alt.md) — preserve the remote revision at `f8679bb`, including structural changes, for comparison and reconciliation.
+- [Working draft v3](essay/working-draft-v3.md) — continues the restored frozen-v2 language with selected corrections and clearer connections; no compression target.
+- [V3 outline and revision map](essay/outline-v3.md) — follows the active text and records the accepted and declined editorial suggestions.
+- [V3 alternate draft](essay/working-draft-v3-alt.md) and [alternate outline](essay/outline-v3-alt.md) — preserve the remote revision at `f8679bb` for comparison, not as a replacement language base.
 - [Prior v2 review, 2026-10-12](essay/reviews/2026-10-12-working-draft-v2-rev.md) — review of an earlier v2 state; a historical reference, not a v3 review.
 - [Earlier v1 review, 2026-10-10](essay/reviews/2026-10-10-working-draft-review.md) — the review that helped shape v2; its baseline predates the author’s final v1 edits.
 - [Next steps](notes/next-steps.md) — priorities for section-by-section revision.
 
-The compassionate-warning reading remains a qualified working emphasis, not a settled answer about finality. The active v3 text restores the v2-frozen prose and complete print-visible Greek study; the alternate keeps the remote revision’s structural changes available for reconciliation. The lexical, historical, and reception research remains bounded and incomplete.
+The compassionate-warning reading remains a qualified working emphasis, not a settled answer about finality. Active v3 preserves the unfolding prose and complete print-visible Greek study restored at `e0ba679`, incorporating selected clarity improvements approved by Aaron. The alternate remains unchanged. The lexical, historical, and reception research remains bounded and incomplete.
 
 ## Preserved version 2
 
