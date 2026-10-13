@@ -223,7 +223,7 @@ The verb *menō* means to remain or abide. Knowing is joined to remaining in the
 
 John also speaks of “whoever lives by the truth” coming into the light (3:21, NIV). The Greek phrase is ποιῶν τὴν ἀλήθειαν, *poiōn tēn alētheian*: literally, “doing the truth.” Truth is not only something affirmed; it is enacted. An interpretation of mercy must become more than a persuasive account of mercy. Its meaning appears in whether we can tell the truth about harm, care for those affected, and remain willing to learn. [B-11](../sources/biblical-texts.md#b-11)
 
-## 6. The warning before us
+## 6. The invitation before us
 
 Returning to Mark 3, the saying can be heard as a sharp, compassionate wake-up call. The promise of forgiveness and its breadth give the warning its startling force. Jesus speaks to people who have called the work of liberation evil, and the language of judgment confronts their own judgment. The warning brings the danger into the present encounter: while healing is treated as an enemy, it cannot be welcomed as healing. Its force lies in calling people to recognize what they are turning away from.
 
