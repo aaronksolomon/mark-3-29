@@ -1,13 +1,14 @@
-# Next steps — the v2 revision
+# Next steps — the v3 revision
 
-**Active draft:** [working-draft-v2.md](../essay/working-draft-v2.md).  
-**Section plan and decisions:** [outline-v2.md](../essay/outline-v2.md).  
-**Current-v2 review:** [2026-10-12 review](../essay/reviews/2026-10-12-working-draft-v2-rev.md).  
+**Active draft:** [working-draft-v3.md](../essay/working-draft-v3.md).
+**Section plan and decisions:** [outline-v3.md](../essay/outline-v3.md).
+**Alternate draft and outline:** [working-draft-v3-alt.md](../essay/working-draft-v3-alt.md) and [outline-v3-alt.md](../essay/outline-v3-alt.md), preserved for reconciliation.
+**Prior-v2 review:** [2026-10-12 review](../essay/reviews/2026-10-12-working-draft-v2-rev.md); historical, not a review of v3.
 **Earlier v1 review:** [2026-10-10 review](../essay/reviews/2026-10-10-working-draft-review.md).
 
-This revision applies the current-v2 review, which assessed `4b09977e0b94ab3992e35ecd59dfef49ca08eb79`, starting from main at `5566a18b360de1c34bf25f168b0aca79e3afffea`. Aaron’s subsequent section 6 title, “The invitation before us,” is retained. The six movements and section 5 order remain; local changes clarify the question of response, group the language study, reduce repeated framing, connect Augustine’s accounts of time and finality, and make the closing invitation concrete. Both early boundary-crossing examples and all Greek, romanization, and literal English remain. V1, its outline, both reviews, and archives are preserved.
+V3’s active language base is copied exactly from frozen v2 at `5566a18`. The alternate at `f8679bb` carries forward six movements and section 5 order while incorporating substantial structural revision. Reconciliation remains open. The 2026-10-12 review and earlier v1 review are historical resources; neither is a review of v3. V1, its outline, both reviews, and archives are preserved.
 
-This is a clarity and precision pass, not completion of the specialist research below. The inherited [claim audit](claim-audit.md) records risks to avoid; its older rows should not be read as a list of defects still present in v2.
+This is a working revision, not completion of the specialist research below. The inherited [claim audit](claim-audit.md) records risks to avoid; its older rows should not be read as a list of defects still present in v3.
 
 ## Immediate reading and polishing
 

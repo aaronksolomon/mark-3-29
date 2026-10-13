@@ -2,7 +2,7 @@
 
 **Status:** initial audit, 2026-10-10; expanded after Aaron’s revision `6801a0b` for dogmatism and nondual reading. Status clarified during application of the [2026-10-12 v2 review](../essay/reviews/2026-10-12-working-draft-v2-rev.md), which assessed `4b09977`; this revision starts from `5566a18`.
 
-The table preserves inherited overstatements and recurring interpretive risks, not a checklist of errors currently present in v2. Many have already been addressed. Before diagnosing a current defect, locate the actual wording in [working-draft-v2.md](../essay/working-draft-v2.md); use the [outline](../essay/outline-v2.md) and [next steps](next-steps.md) for the accepted revision and remaining work. Earlier assistant answers remain research leads rather than authority for promotion from the archives. The questions below remain open even where the prose now states their limits more clearly.
+The table preserves inherited overstatements and recurring interpretive risks, not a checklist of errors currently present in v3. Many have already been addressed. Before diagnosing a current defect, locate the actual wording in [working-draft-v3.md](../essay/working-draft-v3.md); use the [outline](../essay/outline-v3.md) and [next steps](next-steps.md) for the accepted revision and remaining work. Earlier assistant answers remain research leads rather than authority for promotion from the archives. The questions below remain open even where the prose now states their limits more clearly.
 
 | Claim or formulation | Assessment and required handling |
 |---|---|

@@ -5,7 +5,7 @@
 >
 > — Mark 3:28–29, New International Version (2011). [RD-00](../sources/rigidity-and-discernment.md#rd-00--niv-opening)
 
-<!-- V2, coherence and language polish, 2026-10-12, based on 5566a18b360de1c34bf25f168b0aca79e3afffea. Applies the 2026-10-12 review with Aaron’s authorization. Retains the compassionate wake-up hearing, six-section structure, author’s invitation heading, full NIV opening, and complete Greek study. The review and preserved v1 remain historical records. -->
+<!-- V3 alternate: remote revision f8679bb, preserved for reconciliation with the frozen-v2 language base. -->
 
 ## 1. Hearing the warning
 

@@ -1,7 +1,7 @@
 # Critical review of the refocused working draft v2
 
 **Review date:** 2026-10-12, Pacific time.  
-**Draft reviewed:** [working-draft-v2.md](../working-draft-v2.md), at [4b09977e0b94ab3992e35ecd59dfef49ca08eb79](https://github.com/aaronksolomon/mark-3-29/commit/4b09977e0b94ab3992e35ecd59dfef49ca08eb79), “Center the compassionate wake-up call in the opening, encounter, and conclusion.”  
+**Draft reviewed:** [working-draft-v2-frozen.md](../working-draft-v2-frozen.md) preserves the later v2 state; the exact reviewed revision is [4b09977e0b94ab3992e35ecd59dfef49ca08eb79](https://github.com/aaronksolomon/mark-3-29/commit/4b09977e0b94ab3992e35ecd59dfef49ca08eb79), “Center the compassionate wake-up call in the opening, encounter, and conclusion.”
 **Fixed text:** [draft at the reviewed revision](https://github.com/aaronksolomon/mark-3-29/blob/4b09977e0b94ab3992e35ecd59dfef49ca08eb79/essay/working-draft-v2.md).  
 **Focus:** coherence, readability, consistency, accuracy, flow, meaning, and language that carries the central understanding into an invitation to look deeply and act compassionately.  
 **Relationship to the earlier review:** this is a fresh review of v2, following the [2026-10-10 review](2026-10-10-working-draft-review.md). Recommendations respond to the present draft and current authorial direction. Suggested passages below are editorial alternatives, not changes already made to the essay.
@@ -117,7 +117,7 @@ A count of the reviewed file gives approximately 6,424 whitespace-delimited word
 | 5. Humanity without distance from the divine | 1,539 | Deepen care for the persons involved and connect interpretation with lived practice. |
 | 6. The warning before us | 415 | Bring the inquiry to a concrete invitation. |
 
-Sections 3 and 5 together occupy about half the draft. The problem is not their length alone; it is how often a new topic requires readers to reconstruct its purpose. The existing [outline](../outline-v2.md) explicitly preserves the six sections and the sequence within section 5. I would respect that decision in this pass and improve the local connections before considering moves of whole subsections.
+Sections 3 and 5 together occupy about half the draft. The problem is not their length alone; it is how often a new topic requires readers to reconstruct its purpose. The preserved v2 [outline](../outline-v2-frozen.md) records the six sections and the sequence within section 5. I would respect that decision in this pass and improve the local connections before considering moves of whole subsections.
 
 ### Give each return to the central insight a different job
 
@@ -308,7 +308,7 @@ The documentation now needs modest synchronization with the latest emphasis:
 | File | Recommended change |
 |---|---|
 | [README](../../README.md) | Let the opening project description name the compassionate wake-up hearing as directly as the active-work paragraph already does. Add this review beside the earlier one, labeling each by the draft it reviewed. |
-| [V2 outline](../outline-v2.md) | Refresh the status and provenance paragraph, which still foregrounds the earlier Jewish-grounding pass. Record any accepted local moves, especially grouping the textual-variant paragraph with the language study. Keep the six-section map. |
+| [V2 outline](../outline-v2-frozen.md) | Refresh the status and provenance paragraph, which still foregrounds the earlier Jewish-grounding pass. Record any accepted local moves, especially grouping the textual-variant paragraph with the language study. Keep the six-section map. |
 | [Next steps](../../notes/next-steps.md) | Replace the current-pass reference to fe35e8a with the actual revision context and make clarity/polishing the immediate writing priority. Retain bounded research items as research items. |
 | [AGENTS](../../AGENTS.md) | List this review as the current-v2 review while preserving the earlier review’s historical role and the priority of subsequent author edits. |
 | [Claim audit](../../notes/claim-audit.md) | Add a brief status note distinguishing inherited cautions from errors actually present in v2. Many earlier problems have been addressed; future editors should not repeatedly diagnose them as current defects. |
