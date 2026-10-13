@@ -2,16 +2,17 @@
 
 A writing and research workspace directed by Aaron Solomon.
 
-The project investigates the tension between the breadth of forgiveness in Mark 3:28 and the warning in 3:29. Its questions concern semantic history, Gospel interpretation, Paul’s transformation, and the humanity of teachers and interpreters. Buddhist and Plum Village teachings participate in the inquiry as substantive comparative resources, not substitutes for Greek exegesis.
+The project hears Mark 3:28–30 as a possible compassionate wake-up call: Jesus’s severe warning may seek to awaken those who have called his liberating work evil. This preferred hearing remains accountable to the wording and its difficult claims about forgiveness. The inquiry brings together the human encounter, Jewish scriptural inheritance, language and interpretation, Paul’s transformation, and the practice of listening deeply. Buddhist and Plum Village teachings participate as substantive comparative resources, not substitutes for Greek exegesis.
 
 ## Active work: version 2
 
 - [Working draft v2](essay/working-draft-v2.md) — a major revision assembled from the latest v1, organized around compassionate warning, the human encounter and its transmission, and the responsibility of interpretation.
 - [V2 outline and revision map](essay/outline-v2.md) — six matching sections, material retained or deferred, review decisions, and outstanding work.
-- [Substantive review](essay/reviews/2026-10-10-working-draft-review.md) — the review guiding this revision; its baseline predates the author’s latest v1 edits.
+- [Current-v2 review, 2026-10-12](essay/reviews/2026-10-12-working-draft-v2-rev.md) — coherence, meaning, source precision, and local language recommendations for v2 at `4b09977`; the current revision applies its recommendations from `5566a18`, preserving subsequent author edits.
+- [Earlier v1 review, 2026-10-10](essay/reviews/2026-10-10-working-draft-review.md) — the review that helped shape v2; its baseline predates the author’s final v1 edits.
 - [Next steps](notes/next-steps.md) — priorities for section-by-section revision.
 
-The compassionate-warning reading is a qualified working emphasis, not a settled answer about finality. V2 begins with the NIV passage and uses short source excerpts to let readers encounter the evidence directly. The bounded lexical and reception discussions are started, not a completed historical-semantic study.
+The compassionate-warning reading is a qualified working emphasis, not a settled answer about finality. V2 begins with the NIV passage, retains the complete print-visible Greek study, and uses short source excerpts to let readers encounter the evidence directly. The current pass clarifies the question of response, groups the language discussion, and makes the closing invitation more concrete. The lexical, historical, and reception research remains bounded and incomplete.
 
 ## Preserved version 1
 

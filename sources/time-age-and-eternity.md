@@ -28,8 +28,9 @@ Psalm 90 gives a contrasting use: מֵעוֹלָם עַד־עוֹלָם, *me-ʿo
 - [Mishnah Pesachim, Hebrew; chapter 10](https://mechon-mamre.org/b/h/h23.htm)
 - [Alternate Pesachim 10:5 display](https://www.sefaria.org/Mishnah_Pesachim.10.5)
 - **Status:** Mechon Mamre passages checked; the Sefaria page was not consistently readable in this pass.
+- **2026-10-12 review and revision:** the targeted review rechecked the personal grammar of Pesachim 10:5 against the linked Hebrew. This edit corrects the study rendering and its explanation; it does not extend the historical survey.
 
-Exodus’s festival instruction places deliverance in the first person: what God did for me in coming out of Egypt. The Mishnah requires each generation to regard itself as having come out of Egypt. The draft’s short rendering is supplied from the Hebrew, not copied from an unconsulted English edition.
+Exodus’s festival instruction places deliverance in the first person: what God did for me in coming out of Egypt. The Mishnah requires each person, in every generation, to regard themselves as having come out of Egypt. The personal obligation is explicit in חייב אדם לראות את עצמו, “a person is required to regard themselves” (project study rendering). The draft’s short rendering is supplied from the Hebrew, not copied from an unconsulted English edition.
 
 This is stronger evidence for a lived relation among times than a deduction from the root of *ʿolam*: a remembered deliverance shapes present identity, gratitude, and practice. The later rabbinic formulation is not evidence that every first-century Jewish teacher held one philosophy of time. It also remains Jewish covenantal memory, not merely an interchangeable example of Buddhist metaphysics.
 

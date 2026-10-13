@@ -1,8 +1,8 @@
 # Version 2 outline and revision map
 
-**Status:** Jewish-grounding and comparative-inquiry pass, 2026-10-12, following Aaron’s edited text and proposed changes at `fe35e8aed443284b33b5cb4b6bedb2632b5d0816`. The six numbered sections still correspond to [working-draft-v2.md](working-draft-v2.md). V2 remains workable; no v3 has been created.
+**Status:** coherence and language pass, 2026-10-12, applying the [2026-10-12 v2 review](reviews/2026-10-12-working-draft-v2-rev.md), with the compassionate wake-up hearing and invitation to look deeply guiding the polish. The six numbered sections correspond to [working-draft-v2.md](working-draft-v2.md); the section 5 sequence is retained.
 
-**Provenance:** v2 began at `178a320`, using v1 at `6370787`. Subsequent author edits and editorial passes remain in Git history. The immediate predecessor to Aaron’s latest text was `dea2f25`. [Working draft v1](working-draft.md), [outline v1](outline.md), the [substantive review](reviews/2026-10-10-working-draft-review.md), and archives remain unchanged.
+**Provenance:** v2 began at `178a320`, using v1 at `6370787`. The current review assessed `4b09977e0b94ab3992e35ecd59dfef49ca08eb79`. This revision starts from main at `5566a18b360de1c34bf25f168b0aca79e3afffea` and preserves Aaron’s subsequent section 6 title, “The invitation before us.” [Working draft v1](working-draft.md), [outline v1](outline.md), both dated reviews, and archives remain unchanged. Routine revision history belongs in Git.
 
 **Working title:** *All Will Be Forgiven? Compassion, Warning, and our Shared Humanity*. Preserve the full italicized NIV opening and the complete, print-visible Greek of Mark 3:28–30.
 
@@ -22,7 +22,7 @@ Aaron’s inline comments are proposals for dialogue, not facts to promote autom
 
 **Retained:** the opening’s tension, warning as continued concern, shared histories, and the question about a lived expression becoming a classification of another person or group.
 
-**Added:** a compact introduction to Buddhist nonattachment and its application to Buddhist doctrines themselves. A distinct sentence identifies Jewish study as both return to Jesus’s inheritance and encounter with a continuing tradition. Matthew’s centurion and Mark’s Syrophoenician woman supply specific boundary-crossing scenes, without removing their particular commitments or difficult elements.
+**Retained and compressed:** Buddhist nonattachment and its application to Buddhist doctrines themselves; Jewish study as both return to Jesus’s inheritance and encounter with a continuing tradition. Both Matthew’s centurion and Mark’s Syrophoenician woman remain as brief boundary-crossing scenes, without removing their particular commitments or difficult elements. Describe the accusation before inferring its speakers’ inner condition.
 
 **Sources:** [JC-08](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-08), ND-01. Fuller Samaritan comparisons remain at ND-06; no catalogue is needed in the opening.
 
@@ -42,7 +42,7 @@ A short new subsection uses Exodus 34:6–7 and Ezekiel 33:7–20. The former jo
 
 Make the speakers explicit. The scribes attribute Jesus’s work to demonic power; Jesus responds with summons, parables, and warning. These are not the same utterance. The narrative supports attention to continued engagement, but records no intervening reply that would establish a failed first attempt followed by fresh refusal.
 
-Retain the reversal of blasphemy language across Mark 2 and 3. Do not assume the same speakers or invent an earlier declaration of eternal unforgivability.
+Retain the reversal of blasphemy language across Mark 2 and 3. Do not assume the same speakers or invent an earlier declaration of eternal unforgivability. Compress repeated explanations of rhetorical intensity so that the summons, images, reversal, and danger of rejecting liberation carry the interpretation.
 
 ### A saying that unsettles its hearers
 
@@ -64,11 +64,15 @@ Ben Sira’s translator supplies an early Jewish reflection on what translation 
 
 ### The words of the passage
 
-Keep each verse in full: Greek, romanization, Literal English, and natural English explanation. Retain the author’s bracketed *panta* and *aphethēsetai* in verse 28. Add the actual Greek and romanization for eternal sin in verse 29. Accountable/answerable language distinguishes responsibility from guilty feelings without reducing the word to indebtedness alone.
+Keep each verse in full: Greek, romanization, Literal English, and natural English explanation. Retain the author’s bracketed *panta* and *aphethēsetai* in verse 28 and the Greek and romanization for eternal sin in verse 29. Accountable/answerable language distinguishes responsibility from guilty feelings without reducing the word to indebtedness alone.
+
+After the complete Greek study, state the live question of response: the hearers are already making the accusation named in verse 30, so what response might the warning seek from them? Compassionate address does not itself establish that an irreversible act has not occurred, or that every future outcome remains open. Keep the question explicit without settling it by an added “while” clause.
+
+Group the eternal-sin/eternal-judgment paragraph with this language discussion and the Peshitta witness. The version and variant illustrate transmission and reception; they do not recover Jesus’s original words. Keep the age-language comparison concise and distinct from the later discussion of lived time.
 
 ### Forgiveness, turning, and responsibility
 
-Retain the Lord’s Prayer comparison and aphesis. Add a brief chronological sequence: Ben Sira’s reciprocal forgiveness; later Mishnah Yoma’s distinction between divine atonement and obligations to another person; and Maimonides’s difficult account of withheld repentance. These are not one uniform theology or reconstructed beliefs of every first-century Jew.
+Retain the Lord’s Prayer comparison and aphesis, followed by the brief chronological sequence: Ben Sira’s reciprocal forgiveness; later Mishnah Yoma’s distinction between divine atonement and obligations to another person; and Maimonides’s difficult account of withheld repentance. These are not one uniform theology or reconstructed beliefs of every first-century Jew.
 
 ### Interpretations over time
 
@@ -76,7 +80,7 @@ Retain the developed Christian reception sequence and its short quotations. The 
 
 ### The severity remains
 
-**Substantive correction:** Matthew 12:32 is the explicit two-age obstacle. Mark 4 should not be presented as independently establishing eternal finality. Read its Isaiah-related hardening language alongside questioning disciples and the call to attend to what is heard. Concealment and judgment remain real interpretive difficulties; compassion does not erase them. Preserve the paragraph about our position in relation to the saying changing even where its truth is not thereby altered.
+Matthew 12:32 is the explicit two-age obstacle. Mark 4 does not independently establish eternal finality. Keep its disclosure, concealment, and judgment in view: the call to attend to what is heard does not simply resolve the difficult purpose language in 4:11–12. Preserve the distinction between a change in our relation to the saying and a change in what its words assert.
 
 **Sources:** B/L/R records and [JC-04–JC-06](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-04), [JC-09–JC-10](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-09).
 
@@ -84,7 +88,7 @@ Retain the developed Christian reception sequence and its short quotations. The 
 
 **Job:** connect the danger of clinging to conduct, changed perception, and responsibility.
 
-The opening now explicitly distinguishes the teachers’ description from Jesus’s response. It avoids the unclear phrase “the accusation gives this difficulty a concrete form.” The Order of Interbeing discussion follows naturally from its earlier introduction.
+The opening moves from the danger of clinging to a judgment into the Order of Interbeing’s practice of nonattachment, developing its earlier introduction. The accusation and Jesus’s response are distinguished in §2; this section turns attention toward how we hold our own views.
 
 Use “someone driving out demons in Jesus’s name” rather than a generic healer where Mark’s specific act matters. State which concern turns toward the disciples: failed recognition and attachment to belonging. Humanize the scribes, Pharisees, family, and disciples without conflating them or assigning hidden motives.
 
@@ -98,15 +102,15 @@ The historical responsibility paragraphs remain. Christian anti-Judaism, Nazi id
 
 Preserve the existing sequence: Matthew/Luke and Dei verbum; growth, fatigue, and genuine humanity; the only-child comparison; a person exceeding a description; wave/water and the three times; compassionate speech and the Third Training/MN 58; abiding in John.
 
-The only-child image remains a contemplative extension, not the recovered meaning or historical origin of monogenēs. The past remains consequential without becoming an exhaustive identity. Care does not require another person to reconcile or restore access.
+The only-child image remains a contemplative extension, not the recovered meaning or historical origin of monogenēs. The past remains consequential without becoming an exhaustive identity. Care does not require another person to reconcile or restore access. Make the temporal discussion’s role concrete: how past harm continues in memory, responsibility, and changed conduct. Connect Augustine’s three presents to the same writer’s final-impenitence account in §3; attention to lived time does not by itself determine the outcome of judgment.
 
-Restore the explicit “doing the truth” phrase at John 3:21, with Greek, romanization, literal meaning, and its NIV equivalent. The larger Greek study stays in B-11. John 8:31–32 remains fully quoted near the close. Correct local punctuation without restarting these developed sections.
+Retain “doing the truth” at John 3:21, with Greek, romanization, literal meaning, and its NIV equivalent. The larger Greek study stays in B-11. John 8:31–32 remains fully quoted near the close. Clarify transitions and pronoun referents without restarting these developed sections.
 
-## 6. The warning before us
+## 6. The invitation before us
 
 **Job:** return to the encounter, compassion, the unresolved severity, and the practice of hearing differently.
 
-Retain the author’s “stark exception” and “anemic in practice” language. The closing now names Jesus’s Jewish inheritance within his humanity. Keep responsibility connected to changed understanding; correct “When understanding change.” The conclusion does not add another theology or repeat the research map.
+Retain Aaron’s title and the “anemic in practice” language, with Jesus’s Jewish inheritance within the account of his humanity. Keep responsibility connected to changed understanding. Make looking deeply concrete: attend to what our judgments keep us from hearing, including a call for accountability or evidence of change. The invitation does not require agreement with this reading, reconciliation, or renewed access. End through the lives and practices at stake rather than another research map.
 
 ## Decisions on proposed additions
 
@@ -123,6 +127,9 @@ Retain the author’s “stark exception” and “anemic in practice” languag
 | Linji / The Sun My Heart | Catalogs checked and reading tasks retained; no claimed chapter reading or invented saying. |
 | Gospel dates, copies, and Thomas | Brief Mark orientation added; separate composition/manuscript questions and remaining Thomas research recorded. |
 | Eternal-sin Greek; doing truth | Added at the relevant passages, without enlarging every supporting reference. |
+| Current review’s response question | Placed after the complete Greek; the accusation is already being made, so a compassionate hearing must face the question of what response remains possible. |
+| Current review’s local moves | Sin/judgment discussion grouped with language and Peshitta; repeated framing compressed; section 5 order and both opening boundary examples retained. |
+| Time, judgment, and the ending | Augustine’s two discussions connected; concrete invitation developed under Aaron’s title “The invitation before us.” |
 | V3 | Not needed for this pass; v2’s six movements still accommodate the refined direction. |
 
 ## Research limits and next review

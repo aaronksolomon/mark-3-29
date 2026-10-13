@@ -50,6 +50,7 @@ The origins of the translation are disputed, with early attempts commonly placed
 - [Mark 3:29](https://www.dukhrana.com/peshitta/analyze_verse.php?font=Serto+Batnan&size=125%25&source=&verse=Mark+3%3A29)
 - [Mark 3:30](https://www.dukhrana.com/peshitta/analyze_verse.php?font=Serto+Batnan&size=125%25&source=&verse=Mark+3%3A30)
 - **Checked:** displayed Syriac, selected morphology, and the accompanying named English translations. This is not manuscript-image collation. Romanizations below are approximate conventional Syriac, not reconstructed first-century pronunciation.
+- **2026-10-12 review and revision:** Mark 3:29 was rechecked in the linked Dukhrana display. This edit aligns the main-text ending with the project rendering below, “judgment that is forever”; it adds no new claim about the Old Syriac reading or the history of the variant.
 
 | Attested expression | Romanization | Project literal English |
 |---|---|---|
@@ -58,7 +59,7 @@ The origins of the translation are disputed, with early attempts commonly placed
 | ܠܕܝܢܐ ܕܠܥܠܡ | *l-dīnā da-l-ʿālam* | to judgment that is forever |
 | ܪܘܚܐ ܛܢܦܬܐ | *rūḥā ṭanpṯā* | an impure spirit |
 
-The Peshitta preserves the emphatic temporal denial and ends with **judgment**, whereas the essay’s critical Greek reads **sin**. The translation does not independently establish whether the difference reflects its Greek exemplar, a translation choice, or revision. *Rūḥā* means spirit here; holiness and impurity are the contrasting descriptions. Holiness is not merely another word for ritual purity, and neither every impure state nor physical illness is thereby a moral fault.
+The Peshitta preserves the emphatic temporal denial and ends with **judgment that is forever**, whereas the essay’s critical Greek reads **eternal sin**. This English wording keeps the noun difference visible without softening the temporal force. The translation does not independently establish whether the difference reflects its Greek exemplar, a translation choice, or revision. *Rūḥā* means spirit here; holiness and impurity are the contrasting descriptions. Holiness is not merely another word for ritual purity, and neither every impure state nor physical illness is thereby a moral fault.
 
 Verse 28 uses the sin vocabulary *ḥṭāhē* and a form of the forgiveness root *š-b-q*. Verse 30 expresses the accusation as an impure spirit being in Jesus. These remain religious claims in the narrative, not merely descriptions of mental attitudes.
 

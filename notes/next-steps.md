@@ -2,17 +2,21 @@
 
 **Active draft:** [working-draft-v2.md](../essay/working-draft-v2.md).  
 **Section plan and decisions:** [outline-v2.md](../essay/outline-v2.md).  
-**Substantive review:** [2026-10-10 review](../essay/reviews/2026-10-10-working-draft-review.md).
+**Current-v2 review:** [2026-10-12 review](../essay/reviews/2026-10-12-working-draft-v2-rev.md).  
+**Earlier v1 review:** [2026-10-10 review](../essay/reviews/2026-10-10-working-draft-review.md).
 
-The current pass follows Aaron’s `fe35e8a` edits. V2 remains active. Buddhism enters earlier, Jewish sources now ground the narrative and interpretation positively, and Mark 4 is treated more carefully within its chapter. The source work is a beginning, not a completed history of Jewish theology. V1, its outline, the review, and archives remain unchanged.
+This revision applies the current-v2 review, which assessed `4b09977e0b94ab3992e35ecd59dfef49ca08eb79`, starting from main at `5566a18b360de1c34bf25f168b0aca79e3afffea`. Aaron’s subsequent section 6 title, “The invitation before us,” is retained. The six movements and section 5 order remain; local changes clarify the question of response, group the language study, reduce repeated framing, connect Augustine’s accounts of time and finality, and make the closing invitation concrete. Both early boundary-crossing examples and all Greek, romanization, and literal English remain. V1, its outline, both reviews, and archives are preserved.
 
-## Immediate reading and writing
+This is a clarity and precision pass, not completion of the specialist research below. The inherited [claim audit](claim-audit.md) records risks to avoid; its older rows should not be read as a list of defects still present in v2.
 
-1. Read the opening through the end of §2. Does Buddhist comparison have a clear purpose before technical study begins? Does Jesus’s Jewish inheritance feel constitutive rather than an added disclaimer? Compress repetition rather than add more boundary-crossing stories.
-2. Check the new Jewish paragraphs in §3. Ben Sira, the later Mishnah, and medieval Maimonides must not become one undifferentiated account of what Jesus’s contemporaries believed. A sympathetic portrayal should still retain hardening, judgment, and obligations after harm.
-3. Re-read Mark 4:10–25 with Isaiah 6:9–13 and Matthew 13:10–17. The current draft distinguishes its hardening question from Matthew 12:32’s explicit temporal scope. Have both a compassionate-warning reader and a finality reader test this paragraph.
-4. Keep the six movements proportionate. The expanded research belongs chiefly in the sources. The only-child comparison, fuller semantic history, and Zen comparisons must not each become another essay.
-5. Retain the complete print-visible Greek and John’s abiding/doing-truth passages. Verify romanization and the two new Hebrew study renderings before circulation. Keep all editions and translator attributions visible.
+## Immediate reading and polishing
+
+1. Read the narrative, complete Greek, and response question together. Does the compassionate hearing remain clear while facing what Mark says the hearers are already doing? Keep Jesus’s warning and their accusation distinct, and avoid turning an intended response into a recorded result.
+2. Read for flow and proportion before adding material. Check transitions through the language and reception discussion, and from the person/time comparisons into compassionate speech and practice. Each source should advance the encounter or its reception rather than begin another essay.
+3. Test the hardest evidence with both a compassionate-warning reader and a principled finality reader. Matthew 12:32 names the two-age scope; Mark 4 retains disclosure, concealment, and judgment. The connection between Augustine’s lived time and final-impenitence reading should keep temporal subtlety from being used as proof against finality.
+4. Read the ending with Christian, Buddhist, and other readers in mind. Looking deeply should name attention to actual judgments, harm, and possible change; it should not make accepting this interpretation the test of openness. Preserve the distinction between transformation, divine forgiveness, reconciliation, and restored trust.
+
+Keep the complete print-visible Greek and John’s abiding/doing-truth passages. Greek, Hebrew, and Syriac review and edition-level quotation checks remain before circulation; do not represent local consistency edits as specialist verification.
 
 ## Jewish study: next bounded pass
 
@@ -33,10 +37,10 @@ A separate compact chronology should distinguish Gospel composition, surviving m
 
 ## Continuing controls
 
-Compassion is the author’s guiding commitment, not a reason to describe all disagreement as cruelty or dogmatism. An act of warning may express concern while its threatened outcome remains disputed. Mark records no reply between the parabolic argument and warning. Refusal of healing is an interpretive possibility, not a grammatical proof that forgiveness automatically follows a change of mind.
+Compassion is the author’s guiding commitment, not a reason to describe all disagreement as cruelty or dogmatism. An act of warning may express concern while its threatened outcome remains disputed. Mark records no reply between the parabolic argument and warning, and verse 30 relates the warning to an accusation already being made. Refusal of healing is an interpretive possibility, not a grammatical proof that forgiveness automatically follows a change of mind.
 
 The wider [research queue](../sources/to-find.md) remains: critical commentaries, the full Kręcidło article, manuscript apparatus, original-language patristic editions, and a fuller historical-semantic corpus. None is represented as completed in this pass.
 
 ## Before circulation and preservation
 
-Check quotations against their editions and seek competent Greek/Hebrew review, a principled contrary theological reading, and Jewish review of the historical framing. Aaron controls personal narrative and publication voice. Keep edits in v2; preserve v1, its outline, the dated review, and archives. Use Git history instead of multiplying draft files.
+Check quotations against their editions and seek competent Greek/Hebrew/Syriac review, a principled contrary theological reading, and Jewish review of the historical framing. Aaron controls personal narrative and publication voice. Keep edits in v2; preserve v1, its outline, both dated reviews, and archives. Use Git history instead of multiplying draft files.

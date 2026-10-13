@@ -1,6 +1,8 @@
-# Claim audit — do not silently inherit the conversation’s overstatements
+# Claim audit — inherited cautions and continuing questions
 
-**Status:** initial audit, 2026-10-10; expanded after Aaron’s revision `6801a0b` for dogmatism and nondual reading. Earlier assistant answers supplied useful leads but were not uniformly reliable. This file governs promotion from archive to active prose.
+**Status:** initial audit, 2026-10-10; expanded after Aaron’s revision `6801a0b` for dogmatism and nondual reading. Status clarified during application of the [2026-10-12 v2 review](../essay/reviews/2026-10-12-working-draft-v2-rev.md), which assessed `4b09977`; this revision starts from `5566a18`.
+
+The table preserves inherited overstatements and recurring interpretive risks, not a checklist of errors currently present in v2. Many have already been addressed. Before diagnosing a current defect, locate the actual wording in [working-draft-v2.md](../essay/working-draft-v2.md); use the [outline](../essay/outline-v2.md) and [next steps](next-steps.md) for the accepted revision and remaining work. Earlier assistant answers remain research leads rather than authority for promotion from the archives. The questions below remain open even where the prose now states their limits more clearly.
 
 | Claim or formulation | Assessment and required handling |
 |---|---|
@@ -53,6 +55,7 @@
 6. What survives of the proposed interpretation under the strongest irreversible-hardening reading?
 7. How can practice inform interpretation without making preference or one community’s experience self-validating?
 8. What can nondual reading disclose while preserving the distinction between a source’s claims and our constructive use of it?
-9. What would count against the essay’s account of rigidity, and how would we recognize that evidence?
+9. What would count against the account of clinging to a judgment, and how would we recognize that evidence?
+10. What response might the compassionate warning seek from hearers who are already making the accusation named in Mark 3:30? The preferred hearing does not itself establish which future outcomes remain possible.
 
 **Source status:** the lexical and selected reception passages have been checked in accessible online editions. Critical manuscript witnesses, primary patristic languages, and much of the historical semantic corpus remain to be studied. See the [reading queue](../sources/to-find.md) and the focused leads in [nonattachment and nondual reading](../sources/nonattachment-and-nondual-reading.md#further-reading-kept-out-of-the-main-draft-for-now).
