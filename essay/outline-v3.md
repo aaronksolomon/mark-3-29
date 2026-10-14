@@ -1,5 +1,11 @@
 # Version 3 outline and revision map
 
+## Publication branch, October 14, 2026
+
+This branch develops the v3 text from `main` at `229d3c0` into a publication candidate. The original v3 on main remains unchanged. The six-section structure below remains; the present pass expands the central warning/purpose/outcome distinction and section 5’s connections, adds 54 footnotes and a linked bibliography, and supplies a high-quality PDF build. See [the publication review](../notes/publication-review.md) for material changes, verification scope, and remaining publication decisions.
+
+## Approved v3 baseline and earlier revision map
+
 **Status:** approved selective clarity-and-flow pass, 2026-10-12, based on Aaron’s restored v3 at `e0ba6792e8d4bb5adce4430e091ce6701516b21a`. The six numbered sections correspond to [working-draft-v3.md](working-draft-v3.md). This continues the restored language; it is not a compression pass or a blend of the two drafts.
 
 **Provenance:** Aaron restored the essay language from frozen v2 at `5566a18` as the active v3. The remote structural revision at `f8679bb` remains separately preserved in [working-draft-v3-alt.md](working-draft-v3-alt.md) and [outline-v3-alt.md](outline-v3-alt.md). The [2026-10-12 review](reviews/2026-10-12-working-draft-v2-rev.md) examined earlier v2 at `4b09977`; it and the alternate supply selected corrections and connections, not a replacement voice. V2 began at `178a320` from v1 at `6370787`. The frozen drafts, alternate, their outlines, both dated reviews, and archives remain unchanged.

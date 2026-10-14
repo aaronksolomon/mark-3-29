@@ -1,0 +1,22 @@
+documentclass: article
+fontsize: 11pt
+papersize: letter
+geometry:
+  - top=1in
+  - bottom=1in
+  - left=1.05in
+  - right=1.05in
+  - headheight=14pt
+  - headsep=20pt
+mainfont: Noto Serif
+sansfont: Noto Sans
+monofont: DejaVu Sans Mono
+linestretch: 1.12
+colorlinks: true
+linkcolor: black
+urlcolor: black
+citecolor: black
+link-citations: true
+secnumdepth: 0
+date: ''
+author: Aaron Solomon

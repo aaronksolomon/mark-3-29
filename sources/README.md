@@ -1,5 +1,7 @@
 # Sources and research status
 
+**Publication verification, October 14, 2026:** See the [verification record](../notes/publication-review.md) and [footnote-to-dossier map](../notes/publication-source-map.md). The essay now contains reader-facing footnotes and a bibliography. The following source dossiers retain their earlier bounded research status; the publication pass does not turn acquisition leads into consulted works.
+
 **Initial source check: 2026-10-10; targeted additions: 2026-10-11–12.** These are working notes, not a completed literature review. Source files preserve useful quotations and questions without storing full third-party works. The latest additions collect the Aramaic research, examine Hebrew-language possibilities, and distinguish age-language from lived and liturgical time.
 
 ## Topic map

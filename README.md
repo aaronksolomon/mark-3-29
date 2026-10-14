@@ -4,6 +4,10 @@ A writing and research workspace directed by Aaron Solomon.
 
 The project hears Mark 3:28–30 as a possible compassionate wake-up call: Jesus’s severe warning may seek to awaken those who have called his liberating work evil. This preferred hearing remains accountable to the wording and its difficult claims about forgiveness. The inquiry brings together the human encounter, Jewish scriptural inheritance, language and interpretation, Paul’s transformation, and the practice of listening deeply. Buddhist and Plum Village teachings participate as substantive comparative resources, not substitutes for Greek exegesis.
 
+## Publication-polish branch
+
+This branch contains a publication candidate developed from v3 at `229d3c0`. **The original v3 on main is unchanged; this branch is not merged.** Read the [essay](essay/working-draft-v3.md), the [editorial/verification record](notes/publication-review.md), and the [PDF build instructions](typesetting/README.md). The candidate has print footnotes, a linked bibliography, and a reproducible Pandoc/XeLaTeX build. Generated PDFs are kept outside this text-only repository.
+
 ## Active work: version 3
 
 - [Working draft v3](essay/working-draft-v3.md) — continues the restored frozen-v2 language with selected corrections and clearer connections; no compression target.
@@ -32,7 +36,7 @@ The compassionate-warning reading remains a qualified working emphasis, not a se
 
 ## Editorial status
 
-This is a research workspace, not a finished article. Working prose and source notes are assistant-assisted unless a file states otherwise. Earlier drafts are preserved as historical drafts, not as endorsed statements or verified evidence.
+This remains a research workspace. The publication branch provides a polished candidate for Aaron’s review, not a claim of completed specialist review or publisher clearance. Working prose and source notes are assistant-assisted unless a file states otherwise. Earlier drafts are preserved as historical drafts, not as endorsed statements or verified evidence.
 
 The repository is public. Do not add identifying details about third parties or new autobiographical particulars without Aaron’s explicit approval. Community and third-party names have been omitted from the initial archive where appropriate; omissions are identified, not silently presented as verbatim text.
 

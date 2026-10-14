@@ -7,7 +7,7 @@
 **Robert G. Bratcher and Eugene A. Nida, Mark translation handbook; online extract, “Translation commentary on Mark 3:29–3:30,” UBS material hosted by TIPs.**
 
 - [Relevant extract](https://tips.translation.bible/story/translation-commentary-on-mark-329-330/)
-- **Status:** relevant extract checked, not the complete handbook or manuscript apparatus. Confirm the exact print edition when a formal bibliography is prepared.
+- **Status:** relevant extract checked, not the complete handbook or manuscript apparatus. The excerpt’s attribution was rechecked on October 14, 2026: Robert G. Bratcher and Eugene A. Nida, *A Handbook on the Gospel of Mark*, UBS Handbook Series (New York: UBS, 1961).
 - **Brief quotation:** “In this passage the phrase means ‘eternally,’ ‘forever’.”
 
 **Use:** the handbook treats the negative age-idiom as strong non-forgiveness; discusses aphesis, liability, the explanatory imperfect in verse 30, and the preferred “sin” reading over “judgment.” It explains that liability language here names what one is guilty of, not a specified punishment.
