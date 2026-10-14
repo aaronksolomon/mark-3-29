@@ -59,3 +59,11 @@ The table preserves inherited overstatements and recurring interpretive risks, n
 10. What response might the compassionate warning seek from hearers who are already making the accusation named in Mark 3:30? The preferred hearing does not itself establish which future outcomes remain possible.
 
 **Source status:** the lexical and selected reception passages have been checked in accessible online editions. Critical manuscript witnesses, primary patristic languages, and much of the historical semantic corpus remain to be studied. See the [reading queue](../sources/to-find.md) and the focused leads in [nonattachment and nondual reading](../sources/nonattachment-and-nondual-reading.md#further-reading-kept-out-of-the-main-draft-for-now).
+
+## October 14 author-framing revision
+
+- **Audience:** Mark 3:23 directly addresses the scribes. The crowd at 3:20 and 3:32 permits a proposal about wider effects, not a claim that everyone heard the warning or that Mark explicitly changes its addressees. No successful interruption or conversion is narrated.
+- **Nonviolence:** Wink’s Matthew 5 interpretation supplies a conceptual comparison, not direct Mark 3 exegesis. Severe speech is not proved compassionate by its force or nonviolent by its lack of physical contact. The warning’s possible protective effect does not settle eternal sin or excuse intimidation.
+- **Coercion:** Wink allows nonviolent pressure that compels unwelcome choices. Do not collapse this into simple noncoercion or the Buddhist prohibition on imposing belief. The footnote records this distinction.
+- **Jewish voices:** Eduyot, Eruvin, Akiva’s Yoma teaching, and Sacks are heard as differentiated Jewish interlocutors. Later rabbinic literature does not reconstruct the first-century scribes’ minds. Sacks’s cited essay discusses Avot and Eruvin, not Eduyot. Acknowledging another school does not abolish rulings or discernment.
+- **Syriac:** The remission comparison is attested lexical usage, not etymological theology, a lost Aramaic original, or a temporal escape from the denial. The Peshitta OT/NT histories differ; no new Old Syriac variant is promoted.

@@ -2,11 +2,11 @@
 
 A writing and research workspace directed by Aaron Solomon.
 
-The project hears Mark 3:28–30 as a possible compassionate wake-up call: Jesus’s severe warning may seek to awaken those who have called his liberating work evil. This preferred hearing remains accountable to the wording and its difficult claims about forgiveness. The inquiry brings together the human encounter, Jewish scriptural inheritance, language and interpretation, Paul’s transformation, and the practice of listening deeply. Buddhist and Plum Village teachings participate as substantive comparative resources, not substitutes for Greek exegesis.
+The project hears Mark 3:28–30 as a severe warning that may awaken its hearers and disrupt a harmful judgment. Its possible compassion includes care for those making the accusation and for others whose understanding the accusation could shape. This reading remains accountable to the wording and its difficult claims about forgiveness. The inquiry brings together the human encounter, Jewish scriptural inheritance, language and interpretation, Paul’s transformation, and the practice of listening deeply. Buddhist and Plum Village teachings participate as substantive comparative resources, not substitutes for Greek exegesis.
 
 ## Publication-polish branch
 
-This branch contains a publication candidate developed from v3 at `229d3c0`. **The original v3 on main is unchanged; this branch is not merged.** Read the [essay](essay/working-draft-v3.md), the [editorial/verification record](notes/publication-review.md), and the [PDF build instructions](typesetting/README.md). The candidate has print footnotes, a linked bibliography, and a reproducible Pandoc/XeLaTeX build. Generated PDFs are kept outside this text-only repository.
+This branch contains a publication candidate developed from v3 at `229d3c0`, now incorporating Aaron’s newly pushed framing at `c448513`. **The original v3 on main is unchanged; this branch is not merged.** Read the [essay](essay/working-draft-v3.md), the [editorial/verification record](notes/publication-review.md), and the [PDF build instructions](typesetting/README.md). The candidate has print footnotes, a linked bibliography, and a reproducible Pandoc/XeLaTeX build. Generated PDFs are kept outside this text-only repository.
 
 ## Active work: version 3
 
@@ -17,7 +17,7 @@ This branch contains a publication candidate developed from v3 at `229d3c0`. **T
 - [Earlier v1 review, 2026-10-10](essay/reviews/2026-10-10-working-draft-review.md) — the review that helped shape v2; its baseline predates the author’s final v1 edits.
 - [Next steps](notes/next-steps.md) — priorities for section-by-section revision.
 
-The compassionate-warning reading remains a qualified working emphasis, not a settled answer about finality. Active v3 preserves the unfolding prose and complete print-visible Greek study restored at `e0ba679`, incorporating selected clarity improvements approved by Aaron. The alternate remains unchanged. The lexical, historical, and reception research remains bounded and incomplete.
+The reading of warning as potentially compassionate disruption remains qualified, not a settled account of Jesus’s intention or an answer about finality. Active v3 preserves the unfolding prose and complete print-visible Greek study restored at `e0ba679`, incorporating selected clarity improvements approved by Aaron. The alternate remains unchanged. The lexical, historical, and reception research remains bounded and incomplete.
 
 ## Preserved version 2
 

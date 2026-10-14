@@ -5,9 +5,9 @@ ordinary Markdown footnotes to numbered page footnotes. A small Lua filter moves
 the leading title and subtitle into the title block and promotes section levels;
 it does not change the essay's wording. It keeps standalone verse labels with
 their text, binds footnote callouts to the preceding punctuation, and keeps the
-closing paragraph intact. A `bibliography` fenced div receives hanging indents
+closing paragraph intact. It also keeps block quotations with their attributions and the language-study heading with its first verse. A `bibliography` fenced div receives hanging indents
 and compact spacing, and its heading starts a new page. The PDF has embedded Noto Serif fonts,
-polytonic Greek coverage, clickable source links, bookmarks, and page numbers.
+polytonic Greek coverage, clickable source links, bookmarks, and page numbers. Running headers are omitted for a consistent, quiet page design. Hyphenation is constrained to avoid one-letter fragments and word breaks across pages.
 No generated PDF, TeX intermediate, or font binary belongs in this repository.
 
 ## Requirements

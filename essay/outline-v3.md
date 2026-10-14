@@ -2,7 +2,13 @@
 
 ## Publication branch, October 14, 2026
 
-This branch develops the v3 text from `main` at `229d3c0` into a publication candidate. The original v3 on main remains unchanged. The six-section structure below remains; the present pass expands the central warning/purpose/outcome distinction and section 5’s connections, adds 54 footnotes and a linked bibliography, and supplies a high-quality PDF build. See [the publication review](../notes/publication-review.md) for material changes, verification scope, and remaining publication decisions.
+This branch develops the v3 text from `main` at `229d3c0` into a publication candidate, incorporating Aaron’s subsequent opening and framing edits at `c448513`. The original v3 on main remains unchanged by this work. The six-section structure remains, with print footnotes, a linked bibliography, and a high-quality PDF build. See [the publication review](../notes/publication-review.md) for material changes, verification scope, and remaining publication decisions.
+
+### Current direction after the author’s newly pushed edits
+
+The earlier map below records the approved baseline, not a veto on Aaron’s October 14 revision. The current emphasis is more carefully calibrated: the saying may awaken the accusers, disrupt harmful speech, and warn other witnesses. The scribes remain the immediate addressees in Mark 3:23; a wider effect is inferred from the crowd-framed scene, not reported as a change of audience. Compassion is a possible quality of this intervention, not an intention proved by its severity.
+
+The opening now supplies a concrete Jewish counterpart to Buddhist nonattachment. The developed Jewish discussion retains the integrity and chronological differences of its voices. The Semitic-language material enriches the account of transmission and forgiveness without reconstructing Jesus’s lost words. Walter Wink’s account of active nonviolence supplies an explicitly comparative frame: confronting harm without reducing its author to an enemy. It is not presented as Wink’s exegesis of Mark 3. The conclusion returns to both direct hearers and affected witnesses while preserving the hardest textual evidence and the final question.
 
 ## Approved v3 baseline and earlier revision map
 

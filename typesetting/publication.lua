@@ -34,8 +34,14 @@ function Pandoc(doc)
       return {pandoc.RawBlock('latex', '\\needspace{5\\baselineskip}'), p}
     end
   end})
-  return doc:walk({Header = function(h)
+  return doc:walk({BlockQuote = function(b)
+    return {pandoc.RawBlock('latex', '\\begin{samepage}'), b,
+      pandoc.RawBlock('latex', '\\end{samepage}')}
+  end, Header = function(h)
     h.level = math.max(1, h.level - 1)
+    if pandoc.utils.stringify(h.content) == 'The words of the passage' then
+      return {pandoc.RawBlock('latex', '\\needspace{9\\baselineskip}'), h}
+    end
     if pandoc.utils.stringify(h.content) == 'Bibliography' then
       return {pandoc.RawBlock('latex', '\\clearpage'), h}
     end

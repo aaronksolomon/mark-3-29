@@ -56,3 +56,10 @@ The publication apparatus replaces reader-facing research IDs with full source n
 - `n55`: [ND-04](../sources/nonattachment-and-nondual-reading.md#nd-04--a-koan-involving-the-reader)
 - `n56`: [B-09](../sources/biblical-texts.md#b-09)
 - `n57`: [B-11](../sources/biblical-texts.md#b-11)
+- `n58`: [NV-03](../sources/nonviolence-and-disruption.md#nv-03--addressees-and-possible-wider-effects-in-mark)
+- `n59`: [NV-01–NV-02](../sources/nonviolence-and-disruption.md#nv-01--wink-on-loving-confrontation)
+- `n60`: [JC-12–JC-13](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-12--retaining-rejected-opinions-and-learning-from-a-rival)
+- `n61`: [JC-12](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-12--retaining-rejected-opinions-and-learning-from-a-rival)
+- `n62`: [AS-10](../sources/semitic-gospel-witnesses.md#as-10--the-syriac-forgiveness-clause-and-remission)
+
+The October 14 revision also extends `n25` through [JC-14](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-14--rabbi-akiva-completes-the-yoma-passage), and `n16`/`n22` through AS-10.
