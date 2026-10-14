@@ -93,3 +93,19 @@ The repository is public. Add no new personal incidents, identifying community n
 ## Repository discipline
 
 Prefer ordinary UTF-8 Markdown and small text files. No binaries, full copyrighted texts, font files, credentials, or generated dependency trees. Keep quotations brief and attributed. No license change without Aaron’s decision. Read the current branch before a write; preserve others’ work; never force-push over an unexpected head. Verify that v1, frozen v2, v3-alt, their outlines, dated reviews, and archives are absent from the change set when updating active v3.
+
+### GitHub connector access and safe publication
+
+Adapted from the [Collatz coordination publication procedure](https://github.com/aaronksolomon/Collatz_Project/blob/main/docs/research/integer-admissibility/coordination/AGENTS.md#atomic-claim-and-publication). A read-only checkout or unavailable local Git authentication does not by itself mean GitHub publication is unavailable: check the connected GitHub tools for the authorized repository. This is an alternate supported transport, not permission to bypass an access denial, branch protection, or an approval requirement. Never put credentials in files, URLs, or messages.
+
+Confirm the repository (`aaronksolomon/mark-3-29`), authorized branch, and exact changed paths before writing. Do not assume the local checkout is on the target branch. A documentation update to `main` must start from remote `main`, not from `publication-polish`; it does not authorize merging the polished essay or replacing the original v3.
+
+When normal file tools or local push are unavailable, use the connector's Git data route. Tool names below refer to the GitHub connector; inspect the current schemas rather than guessing arguments.
+
+1. **Read current state.** Use `fetch` with `https://api.github.com/repos/aaronksolomon/mark-3-29/git/ref/heads/BRANCH` to record the current head SHA. Read `/git/commits/HEAD_SHA` for its tree SHA, then `/git/trees/TREE_SHA?recursive=1` to locate paths and blob SHAs. Check for truncated results. Read exact bytes with `fetch_file` at that commit or `fetch_blob` by SHA; inspect the applicable `AGENTS.md` hierarchy.
+2. **Prepare only approved changes.** Preserve unrelated files and dirty work. With local Git, inspect `git status --short`, stage explicit paths only, and run `git diff --cached --name-status` and `git diff --cached --check`. Never use repository-wide staging, commit-all, or deletion of paths merely absent from a sparse checkout.
+3. **Create and verify blobs.** Call `create_blob` for each changed file with `encoding="utf-8"`; retain and verify the returned SHA/content. Do not re-upload unchanged files.
+4. **Build on the current tree.** Call `create_tree` with `base_tree_sha` from step 1 and only the intended entries in `tree_elements` (`path`, existing `mode`, `type="blob"`, new blob `sha`). Never build an incomplete tree from scratch. Inspect the resulting tree/diff for unexpected paths, modes, or deletions.
+5. **Create one commit.** Call `create_commit` with that new `tree_sha` and the recorded head as `parent_sha`, without extra parents. Verify the parent and complete changed-file list before publication.
+6. **Update safely.** Re-read the branch ref. If it still matches, call `update_ref` with the exact `branch_name`, new commit `sha`, `expected_sha` equal to the recorded head, and `force=false`. If the head changed or the lease is rejected, inspect the new head and reapply only the authorized changes to its current files, rebuilding the tree and commit. Never force an unexpected head or overwrite another person's changes.
+7. **Verify delivery.** Re-read the remote ref, commit, and changed files; confirm the expected commit and content are present and only authorized paths changed. A created blob/tree/commit alone is not a published save. If the update response is lost or uncertain, inspect remote state before retrying. Report the verified commit URL and paths.
