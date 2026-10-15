@@ -1,5 +1,7 @@
 # Sources and research status
 
+**Publication verification, October 14, 2026:** See the [verification record](../notes/publication-review.md) and [footnote-to-dossier map](../notes/publication-source-map.md). The essay now contains reader-facing footnotes and a bibliography. The following source dossiers retain their earlier bounded research status; the publication pass does not turn acquisition leads into consulted works.
+
 **Initial source check: 2026-10-10; targeted additions: 2026-10-11–12.** These are working notes, not a completed literature review. Source files preserve useful quotations and questions without storing full third-party works. The latest additions collect the Aramaic research, examine Hebrew-language possibilities, and distinguish age-language from lived and liturgical time.
 
 ## Topic map
@@ -8,13 +10,14 @@
 |---|---|---|
 | [Biblical texts](biblical-texts.md) | Mark and Synoptic parallels; Paul; John; Greek study apparatus | B-01 onward |
 | [Greek and semantic history](greek-and-semantic-history.md) | Contextual meanings, idioms, grammar, variants, and limits of lexical argument | L-01 onward |
-| [Aramaic and Hebrew witnesses](semitic-gospel-witnesses.md) | Old Syriac/Peshitta, actual spirit/forgiveness wording, Hebrew and Temple language, Casey, labeled reconstruction exercises | AS-01–AS-09 |
+| [Aramaic and Hebrew witnesses](semitic-gospel-witnesses.md) | Old Syriac/Peshitta, actual spirit/forgiveness wording, Hebrew and Temple language, Casey, labeled reconstruction exercises | AS-01–AS-10 |
 | [Time, age, and eternity](time-age-and-eternity.md) | Eon/aiōn, ʿolam, Passover memory, Augustine’s three presents, present eternal life, chronological and contemplative controls | TA-01–TA-07 |
-| [Jewish contexts and cross-tradition inquiry](jewish-context-and-cross-tradition-inquiry.md) | Sabbath, mercy and warning, Ben Sira, Mishnah, Maimonides, contemporary reading, boundary-crossing, Mark 4, reserve parallels | JC-01–JC-11 |
+| [Jewish contexts and cross-tradition inquiry](jewish-context-and-cross-tradition-inquiry.md) | Sabbath, mercy and warning, Ben Sira, Mishnah, Maimonides, contemporary reading, boundary-crossing, Mark 4, reserve parallels | JC-01–JC-14 |
 | [Interpretation history](interpretation-history.md) | Didache, Chrysostom, Augustine, Aquinas, Calvin, MacDonald, Catholic teaching | R-01 onward |
 | [Rigidity and discernment](rigidity-and-discernment.md) | Hardening, profession and care, antidotes, Christian responsibility during the Holocaust, interpretive controls | RD-00 onward |
 | [Nonattachment and nondual reading](nonattachment-and-nondual-reading.md) | Dogmatism, two truths, koan-like inquiry, Gospel parallels, and MN 58 on true and beneficial speech | ND-01–ND-09 |
 | [Humanity and provocative teaching](humanity-and-provocative-teaching.md) | Mark’s narrative, humanity/divinity, only-child comparison, Linji lead, Greek composition, Chrysostom’s setting | HT-01–HT-08 |
+| [Nonviolence and disruption](nonviolence-and-disruption.md) | Wink’s active nonviolence, coercive pressure, direct addressees and possible witness effects | NV-01–NV-03 |
 | [Modern scholarship](modern-scholarship.md) | Checked articles/catalogs, methodological resources, historical harm | S-01 onward |
 | [Forgiveness and reconciliation](plum-village/forgiveness-and-reconciliation.md) | Beginning Anew, reconciliation teaching, books and recordings | PV-01–PV-03, PV-11 |
 | [Time and transformation](plum-village/time-and-transformation.md) | Interbeing of the three times; continuation and transformation | PV-04–PV-06 |

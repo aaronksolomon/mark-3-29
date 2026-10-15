@@ -1,5 +1,7 @@
 # Next steps — the v3 revision
 
+**Publication branch update, October 14, 2026:** The polishing and public-facing source apparatus described below have now been developed on `publication-polish`, leaving main unchanged. Use the current [publication review](publication-review.md) for completed work and the remaining author, specialist, outlet, and permissions decisions. The earlier section-by-section guidance below is retained as background, not an outstanding checklist.
+
 **Active draft:** [working-draft-v3.md](../essay/working-draft-v3.md).
 **Section plan and decisions:** [outline-v3.md](../essay/outline-v3.md).
 **Alternate draft and outline:** [working-draft-v3-alt.md](../essay/working-draft-v3-alt.md) and [outline-v3-alt.md](../essay/outline-v3-alt.md), preserved for comparison.

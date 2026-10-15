@@ -66,7 +66,7 @@ The article also repeats punitive anti-Jewish interpretation concerning Roman de
 **John Calvin, Commentary on a Harmony of the Evangelists, Matthew, Mark, and Luke; discussion of Matthew 12:31–32 and parallels.**
 
 - [CCEL English text](https://ccel.org/ccel/calvin/calcom32/calcom32.ii.xiii.html)
-- **Status:** relevant discussion and excerpt rechecked; exact print translation details to confirm for final bibliography.
+- **Status:** relevant discussion and excerpt rechecked; online title page rechecked on October 14, 2026: translated by William Pringle, vol. 2. The publication bibliography cites the consulted CCEL edition without inventing a print imprint.
 - **Brief quotation:** “they never have any desire towards repentance”.
 
 Calvin distinguishes ignorance, exemplified by Paul, from malicious rejection of recognized divine truth. On his reading the completed sin signals irreversible hardening: the person will not subsequently desire repentance. That makes a repentant applicant being rejected unnecessary, but makes irreversibility a major interpretive premise.

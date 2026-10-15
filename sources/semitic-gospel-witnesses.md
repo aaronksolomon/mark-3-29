@@ -134,3 +134,13 @@ Hebrew *ruaḥ* and Syriac *rūḥā* belong to the same Semitic word-family. Th
 No definite claim about Jesus’s exact words follows from how easily the meaning can be expressed in Hebrew. The root choices, word order, tense/aspect, and formal register need expert review. Modern Hebrew New Testament translations, including Delitzsch’s nineteenth-century version displayed at [Mark 3:29](https://biblehub.com/text/mark/3-29.htm), are comparisons, not ancient witnesses.
 
 **Previous Syriac experiment:** the chat replaced the attested Peshitta ending about judgment with a constructed sin-phrase to match the critical Greek. That hybrid was explicitly conjectural. It must never be relabeled a Peshitta quotation or a recovered Galilean saying. Preserve the distinction between an attested translation and a proposed back-translation rather than circulating the hybrid without its warning.
+
+## AS-10 — The Syriac forgiveness clause and remission
+
+**Checked October 14, 2026.** Peshitta Mark 3:29, BFBS text, [Dukhrana display and SEDRA analysis](https://www.dukhrana.com/peshitta/analyze_verse.php?font=Serto+Batnan&size=125%25&source=&verse=Mark+3%3A29), reads the clause romanized *layt leh šubqānā l-ʿālam*. The essay supplies its study rendering and retains the force of the denial. Romanization is a reading aid, not reconstructed Galilean pronunciation.
+
+The [Comprehensive Aramaic Lexicon entry *šwbqn*](https://cal.huc.edu/oneentry.php?cits=all&lemma=%24wbqn+N), senses 2–3, directly checked, attests forgiveness and remission. Its Deuteronomy 15:1 citation connects the noun to remission of debt; the corpus-detail link itself was unavailable, so this is a checked lexical citation, not independent critical collation of the Deuteronomy text. A lexical range does not make every sense active in Mark’s sentence or reduce pardon to inward psychology.
+
+The [CAL language overview](https://cal.huc.edu/aramaic_language.html), “Christian Aramaic Literature,” distinguishes Syriac associated with Edessa from Palestinian Aramaic and notes Aramaic expressions retained in Greek Gospels. Mark 5:41 supplies the concrete example in the essay; [text checked](https://bible.usccb.org/bible/mark/5). [GEDSH, “Peshitta,”](https://gedsh.bethmardutho.org/Peshitta) distinguishes the Old and New Testament version histories. These witnesses deepen the reading without providing a lost original of Mark 3 or a gentler temporal idiom.
+
+No new Old Syriac sin/judgment claim is added. An electronic transcription was located, but the complete passage was not verified in a critical edition. The prior collation task remains open.

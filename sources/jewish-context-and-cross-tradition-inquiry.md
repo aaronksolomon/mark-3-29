@@ -143,3 +143,17 @@ Build a small chronological corpus: Hebrew scripture and Greek Jewish translatio
 The next priorities are Sabbath interpretation; differentiated wrongdoing and repentance; atonement and interpersonal repair; hardening and the possibility of turning; and the distinction between composition and manuscript dates. Bring the existing Barr/Anderson reading queue into this study. A qualified Jewish reader and a scholar of early Judaism would be especially valuable for testing both the positive account and its omissions.
 
 **Editorial decision:** retain v2. Introduce Buddhism earlier as a source of perspective; ground Jesus’s own teaching positively in Jewish sources; keep larger comparisons in notes. Compassion remains the author’s organizing commitment, not proof of every historical intention or a reason to call every contrary reading cruel.
+
+## JC-12 — Retaining rejected opinions and learning from a rival
+
+**Checked October 14, 2026.** Mishnah Eduyot 1:4, [Hebrew text](https://mechon-mamre.org/b/h/h47.htm), explains preserving rejected opinions as teaching a person not to insist upon their own position. The surrounding unit concerns legal deliberation and records concrete disagreements; it does not abandon law or render all claims equally valid. The essay paraphrases the Hebrew rather than attributing an unconsulted English translation.
+
+Babylonian Talmud Eruvin 13b, [Hebrew/Aramaic text](https://mechon-mamre.org/b/l/l2201.htm), passage beginning with Rabbi Abba’s report in Samuel’s name, commends Hillel’s school for teaching the rival account and putting it before its own. The essay supplies a brief marked study rendering. A practical ruling remains. These later formulations do not establish that Mark’s scribes held these maxims or that Jesus used them in this encounter. They offer independent Jewish resources for the practice of interpretation, not a generic theory of relativism.
+
+## JC-13 — Jonathan Sacks on argument for the sake of heaven
+
+Jonathan Sacks, [“Argument for the Sake of Heaven,”](https://rabbisacks.org/covenant-conversation/korach/argument-for-the-sake-of-heaven/) *Covenant & Conversation*, Korach, 5768/5779, The Rabbi Sacks Legacy. **Text checked October 14, 2026.** The essay’s six-word quotation occurs immediately after Sacks’s quotation of Eruvin 13b. He directly discusses Avot 5:17 and Eruvin 13b, not Eduyot 1:4. The surrounding account includes Korach’s destruction, religious judgment, and the question whether force resolves disagreement. This is a modern Jewish theological voice, not a historical source for Jesus’s precise intention. It lets a continuing Jewish tradition speak in its own terms rather than supplying only background to Christian or Buddhist interpretation.
+
+## JC-14 — Rabbi Akiva completes the Yoma passage
+
+Mishnah Yoma 8:9, [Hebrew text](https://mechon-mamre.org/b/h/h25.htm), displayed as 8:7 [9], ends with Rabbi Akiva’s address to Israel concerning purification by their heavenly Father. **Text checked October 14, 2026.** The essay adds a marked study rendering of his question and answer. This is the same unit that rejects planned reliance on later atonement and requires addressing the person harmed. Akiva draws on Ezekiel 36:25 and Jeremiah 17:13. Divine purification and interpersonal responsibility coexist in the unit; they are not interchangeable concepts, and its address to Israel must not silently become a claim that the Mishnah teaches universal salvation. This later rabbinic voice is not a transcript of Mark’s encounter.
