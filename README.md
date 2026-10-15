@@ -6,7 +6,7 @@ The project hears Mark 3:28–30 as a severe warning that may awaken its hearers
 
 ## Publication-polish branch
 
-This branch contains a publication candidate developed from v3 at `229d3c0`, now incorporating Aaron’s newly pushed framing at `c448513`. **The original v3 on main is unchanged; this branch is not merged.** Read the [essay](essay/working-draft-v3.md), the [editorial/verification record](notes/publication-review.md), and the [PDF build instructions](typesetting/README.md). The candidate has print footnotes, a linked bibliography, and a reproducible Pandoc/XeLaTeX build. Generated PDFs are kept outside this text-only repository.
+The publication candidate developed from v3 at `229d3c0`, incorporating Aaron’s framing at `c448513`, is now merged into `main` as the active [essay](essay/working-draft-v3.md). The immediately preceding v3 draft and its outline are preserved as [working-draft-v3-frozen.md](essay/working-draft-v3-frozen.md) and [outline-v3-frozen.md](essay/outline-v3-frozen.md) for comparison. Read the [editorial/verification record](notes/publication-review.md) and [PDF build instructions](typesetting/README.md); the review records the publication branch’s checks and remaining author, specialist, outlet, and permissions decisions. Generated PDFs are kept outside this text-only repository.
 
 ## Active work: version 3
 

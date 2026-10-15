@@ -2,7 +2,7 @@
 
 ## Publication branch, October 14, 2026
 
-This branch develops the v3 text from `main` at `229d3c0` into a publication candidate, incorporating Aaron’s subsequent opening and framing edits at `c448513`. The original v3 on main remains unchanged by this work. The six-section structure remains, with print footnotes, a linked bibliography, and a high-quality PDF build. See [the publication review](../notes/publication-review.md) for material changes, verification scope, and remaining publication decisions.
+The publication candidate developed from the v3 text at `229d3c0` incorporates Aaron’s subsequent opening and framing edits at `c448513`. It is now the active draft on `main`; the immediately preceding v3 and outline are preserved as [frozen comparison copies](working-draft-v3-frozen.md) and [their outline](outline-v3-frozen.md). The six-section structure remains, with print footnotes, a linked bibliography, and a high-quality PDF build. See [the publication review](../notes/publication-review.md) for material changes, verification scope, and remaining publication decisions.
 
 ### Current direction after the author’s newly pushed edits
 
