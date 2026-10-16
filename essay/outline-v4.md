@@ -2,7 +2,7 @@
 
 ## Publication branch, October 14, 2026
 
-The publication candidate developed from the v3 text at `229d3c0` incorporates Aaron’s subsequent opening and framing edits at `c448513`. It is now the active draft on `main`; the immediately preceding v3 and outline are preserved as [frozen comparison copies](working-draft-v3-frozen.md) and [their outline](outline-v3-frozen.md). The six-section structure remains, with print footnotes, a linked bibliography, and a high-quality PDF build. See [the publication review](../notes/publication-review.md) for material changes, verification scope, and remaining publication decisions.
+This substantive revision of the v3 text at `229d3c0` incorporates Aaron’s subsequent opening and framing edits at `c448513` and is designated v4. The immediately preceding v3 and outline are preserved as [frozen comparison copies](working-draft-v3-frozen.md) and [their outline](outline-v3-frozen.md). The six-section structure remains, with print footnotes, a linked bibliography, and a high-quality PDF build. See [the publication review](../notes/publication-review.md) for material changes, verification scope, and remaining publication decisions.
 
 ### Current direction after the author’s newly pushed edits
 
@@ -12,11 +12,11 @@ The opening now supplies a concrete Jewish counterpart to Buddhist nonattachment
 
 ## Approved v3 baseline and earlier revision map
 
-**Status:** approved selective clarity-and-flow pass, 2026-10-12, based on Aaron’s restored v3 at `e0ba6792e8d4bb5adce4430e091ce6701516b21a`. The six numbered sections correspond to [working-draft-v3.md](working-draft-v3.md). This continues the restored language; it is not a compression pass or a blend of the two drafts.
+**V4 provenance:** the publication revision builds on Aaron’s restored v3 at `e0ba6792e8d4bb5adce4430e091ce6701516b21a`, then incorporates the intervening v3 edits and publication apparatus. The six numbered sections correspond to [working-draft-v4.md](working-draft-v4.md). The earlier v3 revision map below is retained as historical context.
 
 **Provenance:** Aaron restored the essay language from frozen v2 at `5566a18` as the active v3. The remote structural revision at `f8679bb` remains separately preserved in [working-draft-v3-alt.md](working-draft-v3-alt.md) and [outline-v3-alt.md](outline-v3-alt.md). The [2026-10-12 review](reviews/2026-10-12-working-draft-v2-rev.md) examined earlier v2 at `4b09977`; it and the alternate supply selected corrections and connections, not a replacement voice. V2 began at `178a320` from v1 at `6370787`. The frozen drafts, alternate, their outlines, both dated reviews, and archives remain unchanged.
 
-**Working title:** *All Will Be Forgiven? Compassion, Warning, and our Shared Humanity*. Preserve the full italicized NIV opening, the complete print-visible Greek, and the section 6 title, **“The invitation before us.”**
+**Working title:** *All Will Be Forgiven? Compassion, a Warning, and Our Shared Humanity*. Preserve the full italicized NIV opening, the complete print-visible Greek, and the section 6 title, **“The invitation before us.”**
 
 ## Governing movement and editorial decision
 
@@ -146,7 +146,7 @@ It leaves room for recognition of harm, a protective boundary, changed understan
 
 | Direction | Decision |
 |---|---|
-| Use v3-alt as a replacement or blend | Declined; active v3 remains the governing language. |
+| Use v3-alt as a replacement or blend | Declined; the restored v3 language remains the basis for v4. |
 | Pursue a shorter essay | No reduction target. Preserve what makes the thought understandable. |
 | Correct unclear speech referents | Adopted locally; distinguish the teachers’ accusation and Jesus’s warning. |
 | Give reception history an explicit question | Added immediately before the Christian interpreters. |
@@ -164,4 +164,4 @@ This is an editorial pass, not a new comprehensive source audit. Targeted primar
 
 The larger semantic history, manuscript collation, and original-language patristic work remain bounded research tasks. Before publication, retain competent Greek/Hebrew/Syriac review, Jewish review of the historical framing, and a principled contrary theological reading. Claims about source verification must describe the passages actually checked.
 
-Continue only in active v3 and its supporting status documents. Preserve v3-alt, frozen v2, v1, their outlines, both reviews, and archives. Use Git history for ordinary iterations.
+Continue only in active v4 and its supporting status documents. Preserve frozen v3, v3-alt, frozen v2, v1, their outlines, both reviews, and archives. Use Git history for ordinary iterations.

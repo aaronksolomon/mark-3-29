@@ -6,12 +6,12 @@ The project hears Mark 3:28–30 as a severe warning that may awaken its hearers
 
 ## Publication-polish branch
 
-The publication candidate developed from v3 at `229d3c0`, incorporating Aaron’s framing at `c448513`, is now merged into `main` as the active [essay](essay/working-draft-v3.md). The immediately preceding v3 draft and its outline are preserved as [working-draft-v3-frozen.md](essay/working-draft-v3-frozen.md) and [outline-v3-frozen.md](essay/outline-v3-frozen.md) for comparison. Read the [editorial/verification record](notes/publication-review.md) and [PDF build instructions](typesetting/README.md); the review records the publication branch’s checks and remaining author, specialist, outlet, and permissions decisions. Generated PDFs are kept outside this text-only repository.
+The publication candidate developed from v3 at `229d3c0`, incorporating Aaron’s framing at `c448513`, is now designated v4 and is the active [essay](essay/working-draft-v4.md). The immediately preceding v3 draft and its outline are preserved as [working-draft-v3-frozen.md](essay/working-draft-v3-frozen.md) and [outline-v3-frozen.md](essay/outline-v3-frozen.md) for comparison. Read the [editorial/verification record](notes/publication-review.md) and [PDF build instructions](typesetting/README.md); the review records the publication branch’s checks and remaining author, specialist, outlet, and permissions decisions. Generated PDFs are kept outside this text-only repository.
 
-## Active work: version 3
+## Active work: version 4
 
-- [Working draft v3](essay/working-draft-v3.md) — continues the restored frozen-v2 language with selected corrections and clearer connections; no compression target.
-- [V3 outline and revision map](essay/outline-v3.md) — follows the active text and records the accepted and declined editorial suggestions.
+- [Working draft v4](essay/working-draft-v4.md) — publication revision developed from v3, with selected corrections, further source work, and publication apparatus.
+- [V4 outline and revision map](essay/outline-v4.md) — follows the active text and records the accepted and declined editorial suggestions.
 - [V3 alternate draft](essay/working-draft-v3-alt.md) and [alternate outline](essay/outline-v3-alt.md) — preserve the remote revision at `f8679bb` for comparison, not as a replacement language base.
 - [Prior v2 review, 2026-10-12](essay/reviews/2026-10-12-working-draft-v2-rev.md) — review of an earlier v2 state; a historical reference, not a v3 review.
 - [Earlier v1 review, 2026-10-10](essay/reviews/2026-10-10-working-draft-review.md) — the review that helped shape v2; its baseline predates the author’s final v1 edits.

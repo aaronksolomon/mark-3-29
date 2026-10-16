@@ -1,16 +1,16 @@
-# Next steps — the v3 revision
+# Next steps — v4
 
-**Publication branch update, October 14, 2026:** The polishing and public-facing source apparatus described below have now been developed on `publication-polish`, leaving main unchanged. Use the current [publication review](publication-review.md) for completed work and the remaining author, specialist, outlet, and permissions decisions. The earlier section-by-section guidance below is retained as background, not an outstanding checklist.
+**Publication branch update, October 14, 2026:** The polishing and public-facing source apparatus were developed on `publication-polish`; the branch was later merged into `main` as v4 after the prior v3 was frozen. Use the current [publication review](publication-review.md) for completed work and the remaining author, specialist, outlet, and permissions decisions. The earlier section-by-section guidance below is retained as background, not an outstanding checklist.
 
-**Active draft:** [working-draft-v3.md](../essay/working-draft-v3.md).
-**Section plan and decisions:** [outline-v3.md](../essay/outline-v3.md).
+**Active draft:** [working-draft-v4.md](../essay/working-draft-v4.md).
+**Section plan and decisions:** [outline-v4.md](../essay/outline-v4.md).
 **Alternate draft and outline:** [working-draft-v3-alt.md](../essay/working-draft-v3-alt.md) and [outline-v3-alt.md](../essay/outline-v3-alt.md), preserved for comparison.
-**Prior-v2 review:** [2026-10-12 review](../essay/reviews/2026-10-12-working-draft-v2-rev.md); historical, not a review of v3.
+**Prior-v2 review:** [2026-10-12 review](../essay/reviews/2026-10-12-working-draft-v2-rev.md); historical, not a review of v4.
 **Earlier v1 review:** [2026-10-10 review](../essay/reviews/2026-10-10-working-draft-review.md).
 
-The selective clarity-and-flow pass begins from Aaron’s restored v3 at `e0ba679`. It keeps that prose as the language base, using the alternate and review for particular corrections and connections rather than adopting their overall compression. There is no word-count or reduction target. The opening’s development, complete Greek, comparative rationale, logic/insight sentence, developed humanity discussion, and final question are preserved. V3-alt, frozen v2, v1, their outlines, both reviews, and archives remain unchanged.
+The selective clarity-and-flow pass began from Aaron’s restored v3 at `e0ba679`. The current v4 builds on that language base, the later v3 revision, and the publication pass; see the [outline](../essay/outline-v4.md) for provenance. There is no word-count or reduction target. V3-alt, frozen v3, frozen v2, v1, their outlines, both reviews, and archives remain preserved.
 
-This is a working revision, not completion of the specialist research below. The inherited [claim audit](claim-audit.md) records risks to avoid; its older rows should not be read as a list of defects still present in v3.
+This remains a working revision, not completion of the specialist research below. The inherited [claim audit](claim-audit.md) records risks to avoid; its older rows should not be read as a list of defects still present in v4.
 
 ## Immediate reading and polishing
 
@@ -48,4 +48,4 @@ The wider [research queue](../sources/to-find.md) remains: critical commentaries
 
 ## Before circulation and preservation
 
-Check quotations against their editions and seek competent Greek/Hebrew/Syriac review, a principled contrary theological reading, and Jewish review of the historical framing. Aaron controls personal narrative and publication voice. Keep edits in active v3; preserve v3-alt, frozen v2, v1, their outlines, both dated reviews, and archives. Use Git history instead of multiplying draft files.
+Check quotations against their editions and seek competent Greek/Hebrew/Syriac review, a principled contrary theological reading, and Jewish review of the historical framing. Aaron controls personal narrative and publication voice. Keep edits in active v4; preserve frozen v3, v3-alt, frozen v2, v1, their outlines, both dated reviews, and archives. Use Git history instead of multiplying draft files.

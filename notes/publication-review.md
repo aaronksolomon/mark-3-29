@@ -1,8 +1,8 @@
 # Publication polish: editorial and verification record
 
-**Date:** October 14, 2026. **Branch:** `publication-polish`. **Base:** `main` at `229d3c0`. Aaron requested a clear, accessible, elegant, carefully referenced essay, retaining his voice and allowing whatever length contributes meaning. He subsequently required the original v3 to remain intact. All work is isolated on this branch; there is no merge into main and no replacement of the original v3 there.
+**Prepared:** October 14, 2026. **Branch:** `publication-polish`. **Base:** `main` at `229d3c0`. Aaron requested a clear, accessible, elegant, carefully referenced essay, retaining his voice and allowing whatever length contributes meaning. He subsequently required the original v3 to remain intact. The branch was initially kept separate; it was later merged into `main` as v4 after the pre-publication v3 draft and outline were frozen for comparison.
 
-The publication candidate remains [the active draft](../essay/working-draft-v3.md) within this branch. It is assistant-assisted editorial work under Aaron Solomon’s direction, not newly supplied personal testimony. The prior drafts, alternate, outlines of preserved versions, dated reviews, and archives are unchanged.
+The publication candidate is now the active [v4 draft](../essay/working-draft-v4.md), renamed from `working-draft-v3.md` when this branch was merged. It is assistant-assisted editorial work under Aaron Solomon’s direction, not newly supplied personal testimony. The immediately preceding v3 draft and outline are preserved in the frozen comparison files; other prior drafts, the alternate, dated reviews, and archives remain unchanged.
 
 ## Initial publication pass
 

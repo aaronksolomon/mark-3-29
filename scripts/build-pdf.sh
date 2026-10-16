@@ -37,7 +37,7 @@ if ! kpsewhich xelatex.fmt >/dev/null 2>&1; then
   export TEXFORMATS="$TEXMFVAR/web2c/xetex//:"
 fi
 cd "$ROOT"
-pandoc essay/working-draft-v3.md \
+pandoc essay/working-draft-v4.md \
   --from=markdown+footnotes --standalone \
   --lua-filter=typesetting/publication.lua \
   --metadata-file=typesetting/metadata.yaml \
