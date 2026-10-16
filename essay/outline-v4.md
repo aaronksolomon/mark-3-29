@@ -1,4 +1,4 @@
-# Version 3 outline and revision map
+# Version 4 outline and revision map
 
 ## Publication branch, October 14, 2026
 
@@ -9,6 +9,14 @@ This substantive revision of the v3 text at `229d3c0` incorporates Aaron’s sub
 The earlier map below records the approved baseline, not a veto on Aaron’s October 14 revision. The current emphasis is more carefully calibrated: the saying may awaken the accusers, disrupt harmful speech, and warn other witnesses. The scribes remain the immediate addressees in Mark 3:23; a wider effect is inferred from the crowd-framed scene, not reported as a change of audience. Compassion is a possible quality of this intervention, not an intention proved by its severity.
 
 The opening now supplies a concrete Jewish counterpart to Buddhist nonattachment. The developed Jewish discussion retains the integrity and chronological differences of its voices. The Semitic-language material enriches the account of transmission and forgiveness without reconstructing Jesus’s lost words. Walter Wink’s account of active nonviolence supplies an explicitly comparative frame: confronting harm without reducing its author to an enemy. It is not presented as Wink’s exegesis of Mark 3. The conclusion returns to both direct hearers and affected witnesses while preserving the hardest textual evidence and the final question.
+
+### October 16, 2026 — flow, paradox, and disciplined reasoning
+
+The current pass resolves the remaining inline author comments while preserving the v4 arc and length. The major conceptual refinement is that reasoning is treated as a path into deeper understanding, not as a demand that scripture reduce to a single-level system free of paradox. Mark 4 now carries the concise formulation **“Parabolic teaching can both reveal and expose an inability to hear.”** A following bridge distinguishes disciplined paradox from arbitrary interpretation.
+
+Section 4 now develops this explicitly. Clinging is not identified with reasoning or strong conviction. Reason can expose contradictions and the limits of a conceptual frame. A bounded *Diamond Sutra* comparison shows how a religious text can use apparent contradiction to cut through fixed designation; Mark 3 is expressly not treated as the same literary form. The comparison clarifies the method rather than supplying an exegesis of Mark.
+
+Other local changes: the Good Samaritan replaces the underdeveloped Syrophoenician-woman example in the opening; *grammateis* is introduced as “scribes,” with Torah/interpretation language replacing modern legal associations; Exodus 34 is framed through mercy and accountability together; the Holy/impure contrast is tied directly to Mark 3:30; Wink is located in Matthew 5:38–42; “A saying that unsettles” now grows from the summons/parables/warning sequence; the multilingual setting is stated without assigning a language to Mark 3; Greek literal notes are standardized; Textus Receptus/Peshitta differences are connected; *l-ʿālam* and *aiōn* are bounded more carefully; section 5 makes the koan-like inquiry concrete by imaginatively occupying multiple positions in the scene. The conclusion no longer labels “eternal sin” itself a historical koan.
 
 ## Approved v3 baseline and earlier revision map
 

@@ -5,7 +5,7 @@ The publication apparatus replaces reader-facing research IDs with full source n
 - `n01`: [RD-00](../sources/rigidity-and-discernment.md#rd-00--niv-opening)
 - `n02`: [B-02](../sources/biblical-texts.md#b-02)
 - `n03`: [ND-01](../sources/nonattachment-and-nondual-reading.md#nd-01--openness-and-nonattachment-to-views), [JC-01–JC-07](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-01)
-- `n04`: [JC-08](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-08)
+- `n04`: [ND-06](../sources/nonattachment-and-nondual-reading.md#nd-06--the-neighbor-and-worship-beyond-rival-locations)
 - `n05`: [HT-01](../sources/humanity-and-provocative-teaching.md#ht-01)
 - `n06`: [HT-01](../sources/humanity-and-provocative-teaching.md#ht-01)
 - `n07`: [JC-01](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-01), [RD-01](../sources/rigidity-and-discernment.md#rd-01--hardness-before-the-blasphemy-controversy)
@@ -15,7 +15,7 @@ The publication apparatus replaces reader-facing research IDs with full source n
 - `n13`: [B-02](../sources/biblical-texts.md#b-02), [R-02](../sources/interpretation-history.md#r-02)
 - `n14`: [ND-04](../sources/nonattachment-and-nondual-reading.md#nd-04--a-koan-involving-the-reader)
 - `n15`: [R-02](../sources/interpretation-history.md#r-02), [HT-08](../sources/humanity-and-provocative-teaching.md#ht-08)
-- `n16`: [B-01](../sources/biblical-texts.md#b-01), [HT-07](../sources/humanity-and-provocative-teaching.md#ht-07), [JC-09](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-09)
+- `n16`: [B-01](../sources/biblical-texts.md#b-01), [HT-07](../sources/humanity-and-provocative-teaching.md#ht-07), [JC-09](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-09), [AS-01–AS-02](../sources/semitic-gospel-witnesses.md#as-01--aramaic-in-its-different-settings)
 - `n17`: [JC-04](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-04)
 - `n18`: [B-02](../sources/biblical-texts.md#b-02)
 - `n19`: [B-02](../sources/biblical-texts.md#b-02), [L-01](../sources/greek-and-semantic-history.md#l-01), [L-04](../sources/greek-and-semantic-history.md#l-04)
@@ -61,5 +61,6 @@ The publication apparatus replaces reader-facing research IDs with full source n
 - `n60`: [JC-12–JC-13](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-12--retaining-rejected-opinions-and-learning-from-a-rival)
 - `n61`: [JC-12](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-12--retaining-rejected-opinions-and-learning-from-a-rival)
 - `n62`: [AS-10](../sources/semitic-gospel-witnesses.md#as-10--the-syriac-forgiveness-clause-and-remission)
+- `n63`: [ND-10](../sources/nonattachment-and-nondual-reading.md#nd-10--reason-paradox-and-the-diamond-sutra)
 
 The October 14 revision also extends `n25` through [JC-14](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-14--rabbi-akiva-completes-the-yoma-passage), and `n16`/`n22` through AS-10.

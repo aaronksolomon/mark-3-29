@@ -125,6 +125,21 @@ Do not attribute permanence, exclusive social categories, or all dogmatism to mo
 
 **Use and limit:** supports the distinction between unpleasant and harmful speech. It does not establish Jesus’s intention or justify any modern teacher’s claimed insight. This is an early Buddhist canonical comparison, not a teaching attributed to Thích Nhất Hạnh. The translator’s introduction and later-commentary explanation remain distinct from the discourse.
 
+## ND-10 — Reason, paradox, and the Diamond Sutra
+
+**Thích Nhất Hạnh, translation of the *Vajracchedikā Prajñāpāramitā Sūtra*, “The Diamond That Cuts Through Illusion,” official Plum Village text.**
+
+- [Official sutra text](https://plumvillage.org/library/sutras/the-diamond-that-cuts-through-illusion)
+- [Plum Village book record](https://plumvillage.org/books/the-diamond-that-cuts-through-illusion)
+- **Status:** the displayed sutra translation and book description were checked on 2026-10-16. The full published commentary volume was not read in this pass.
+- **Relevant movement:** the bodhisattva is instructed to lead all kinds of beings to nirvana, while not grasping the notion that a separately existing being has been liberated.
+
+The passage deliberately destabilizes fixed notions of self, person, living being, and life span. Its tension should not be summarized as “logic does not matter.” Reason can identify the apparent contradiction and clarify that the same designation is not being used as an exhaustive description at every level. The contemplative work is to see what notion the tension is cutting through.
+
+**Use for Mark:** Mark 3 is not historically or literarily the same kind of deliberate Prajñāpāramitā paradox. The comparison helps articulate a method: reasoning, philology, history, and lived insight may bring the interpreter to a point where a conventional designation is seen as useful but incomplete. Apparent contradiction can therefore become a site of disciplined inquiry rather than either an error to be flattened or a license for arbitrary meaning.
+
+**Limit:** do not claim that every contradiction indicates two truths, that Buddhist traditions share one logic, or that a preferred interpretation becomes immune to grammar and historical evidence. The source itself repeatedly warns against being caught by fixed notions; this warning applies to the comparative reading too.
+
 ## Further reading, kept out of the main draft for now
 
 - **Thích Nhất Hạnh, The Heart of the Buddha’s Teaching, chapter 17, “The Two Truths.”** [Catalog record and contents](https://archive.org/details/heartofbuddhaste0000nhth). Contents checked; chapter and edition-specific pages still to obtain. Do not quote it as read.
