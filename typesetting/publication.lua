@@ -35,6 +35,11 @@ function Pandoc(doc)
     end
   end})
   return doc:walk({BlockQuote = function(b)
+    -- Forbid paragraph-boundary breaks explicitly so the attribution remains
+    -- with its quotation even when list/parskip settings permit such a break.
+    for i = #b.content, 2, -1 do
+      table.insert(b.content, i, pandoc.RawBlock('latex', '\\nopagebreak[4]'))
+    end
     return {pandoc.RawBlock('latex', '\\begin{samepage}'), b,
       pandoc.RawBlock('latex', '\\end{samepage}')}
   end, Header = function(h)

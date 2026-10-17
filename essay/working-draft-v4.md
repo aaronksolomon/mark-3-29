@@ -268,7 +268,7 @@ The question of “eternal sin” remains, and its unresolved tension can contin
 
 Humanizing Jesus does not require making him ordinary in the sense of insignificant. It means allowing his teaching to arise within a human life, grounded in time, place, culture, relationships, conflicts, grief, courage, and love. His Jewish inheritance belongs to that humanity, as do the people who shared it and understood it differently. The disciples, religious teachers, evangelists, and later interpreters belong to that arc of human experience. Reverence can bring us closer to these lives rather than place them beyond understanding.
 
-An understanding of forgiveness can remain generous in its claims while becoming anemic in practice. We can defend mercy and fail to hear someone asking for accountability; we can defend truth while refusing an encounter that might deepen our understanding of it. The question is not whether we have found a formulation that no longer troubles us. It is whether we can remain with the teaching in a way that changes how we live. Whom have we already decided we understand, and what might become possible if we listened again?
+An understanding of forgiveness can remain generous in its claims while becoming anemic in practice. We can defend mercy and fail to hear someone asking for accountability; we can defend truth while refusing an encounter that might deepen our understanding of it. The question is not whether we have found a formulation that no longer troubles us. It is whether we can remain with the teaching in a way that changes how we live. Whom have we already decided we understand (perhaps even ourselves)--and what might become possible if we listened again?
 
 ### Translation acknowledgments
 
