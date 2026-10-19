@@ -1,175 +1,155 @@
 # Version 4 outline and revision map
 
-## Publication branch, October 14, 2026
+**Active text:** [working-draft-v4.md](working-draft-v4.md). **Current pass:** October 19, 2026, from Aaron's edited v4 at `e959365c429c970c6a1d6da9abcf0b114b7f43d0`. The [October 17 review](reviews/2026-10-17-working-draft-v4-rev.md) examined `d2f7201`, before the latest author comments; it supplies selected editorial suggestions, not a replacement voice. The [current revision record](../notes/2026-10-19-deep-looking-revision.md) identifies decisions and verification limits.
 
-This substantive revision of the v3 text at `229d3c0` incorporates Aaron’s subsequent opening and framing edits at `c448513` and is designated v4. The immediately preceding v3 and outline are preserved as [frozen comparison copies](working-draft-v3-frozen.md) and [their outline](outline-v3-frozen.md). The six-section structure remains, with print footnotes, a linked bibliography, and a high-quality PDF build. See [the publication review](../notes/publication-review.md) for material changes, verification scope, and remaining publication decisions.
+**Preservation:** v1, frozen v2, frozen v3, v3-alt, their outlines, dated reviews, and archives are unchanged. V4 remains the active version. This outline is synchronized with the current six sections; the full preceding v3/v4 revision map remains available [at the base commit](https://github.com/aaronksolomon/mark-3-29/blob/e959365c429c970c6a1d6da9abcf0b114b7f43d0/essay/outline-v4.md), including earlier accepted and declined editorial proposals.
 
-### Current direction after the author’s newly pushed edits
+**Working title:** *All Will Be Forgiven? Compassion, a Warning, and Our Shared Humanity*. Keep the full italicized NIV lead-in, complete Greek text and romanization, connected explanatory prose, and the final question. There is no word-count target.
 
-The earlier map below records the approved baseline, not a veto on Aaron’s October 14 revision. The current emphasis is more carefully calibrated: the saying may awaken the accusers, disrupt harmful speech, and warn other witnesses. The scribes remain the immediate addressees in Mark 3:23; a wider effect is inferred from the crowd-framed scene, not reported as a change of audience. Compassion is a possible quality of this intervention, not an intention proved by its severity.
+## Governing movement
 
-The opening now supplies a concrete Jewish counterpart to Buddhist nonattachment. The developed Jewish discussion retains the integrity and chronological differences of its voices. The Semitic-language material enriches the account of transmission and forgiveness without reconstructing Jesus’s lost words. Walter Wink’s account of active nonviolence supplies an explicitly comparative frame: confronting harm without reducing its author to an enemy. It is not presented as Wink’s exegesis of Mark 3. The conclusion returns to both direct hearers and affected witnesses while preserving the hardest textual evidence and the final question.
+A warning addressed to people leads into the question of hearing, the ways our understanding can become fixed, and the possibility of seeing and responding differently. Compassion is a ground for inquiry, not an independently recovered account of Jesus's private intention. The warning may challenge its immediate hearers and disrupt an accusation's effect upon others. Its rhetorical purpose and the eventual fate of its hearers are not identical questions.
 
-### October 16, 2026 — flow, paradox, and disciplined reasoning
+The current refinement concerns **deep looking**: attention to words, life, relationships, and effects through which understanding can change us. Reasoning, source study, and contemplative insight participate together. Neither single-level conceptual closure nor arbitrary interpretation is the goal. Mark 4's quotation of Isaiah is heard within Jesus's Jewish stream of teaching, through questions about receptivity and what compassionate speech might seek.
 
-The current pass resolves the remaining inline author comments while preserving the v4 arc and length. The major conceptual refinement is that reasoning is treated as a path into deeper understanding, not as a demand that scripture reduce to a single-level system free of paradox. Mark 4 now carries the concise formulation **“Parabolic teaching can both reveal and expose an inability to hear.”** A following bridge distinguishes disciplined paradox from arbitrary interpretation.
-
-Section 4 now develops this explicitly. Clinging is not identified with reasoning or strong conviction. Reason can expose contradictions and the limits of a conceptual frame. A bounded *Diamond Sutra* comparison shows how a religious text can use apparent contradiction to cut through fixed designation; Mark 3 is expressly not treated as the same literary form. The comparison clarifies the method rather than supplying an exegesis of Mark.
-
-Other local changes: the Good Samaritan replaces the underdeveloped Syrophoenician-woman example in the opening; *grammateis* is introduced as “scribes,” with Torah/interpretation language replacing modern legal associations; Exodus 34 is framed through mercy and accountability together; the Holy/impure contrast is tied directly to Mark 3:30; Wink is located in Matthew 5:38–42; “A saying that unsettles” now grows from the summons/parables/warning sequence; the multilingual setting is stated without assigning a language to Mark 3; Greek literal notes are standardized; Textus Receptus/Peshitta differences are connected; *l-ʿālam* and *aiōn* are bounded more carefully; section 5 makes the koan-like inquiry concrete by imaginatively occupying multiple positions in the scene. The conclusion no longer labels “eternal sin” itself a historical koan.
-
-## Approved v3 baseline and earlier revision map
-
-**V4 provenance:** the publication revision builds on Aaron’s restored v3 at `e0ba6792e8d4bb5adce4430e091ce6701516b21a`, then incorporates the intervening v3 edits and publication apparatus. The six numbered sections correspond to [working-draft-v4.md](working-draft-v4.md). The earlier v3 revision map below is retained as historical context.
-
-**Provenance:** Aaron restored the essay language from frozen v2 at `5566a18` as the active v3. The remote structural revision at `f8679bb` remains separately preserved in [working-draft-v3-alt.md](working-draft-v3-alt.md) and [outline-v3-alt.md](outline-v3-alt.md). The [2026-10-12 review](reviews/2026-10-12-working-draft-v2-rev.md) examined earlier v2 at `4b09977`; it and the alternate supply selected corrections and connections, not a replacement voice. V2 began at `178a320` from v1 at `6370787`. The frozen drafts, alternate, their outlines, both dated reviews, and archives remain unchanged.
-
-**Working title:** *All Will Be Forgiven? Compassion, a Warning, and Our Shared Humanity*. Preserve the full italicized NIV opening, the complete print-visible Greek, and the section 6 title, **“The invitation before us.”**
-
-## Governing movement and editorial decision
-
-The center remains a compassionate wake-up call in a human encounter. The broad promise can intensify the warning; Jesus’s language of judgment confronts the judgment directed against his liberating work. Linguistic, historical, Jewish, and Buddhist study deepen attention to that encounter without making metaphysical resolution the essay’s organizing purpose.
-
-Clarity does not require replacing the route to an understanding with a compressed statement of its conclusion. Preserve connecting and grounding sentences, the unhurried development of paragraphs, and returns that place the central concern in a different setting. There is no word-count or reduction target. The review’s strongest contributions concern ambiguous referents, a few factual details, and missing connections. Those have been adopted locally.
-
-The human and Jewish setting remains positive and particular. Jewish tradition is not reduced to legalism, background, or a record of Christian harm. Buddhist practice enters early as a substantive resource, not a method requiring Christian permission. Comparative attention does not make the traditions identical, authorize invented historical speech, or remove the need for coherent reasoning.
+Temporal vocabulary opens perspective on what it means for something to last. Duration, continuing consequences, changing conditions, and a person's relation to a past action can be examined without declaring that a dictionary settles eternity. The Abrahamic comparisons retain their own claims about God, judgment, and mercy; they are not translated into one Buddhist metaphysics.
 
 ## 1. Hearing the warning
 
-**Purpose:** let the tension develop through the contrast between broad forgiveness and the gravity of what the hearers are saying.
+**Purpose:** preserve the opening's gradual movement from broad forgiveness to a sharp exception and a situated human address.
 
-**Preserved:** the full opening paragraph, rather than the alternate’s condensed conclusion; the compassionate-warning center; shared histories; “A teaching from another tradition can make familiar assumptions visible”; the boundary-crossing encounters and their difficult elements.
+Keep the first paragraph's full development. The words may awaken the people making the accusation or interrupt the judgment itself. Care for witnesses remains possible, not narrated as an established outcome. State the declaration/purpose/outcome distinction once and let the crowd passage develop it later.
 
-**Local refinements:** the second paragraph begins with the narrated act—calling the work of healing evil—rather than a settled diagnosis of the hearers’ inner certainty. Jewish interpretation is introduced directly through Jesus’s own inheritance. The woman in Mark 7 actively answers Jesus rather than having her reply described passively.
+The context paragraph now traces how speech enters later lives through remembering, writing, translation, and teaching. The ambiguous phrase about reaching beyond the occasion is replaced with this concrete transmission.
 
-The reason for comparative inquiry remains explicit. Do not remove it merely because the next sentence supplies a Buddhist question.
+Introduce Thích Nhất Hạnh as a Vietnamese Buddhist monk, teacher, and peace activist, with dates and a brief connection to the Order of Interbeing and Plum Village. Buddhist practice does not require Christian permission to contribute. Introduce Hillel/Shammai's era and Sacks's British setting and dates. Keep the Jewish tradition's independent role and Jesus's inheritance distinct from later comparison.
+
+The centurion and Good Samaritan concern faith and mercy beyond expected community boundaries. Remove the repeated general qualification about traditions remaining different; the sources and setting make that clear.
 
 ## 2. A teacher among people
 
-**Purpose:** make the saying intelligible within a life and a developing narrative before naming attachment or dogmatism.
-
 ### The story before the saying
 
-Retain the flow through Mark 1–3: Spirit, God’s reign, healing, prayer, disputed forgiveness, meals, Sabbath, family, and community. “In Mark’s opening chapter” corrects the claim that the Gospel begins with the Spirit’s descent. The crowd’s pressure is described through how many gather, without assigning them a demanding disposition.
+Preserve Mark 1–3's developing narrative: Spirit, proclamation, healing and prayer, disputed forgiveness, meals, Sabbath, family, and community. Keep *grammateis* (γραμματεῖς) in the main text, defined as scribes, learned interpreters of Torah. The NIV translation comparison belongs in the footnote.
+
+Torah gives form to religious and communal life; commandments require interpretation in particular circumstances. Avoid the false choice between spiritual practice and legal obligation. Explain Sabbath's purpose and the encounter around healing rather than defining Judaism against a modern legal code.
 
 ### Mercy and warning within the Jewish inheritance
 
-Retain the developed Sabbath account, Exodus 34, and Ezekiel 33. These locate care, judgment, and turning within Jesus’s inheritance. They are not proofs of Mark’s dependence or of a particular eventual outcome.
+The shared scriptures hold mercy and the consequences of wrongdoing in close relation. Exodus 34 supplies the conjunction; Ezekiel 33 gives warning a stated life-seeking purpose and connects turning with repair. These are neither proof that Jesus introduces nothing new nor a claim that mercy begins with Christianity.
 
 ### From accusation to warning
 
-Preserve the summons, parabolic argument, warning, and reversal of blasphemy language across chapters 2 and 3. Their development is not reduced to a summary. The circular wording about making the hearers hear the seriousness of their words is replaced by a clearer object: what their accusation rejects.
+Identify the accusation, summons, parables, and warning clearly. Keep the chapters 2–3 reversal: Jesus is accused of blasphemy for forgiving; judgment then confronts an accusation against his liberating work. The breadth of the promise retains its meaning while contributing to the force of the warning.
 
-No response has been invented between Jesus’s argument and warning. Accusation continues to name the attribution of his work to an impure power; warning names his severe response.
+State once that Mark does not record a response between argument and warning. The scribes are the direct addressees; the crowd supplies a basis for considering wider effects without inventing who heard or changed.
+
+### Disruption without retaliation
+
+Keep Wink's active nonviolence, situated in Matthew 5:38–42, and the distinction between confronting harm and retaliating against people. No loving intention is certified solely by strong speech or nonphysical action. Preserve the questions about intimidation and affected witnesses.
 
 ### A saying that unsettles its hearers
 
-The paragraph about speech within a relationship now explains the point in ordinary language: understanding involves both the truth of the words and what one person seeks to bring another to recognize. The existing Zen comparison and Chrysostom precedent remain developed. The question includes the interpreter without turning the Gospel into a historical Zen text.
+Let this subsection grow from the scene rather than reopen the method. Koan practice is introduced as a particular contemplative inquiry in which the practitioner is implicated. Chrysostom remains a Christian precedent for corrective purpose, with his severe and harmful judgments treated later rather than concealed.
+
+Remove adjacent repetitions about the scribes' label; retain the question of what could be welcomed as healing when liberation itself is resisted. Do not make their private motives known.
 
 ## 3. What the words keep open—and what they do not
 
-**Purpose:** preserve the complete wording and explain why its interpretation remains a living question about the people addressed.
+### Text and transmission
 
-### Text, transmission, and wording
+Keep composition distinct from manuscript dates and from an exact transcript of Jesus's speech. Separate that orientation from the multilingual context with a paragraph break. Ben Sira's translator makes ancient awareness of translation visible.
 
-Retain the composition orientation, Ben Sira’s translator, and each complete Greek verse with romanization and Literal English. Only the labels introducing ordinary English alternatives are standardized to **“In natural English.”** Greek text, romanization, literal renderings, and NIV opening are not substantively revised.
+### The words of the passage
 
-The vague phrase about the statement and person making it now names the warning’s relation to what the hearers are already saying. The sin/judgment paragraph moves beside the Syriac witness rather than interrupting the later repentance discussion. The Peshitta ending is rendered consistently as **“judgment that is forever,”** with its force unchanged. The holy/impure contrast and the distinction between holiness and purity remain.
+For each of Mark 3:28–30, retain full Greek, romanization, and literal English. At Aaron's request, remove repeated natural-English verse translations but keep the observations about the future passive/NIV “can,” answerability, the temporal idiom, and the accusation.
 
-The etymology of English *eon* is retained as a parenthetical connection, not used to infer a philosophy of time or an endpoint to the warning.
+Connect the Greek sin/judgment variation with the later Syriac witness without pretending the witnesses are one source. Syriac is an Aramaic variety, not simply a language close to Aramaic. Explain once that a study rendering is a translation supplied for the project.
+
+Preserve *rūḥā*, holiness/impurity, forgiveness/remission, *l-ʿālam*, and *aiōn* as focused observations. The etymology opens a question of temporal perspective; it does not establish a period after which forgiveness resumes. The floating purity-versus-holiness qualification now belongs in the note rather than interrupting the main argument.
 
 ### Forgiveness, turning, and responsibility
 
-Preserve the Lord’s Prayer comparison, aphesis, Ben Sira’s reciprocal forgiveness, Mishnah Yoma’s interpersonal obligation, and Maimonides’s difficult account of withheld repentance. Their chronological and conceptual differences remain. The moved textual-variant paragraph no longer takes the exposition backward after Maimonides.
+Keep the Lord's Prayer and aphesis comparison; divine forgiveness and interpersonal reconciliation are related but not interchangeable. Introduce Ben Sira and Akiva with setting and period. Preserve Yoma's personal obligation together with its final hope of purification.
+
+Maimonides remains as a substantive counterpoint in note n26, with his importance, period, and judicial-hardening claim. Relocation does not mean dismissal or replacement of Jewish history with an Islamic parallel.
 
 ### Interpretations over time
 
-A new connecting paragraph asks what recognition or repentance could mean for people already making the accusation. Mark does not narrate their response. This question gives the historical interpreters a shared subject without treating them as interchangeable answers.
+Start with recognition of what the accusation rejects; recognition may open into repentance, a changed direction. The Christian interpreters then address the question of response without being reduced to a list of interchangeable positions. Preserve quotations, polemical context, and disagreement.
 
-Chrysostom’s hopeful words and punitive/anti-Jewish context remain together. Augustine and Aquinas receive brief identifying roles. Calvin’s account is separated into its own paragraph so that the Catechism/MacDonald comparison is easier to follow. The interpretations themselves and their quoted evidence are preserved.
+### The warning and the work of hearing
 
-### The severity remains
+This replaces “The severity remains.” Matthew's two-age wording remains the strongest temporal objection; one precise paragraph suffices without repeated defenses.
 
-Retain Matthew’s explicit two-age challenge. The Mark 4 paragraph now names what is difficult about parabolic speech itself: the connection through “so that” to nonrecognition, alongside hiddenness directed toward disclosure in 4:21–22 and the call to attentive hearing. This is not simply poor listening, but neither is it independent evidence for eternal duration. The prose gives the tension room without converting the preferred compassionate reading into a settled historical conclusion.
+Give Mark 4:10–11's setting before quoting verse 12 continuously, including the preceding “so that.” Locate the quotation within Isaiah's grave prophetic commission. Ask what recalling these words might do in an address grounded in compassion. Do not assert that irony, psychological refusal, or judicial concealment is certainly the correct explanation.
 
-The final paragraph about our position in relation to the saying remains intact.
+The light, need for explanation, relation to a hearer's capacity, and seed growing beyond the sower's understanding deepen the inquiry. **“Parabolic teaching can both reveal and expose an inability to hear”** remains central. Inability is not automatically willful refusal; proximity to Jesus does not eliminate the disciples' need to learn.
+
+The Dhammapada spoon/tongue comparison makes the difference between proximity and realization concrete. A specific TNH use was not verified, so canonical attribution remains. Willingness and practice matter without accounting for everything that opens a heart. Reason remains part of seeking practical understanding; no guaranteed resolution is promised.
 
 ## 4. When certainty closes the heart
 
-**Purpose:** bring clinging into conduct, transformation, and the responsibility of interpretation.
+### Clinging to a view, looking deeply
 
-Preserve the return to the teachers’ description, rather than beginning with an abstract definition. The account of dogmatism becomes more concrete: we judge everything through our understanding of a teaching but cease allowing experience or another person to question that understanding.
+Distinguish conviction and reasoning from protecting a judgment against correction. Bring the Second Mindfulness Training's deep looking into the positive account of how understanding develops. Let concrete questions about hearing, assumption, fear, loyalty, and consequences give the practice content.
 
-The First and Second Trainings, the disciples’ hardening, and the person acting outside their group remain. Paul’s persecution and transformation keep their evidential limits. His letter’s divine revelation and Acts’ account of the Spirit are named separately rather than combined in a general statement. The paragraph distinguishing transformation from absolution remains unchanged.
+The Diamond Sutra now supplies short direct excerpts before interpretation. Its challenge to fixed designation does not withdraw compassionate action. Mark 3 is not treated as the same deliberate literary paradox. Keep Aaron's formulation that reason and contemplation can disclose the limits of our notions.
 
-The ethical and historical applications remain developed. Nostra aetate is identified as a declaration of the Second Vatican Council. Its correction of Christian anti-Jewish teaching neither erases harm nor makes the existence of doctrine itself the problem. Boundaries, honest disagreement, and demands for accountability are not characterized as closed hearts.
+The Talmudic example is strengthened: recognition of both schools' standing accompanies a practical ruling and presentation of the other view first. Openness neither erases judgment nor makes every assertion equal. The return to Mark's disciples explicitly names the shared challenge of understanding rather than vaguely claiming that “these episodes” prove humanity.
+
+### Paul and changed seeing
+
+Retain the differentiated witnesses: Galatians, Acts, and 1 Timothy. Paul is a counterweight to treating destructive religious certainty as an immutable identity, not a proved instance of the precise accusation in Mark. Revelation need not begin with a self-generated decision to become receptive. Changed perception is not automatic absolution, erased harm, or restored access.
+
+### The warning turns toward its interpreters
+
+Keep the critique of imposed forgiveness and the protection for boundaries and honest disagreement. Matthew 25 now has enough surrounding narrative to make the acts of care, surprised questions, reply, and severe ending intelligible. The debated referent of the least remains in the note.
+
+Preserve the historical account of Christian anti-Judaism and the corrective role of Nostra aetate. The compassionate interpretation is accountable to the same deep looking it asks of others; no contrary reader is diagnosed as closed-hearted solely for disagreeing.
 
 ## 5. Humanity without distance from the divine
 
-**Purpose:** connect the different studies through the question of how we encounter a person, rather than introduce a second essay on metaphysics.
-
 ### A human teacher, a human transmission
 
-A new bridge makes the turn explicit: looking again includes how we see Jesus, and reverence can bring a life close or place it beyond hearing. The existing transmission paragraph then follows. Dei verbum is identified as the Second Vatican Council’s constitution on divine revelation.
-
-Retain the full account of growth, fatigue, human speech, and the Catechism’s human mind and heart. Keep the positive interpretive sentence: **“Human thought, love, and relationship are not what must be removed before the divine can be encountered.”** The doctrinal sources serve this inquiry rather than replace it.
+The turn from interpreting others to encountering Jesus remains explicit. Preserve the human work of Gospel transmission, the concrete humanity in the narratives, and the positive doctrinal affirmation of humanity with divinity. Incarnation brings attention toward a particular person speaking under accusation, not away from him into disembodied propositions.
 
 ### The only child and the whole world
 
-Preserve the opening concern that divine-sonship language can place Jesus at an unreachable distance. Correct monogenēs’s referent to **John 3:16**. Keep the contemplative extension distinct from translation and historical origin.
-
-The return to Mark now clarifies whose concern is meant: Jesus can confront the accusation without the hearers’ humanity disappearing, and his concern need not depend on their agreement. The last sentence prepares the next subsection by asking whether their words become all that can be seen of them.
+Keep the concern about distance, John's unique-Son language, and the constructive only-child comparison. It is not a corrected lexical translation. Return to the people in Mark: their accusation matters without becoming everything that can be seen of them.
 
 ### A person is more than a description
 
-Retain **“This is not a choice between logic and insight.”** Make the distinction concrete through the move from an account of harmful action to a claim about all that a person can ever be. The wave-and-water comparison and accountability through change remain.
+Retain logic and insight together, the hidden step from action to exhaustive identity, and wave/water. Continuing responsibility does not require an immutable essence. Nonduality does not rule out lasting consequences by itself.
 
-### Time as lived, remembered, and anticipated
+### What lasts, and what changes?
 
-Correct Pesachim’s grammar to each person in every generation. Preserve the contextual paragraph, not only its conclusion. Connect Augustine’s three presents with his account of final impenitence; his temporal reflection does not itself dissolve the boundary he places at death. John’s present/future language and Sister Annabel Laity’s three-times teaching remain.
+This replaces “Time as lived, remembered, and anticipated.” Begin with the positive question: what continues through changed form, habit, influence, or response? Introduce neither-same-nor-different through a specific Plum Village source; do not present karma as an unchanging substance or certify infinite persistence of every result.
 
-The final temporal paragraph asks how the past stays active and what responsibility requires now, rather than implying that finality interpretations necessarily arise from inadequate temporal understanding.
+Keep Passover, Augustine, John, and Laity in their developed sequence. Add John's grain image in its own death/discipleship context. Add a compact comparison between Ezekiel 18 and Qur'an 25 on a changed relation to wrongdoing, preserving divine mercy and not equating these texts with karma. Reduce repeated cautions without removing the distinctions between continuing harm, pardon, and repair.
+
+The section ends on present responsibility rather than another attempt to settle the duration of judgment.
 
 ### Compassion that is not merely reassurance
 
-A new bridge connects temporal continuation with speech: how we speak enters what happens next in another person’s life. The developed Third Training and MN 58 discussion remains, including the distinction between genuine warning and intimidation. Urgency is not a defect merely because it is unwelcome.
+Preserve “A warning does not enter an empty space.” Keep the Third Training, truthful/beneficial/timely speech in MN 58, and the qualified return to Jesus's warning. Qur'an 16:125 contributes a distinct discipline of religious address and a limit on the speaker's claim to know another person's guidance.
 
-“In our own teaching” corrects the transition that inadvertently placed Jesus outside human teachers. No new assertion about a historical teacher’s successful effects is added.
+Retain the sentence about refusing terms that allow harm to go unchallenged. Authority brings attention to what is happening, the person addressed, and effects. “Dialogue is not always possible or wise” is explained through threats, coercion, distance, support, and boundaries rather than an ambiguous reference to safety.
 
 ### Remaining in the teaching
 
-Preserve the koan-like involvement, the complete NIV John 8:31–32 quotation, abiding, and doing the truth. These passages connect inquiry with conduct. Do not substitute a checklist or a compressed moral conclusion for their unfolding explanation.
+Use “contemplative engagement,” after introducing the more specific koan comparison earlier. Preserve the imaginative exercise of occupying several positions in the scene without claiming to recover anyone's mind. Keep the blank line before John's introduction, full John 8:31–32 quotation, abiding, and doing truth.
 
 ## 6. The invitation before us
 
-**Purpose:** return to the people and the act of listening after the studies have deepened the encounter.
+Preserve the developed return to the encounter rather than applying the review's optional compression. The ending includes compassion for immediate hearers and those affected by the accusation, unresolved finality, real responsibility, and the humanity of Jesus and the stream of teachers.
 
-The conclusion receives only the local clarification **“deepen our understanding of it.”** Its fuller humanity paragraph, **“anemic in practice,”** compassionate center, and ending remain. The final question is unchanged:
+Keep “anemic in practice.” Aaron's final addition is retained with repaired punctuation:
 
-> Whom have we already decided we understand, and what might become possible if we listened again?
+> Whom have we already decided we understand—perhaps ourselves—and what might become possible if we listened again?
 
-It leaves room for recognition of harm, a protective boundary, changed understanding, or reconciliation, rather than predetermining the outcome of listening.
+## Source and preservation boundaries
 
-## Accepted and declined editorial directions
+New source notes are collected in [Deep looking, hearing, and continuation](../sources/deep-looking-and-continuation.md), with connections to the existing dossiers. New publication notes n64–n67 cover the Dhammapada, Qur'anic speech, Ezekiel/Qur'an transformation, and Plum Village continuation. Older note labels remain stable.
 
-| Direction | Decision |
-|---|---|
-| Use v3-alt as a replacement or blend | Declined; the restored v3 language remains the basis for v4. |
-| Pursue a shorter essay | No reduction target. Preserve what makes the thought understandable. |
-| Correct unclear speech referents | Adopted locally; distinguish the teachers’ accusation and Jesus’s warning. |
-| Give reception history an explicit question | Added immediately before the Christian interpreters. |
-| Group sin/judgment variants with Syriac | Adopted; one local paragraph move, no loss of material. |
-| Clarify Mark 4’s teaching-related tension | Adopted with NIV evidence and the disclosure counterpoint. |
-| Remove the early reason for Buddhist comparison | Declined; the sentence explains why the comparison matters. |
-| Replace the only-child opening with a generic relationship sentence | Declined; preserve the human concern about distance from Jesus. |
-| Remove logic/insight sentence | Declined; retained with a more concrete explanation. |
-| Connect humanity, descriptions, time, and speech | Added bridges while preserving the developed passages. |
-| Shorten the humanity conclusion or replace its final question | Declined; only the ambiguous truth/understanding referent is corrected. |
-
-## Verification and unfinished work
-
-This is an editorial pass, not a new comprehensive source audit. Targeted primary-text checks covered Mark 4:10–25 in NIV, Mishnah Pesachim 10:5 in the linked Hebrew, the Peshitta wording of Mark 3:29, and Augustine’s Confessions XI.20.26 alongside the existing final-impenitence discussion. The corresponding source dossiers already contain these distinctions; no new source collection is added. Greek and inherited quotations otherwise remain as in the restored text.
-
-The larger semantic history, manuscript collation, and original-language patristic work remain bounded research tasks. Before publication, retain competent Greek/Hebrew/Syriac review, Jewish review of the historical framing, and a principled contrary theological reading. Claims about source verification must describe the passages actually checked.
-
-Continue only in active v4 and its supporting status documents. Preserve frozen v3, v3-alt, frozen v2, v1, their outlines, both reviews, and archives. Use Git history for ordinary iterations.
+The latest work is selective textual and editorial research, not a full audit of every inherited source. Exact TNH use of the spoon image, original-language patristic work, full Diamond commentary, Old Syriac collation, and a broader history of Qur'anic interpretation remain uncompleted tasks. No existing PDF was regenerated or changed. Before sharing a PDF, render the current Markdown and inspect the result rather than assuming the earlier PDF represents it.

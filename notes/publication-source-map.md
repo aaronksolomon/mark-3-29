@@ -1,10 +1,10 @@
 # Publication footnotes and research records
 
-The publication apparatus replaces reader-facing research IDs with full source names and stable locators. The following map preserves the connection to the project’s topic dossiers. Note labels are stable source labels, not final printed numbers.
+The publication apparatus replaces reader-facing research IDs with full source names and stable locators. The following map preserves the connection to the project’s topic dossiers. Note labels are stable source labels, not final printed numbers. The October 19 additions are documented in [Deep looking, hearing, and continuation](../sources/deep-looking-and-continuation.md).
 
 - `n01`: [RD-00](../sources/rigidity-and-discernment.md#rd-00--niv-opening)
 - `n02`: [B-02](../sources/biblical-texts.md#b-02)
-- `n03`: [ND-01](../sources/nonattachment-and-nondual-reading.md#nd-01--openness-and-nonattachment-to-views), [JC-01–JC-07](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-01)
+- `n03`: [ND-01](../sources/nonattachment-and-nondual-reading.md#nd-01--openness-and-nonattachment-to-views), [JC-01–JC-07](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-01), [DC-02](../sources/deep-looking-and-continuation.md#dc-02--deep-looking-and-introduction-of-thích-nhất-hạnh)
 - `n04`: [ND-06](../sources/nonattachment-and-nondual-reading.md#nd-06--the-neighbor-and-worship-beyond-rival-locations)
 - `n05`: [HT-01](../sources/humanity-and-provocative-teaching.md#ht-01)
 - `n06`: [HT-01](../sources/humanity-and-provocative-teaching.md#ht-01)
@@ -22,17 +22,17 @@ The publication apparatus replaces reader-facing research IDs with full source n
 - `n20`: [B-02](../sources/biblical-texts.md#b-02)
 - `n21`: [L-01–L-04](../sources/greek-and-semantic-history.md#l-01)
 - `n22`: [AS-03–AS-04](../sources/semitic-gospel-witnesses.md#as-04--peshitta-mark-32830-checked-wording)
-- `n23`: [TA-01](../sources/time-age-and-eternity.md#ta-01--aiōn-and-english-eon), [B-03](../sources/biblical-texts.md#b-03)
+- `n23`: [TA-01](../sources/time-age-and-eternity.md#ta-01--aiōn-and-english-eon), [B-03](../sources/biblical-texts.md#b-03), [DC-05](../sources/deep-looking-and-continuation.md#dc-05--temporal-expressions-as-perspective-not-a-verdict)
 - `n24`: [L-03](../sources/greek-and-semantic-history.md#l-03), [L-08](../sources/greek-and-semantic-history.md#l-08)
-- `n25`: [JC-04](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-04), [JC-05](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-05)
-- `n26`: [JC-06](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-06)
+- `n25`: [JC-04](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-04), [JC-05](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-05), [JC-14](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-14--rabbi-akiva-completes-the-yoma-passage), [DC-09](../sources/deep-looking-and-continuation.md#dc-09--introductions-and-continuing-jewish-voices)
+- `n26`: [JC-06](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-06); the Maimonides discussion now appears chiefly in this note rather than a full main-text paragraph.
 - `n28`: [R-02](../sources/interpretation-history.md#r-02)
 - `n29`: [R-03](../sources/interpretation-history.md#r-03), [R-04](../sources/interpretation-history.md#r-04)
 - `n30`: [R-05](../sources/interpretation-history.md#r-05)
 - `n31`: [R-07](../sources/interpretation-history.md#r-07), [R-06](../sources/interpretation-history.md#r-06)
 - `n32`: [B-03](../sources/biblical-texts.md#b-03)
-- `n33`: [JC-10](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-10)
-- `n34`: [ND-01](../sources/nonattachment-and-nondual-reading.md#nd-01--openness-and-nonattachment-to-views)
+- `n33`: [JC-10](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-10), [DC-01](../sources/deep-looking-and-continuation.md#dc-01--mark-4-and-the-scriptural-question-of-hearing)
+- `n34`: [ND-01](../sources/nonattachment-and-nondual-reading.md#nd-01--openness-and-nonattachment-to-views), [DC-02](../sources/deep-looking-and-continuation.md#dc-02--deep-looking-and-introduction-of-thích-nhất-hạnh)
 - `n35`: [RD-02](../sources/rigidity-and-discernment.md#rd-02--the-disciples-are-not-exempt), [ND-05](../sources/nonattachment-and-nondual-reading.md#nd-05--a-healing-outside-the-disciples-group)
 - `n36`: [B-05](../sources/biblical-texts.md#b-05), [B-07](../sources/biblical-texts.md#b-07)
 - `n37`: [B-08](../sources/biblical-texts.md#b-08)
@@ -48,9 +48,9 @@ The publication apparatus replaces reader-facing research IDs with full source n
 - `n47`: [ND-02](../sources/nonattachment-and-nondual-reading.md#nd-02--historical-and-ultimate-neither-monism-nor-separation)
 - `n48`: [TA-03](../sources/time-age-and-eternity.md#ta-03--passover-the-past-enters-present-practice)
 - `n49`: [TA-04](../sources/time-age-and-eternity.md#ta-04--augustines-three-presents), [R-03](../sources/interpretation-history.md#r-03)
-- `n50`: [TA-05](../sources/time-age-and-eternity.md#ta-05--eternal-life-as-present-and-future)
+- `n50`: [TA-05](../sources/time-age-and-eternity.md#ta-05--eternal-life-as-present-and-future), [DC-07](../sources/deep-looking-and-continuation.md#dc-07--abrahamic-comparisons-the-past-and-a-changed-life)
 - `n51`: [PV-04](../sources/plum-village/time-and-transformation.md#pv-04)
-- `n52`: [TA-06–TA-07](../sources/time-age-and-eternity.md#ta-06--method-chronology-and-lived-time-are-not-mutually-exclusive)
+- `n52`: [TA-06–TA-07](../sources/time-age-and-eternity.md#ta-06--method-chronology-and-lived-time-are-not-mutually-exclusive), [DC-05–DC-07](../sources/deep-looking-and-continuation.md#dc-05--temporal-expressions-as-perspective-not-a-verdict)
 - `n53`: [ND-01](../sources/nonattachment-and-nondual-reading.md#nd-01--openness-and-nonattachment-to-views)
 - `n54`: [ND-09](../sources/nonattachment-and-nondual-reading.md#nd-09--truthful-beneficial-and-timely-speech)
 - `n55`: [ND-04](../sources/nonattachment-and-nondual-reading.md#nd-04--a-koan-involving-the-reader)
@@ -58,9 +58,13 @@ The publication apparatus replaces reader-facing research IDs with full source n
 - `n57`: [B-11](../sources/biblical-texts.md#b-11)
 - `n58`: [NV-03](../sources/nonviolence-and-disruption.md#nv-03--addressees-and-possible-wider-effects-in-mark)
 - `n59`: [NV-01–NV-02](../sources/nonviolence-and-disruption.md#nv-01--wink-on-loving-confrontation)
-- `n60`: [JC-12–JC-13](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-12--retaining-rejected-opinions-and-learning-from-a-rival)
-- `n61`: [JC-12](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-12--retaining-rejected-opinions-and-learning-from-a-rival)
-- `n62`: [AS-10](../sources/semitic-gospel-witnesses.md#as-10--the-syriac-forgiveness-clause-and-remission)
-- `n63`: [ND-10](../sources/nonattachment-and-nondual-reading.md#nd-10--reason-paradox-and-the-diamond-sutra)
+- `n60`: [JC-12–JC-13](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-12--retaining-rejected-opinions-and-learning-from-a-rival), [DC-09](../sources/deep-looking-and-continuation.md#dc-09--introductions-and-continuing-jewish-voices)
+- `n61`: [JC-12](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-12--retaining-rejected-opinions-and-learning-from-a-rival), [DC-09](../sources/deep-looking-and-continuation.md#dc-09--introductions-and-continuing-jewish-voices)
+- `n62`: [AS-10](../sources/semitic-gospel-witnesses.md#as-10--the-syriac-forgiveness-clause-and-remission), [DC-05](../sources/deep-looking-and-continuation.md#dc-05--temporal-expressions-as-perspective-not-a-verdict)
+- `n63`: [ND-10](../sources/nonattachment-and-nondual-reading.md#nd-10--reason-paradox-and-the-diamond-sutra), [DC-04](../sources/deep-looking-and-continuation.md#dc-04--diamond-sutra-hear-the-tension-in-its-own-words)
+- `n64`: [DC-03](../sources/deep-looking-and-continuation.md#dc-03--the-spoon-and-the-tongue)
+- `n65`: [DC-08](../sources/deep-looking-and-continuation.md#dc-08--islamic-counsel-concerning-speech-and-mercy)
+- `n66`: [DC-07](../sources/deep-looking-and-continuation.md#dc-07--abrahamic-comparisons-the-past-and-a-changed-life)
+- `n67`: [DC-06](../sources/deep-looking-and-continuation.md#dc-06--continuity-without-an-immutable-bearer)
 
-The October 14 revision also extends `n25` through [JC-14](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-14--rabbi-akiva-completes-the-yoma-passage), and `n16`/`n22` through AS-10.
+The October 14 revision also extended `n16` and `n22` through AS-10. The October 19 additions use new labels rather than renumbering inherited notes; printed numbering is generated from order of appearance. The latest source record does not retroactively claim a new full audit of earlier sources.
