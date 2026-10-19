@@ -1,0 +1,85 @@
+PDF build receipt
+UTC: 2026-10-19T17:52:44Z
+Source commit: 6d6c9a89489c700c66c937f5d42a4c4111da9a6f
+
+Working tree status (empty means clean):
+
+Platform:
+Darwin arm64
+ProductName:		macOS
+ProductVersion:		15.6.1
+BuildVersion:		24G90
+
+Tools:
+/Users/phapman/.local/share/mark-3-29/tools/pandoc-3.1.11.1-arm64/bin/pandoc
+/Library/TeX/texbin/xelatex
+pandoc 3.1.11.1
+Features: +server +lua
+Scripting engine: Lua 5.4
+User data directory: /Users/phapman/.local/share/pandoc
+Copyright (C) 2006-2023 John MacFarlane. Web: https://pandoc.org
+This is free software; see the source for copying conditions. There is no
+warranty, not even for merchantability or fitness for a particular purpose.
+XeTeX 3.141592653-2.6-0.999996 (TeX Live 2024)
+kpathsea version 6.4.0
+Copyright 2024 SIL International, Jonathan Kew and Khaled Hosny.
+There is NO warranty.  Redistribution of this software is
+covered by the terms of both the XeTeX copyright and
+the Lesser GNU General Public License.
+For more information about these matters, see the file
+named COPYING and the XeTeX source.
+Primary author of XeTeX: Jonathan Kew.
+Compiled with ICU version 74.2; using 74.2
+Compiled with zlib version 1.3.1; using 1.3.1
+Compiled with FreeType2 version 2.13.2; using 2.13.2
+Compiled with Graphite2 version 1.3.14; using 1.3.14
+Compiled with HarfBuzz version 8.3.0; using 8.3.0
+Compiled with libpng version 1.6.43; using 1.6.43
+Compiled with pplib version v2.2
+Using Mac OS X Core Text and Cocoa frameworks
+
+Recipe: Pandoc with publication.lua, metadata.yaml, header.tex; two XeLaTeX passes.
+
+SHA-256 of source, build recipe, Pandoc executable, and PDF:
+bda3dac81ea0c0e4f249862d9596f349ffb8b4010f96e54c1b762d9e2d575983  essay/working-draft-v4.md
+2d3eb13ea911c9b51713c41b6548417e00047259a6986a1f427f3fe9add3bdb6  scripts/build-pdf.sh
+25b2494ded1689265f0ae765ebc1017f652c51af4120cb7b22e92dae62eede69  typesetting/publication.lua
+3ce6364bce0ecfd27f95281ccf4020b9dd9968fa4185a82a637f8300a1be4ba2  typesetting/metadata.yaml
+77269b305aaec41e837d02e7a76be7df4cce810eaf6bf0b71241806ea927d068  typesetting/header.tex
+57b1d3775520a9a2688a1597a13b9b77714ff5c9458cded1dfee05d73a83902f  /Users/phapman/.local/share/mark-3-29/tools/pandoc-3.1.11.1-arm64/bin/pandoc
+0a1632dfa6868c387e644bfe1312ab111ee40ba35e903a1d684b5eb3fb813c85  /private/tmp/mark-publication/all-will-be-forgiven-v4-noto-2026-10-19.pdf
+
+SHA-256 of font files recorded by XeLaTeX (if exposed by the engine):
+
+PDF information:
+Title:           All Will Be Forgiven?
+Author:          Aaron Solomon
+Creator:         LaTeX via pandoc
+Producer:        xdvipdfmx (20240305)
+CreationDate:    Mon Oct 19 10:52:44 2026 PDT
+Custom Metadata: no
+Metadata Stream: no
+Tagged:          no
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           28
+Encrypted:       no
+Page size:       612 x 792 pts (letter)
+Page rot:        0
+File size:       145419 bytes
+Optimized:       no
+PDF version:     1.5
+
+Embedded fonts:
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+LUOTOV+NotoSerif                     CID TrueType      Identity-H       yes yes yes      4  0
+MTUJMW+NotoSerif-Italic              CID TrueType      Identity-H       yes yes yes      6  0
+TLYDRT+NotoSerif-Bold                CID TrueType      Identity-H       yes yes yes     10  0
+
+Typography warnings:
+None.
+
+Visual review is separate from this automated receipt.

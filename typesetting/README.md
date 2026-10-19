@@ -10,9 +10,9 @@ and compact spacing, and its heading starts a new page. The PDF has embedded Not
 polytonic Greek coverage, clickable source links, bookmarks, and page numbers. Running headers are omitted for a consistent, quiet page design. Hyphenation is constrained to avoid one-letter fragments and word breaks across pages.
 Generated PDFs normally stay outside this repository, as do TeX intermediates
 and font binaries. At Aaron's request, `output/pdf/all-will-be-forgiven-v4-noto.pdf`
-is retained as a build snapshot. It predates the subsequent closing-question
-edit adding “perhaps even ourselves”; rebuild when a current reading copy is
-needed. The build script continues to require an output path outside the repo.
+is retained as a build snapshot. Rebuild it after source changes when a current
+reading copy is needed. The build script continues to require an output path
+outside the repo; copy the reviewed PDF and receipt into `output/pdf` afterward.
 
 ## Requirements
 
