@@ -1,6 +1,6 @@
 # Publication footnotes and research records
 
-The publication apparatus replaces reader-facing research IDs with full source names and stable locators. The following map preserves the connection to the project’s topic dossiers. Note labels are stable source labels, not final printed numbers. The October 19 additions are documented in [Deep looking, hearing, and continuation](../sources/deep-looking-and-continuation.md).
+The publication apparatus replaces reader-facing research IDs with full source names and stable locators. The following map preserves the connection to the project’s topic dossiers. Note labels are stable source labels, not final printed numbers. The October 19 work is documented in [Deep looking, hearing, and continuation](../sources/deep-looking-and-continuation.md) and the subsequent [Listening, Sufi practice, and the Syriac text](../sources/listening-sufi-and-syriac-text.md).
 
 - `n01`: [RD-00](../sources/rigidity-and-discernment.md#rd-00--niv-opening)
 - `n02`: [B-02](../sources/biblical-texts.md#b-02)
@@ -21,11 +21,11 @@ The publication apparatus replaces reader-facing research IDs with full source n
 - `n19`: [B-02](../sources/biblical-texts.md#b-02), [L-01](../sources/greek-and-semantic-history.md#l-01), [L-04](../sources/greek-and-semantic-history.md#l-04)
 - `n20`: [B-02](../sources/biblical-texts.md#b-02)
 - `n21`: [L-01–L-04](../sources/greek-and-semantic-history.md#l-01)
-- `n22`: [AS-03–AS-04](../sources/semitic-gospel-witnesses.md#as-04--peshitta-mark-32830-checked-wording)
-- `n23`: [TA-01](../sources/time-age-and-eternity.md#ta-01--aiōn-and-english-eon), [B-03](../sources/biblical-texts.md#b-03), [DC-05](../sources/deep-looking-and-continuation.md#dc-05--temporal-expressions-as-perspective-not-a-verdict)
+- `n22`: [AS-03–AS-04](../sources/semitic-gospel-witnesses.md#as-04--peshitta-mark-32830-checked-wording), [LS-04](../sources/listening-sufi-and-syriac-text.md#ls-04--complete-peshitta-verses-and-reading-aids)
+- `n23`: [TA-01](../sources/time-age-and-eternity.md#ta-01--aiōn-and-english-eon), [B-03](../sources/biblical-texts.md#b-03), [DC-05](../sources/deep-looking-and-continuation.md#dc-05--temporal-expressions-as-perspective-not-a-verdict), [LS-04](../sources/listening-sufi-and-syriac-text.md#ls-04--complete-peshitta-verses-and-reading-aids)
 - `n24`: [L-03](../sources/greek-and-semantic-history.md#l-03), [L-08](../sources/greek-and-semantic-history.md#l-08)
 - `n25`: [JC-04](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-04), [JC-05](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-05), [JC-14](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-14--rabbi-akiva-completes-the-yoma-passage), [DC-09](../sources/deep-looking-and-continuation.md#dc-09--introductions-and-continuing-jewish-voices)
-- `n26`: [JC-06](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-06); the Maimonides discussion now appears chiefly in this note rather than a full main-text paragraph.
+- `n26`: [JC-06](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-06); the Maimonides discussion remains chiefly in this note rather than a full main-text paragraph.
 - `n28`: [R-02](../sources/interpretation-history.md#r-02)
 - `n29`: [R-03](../sources/interpretation-history.md#r-03), [R-04](../sources/interpretation-history.md#r-04)
 - `n30`: [R-05](../sources/interpretation-history.md#r-05)
@@ -60,11 +60,14 @@ The publication apparatus replaces reader-facing research IDs with full source n
 - `n59`: [NV-01–NV-02](../sources/nonviolence-and-disruption.md#nv-01--wink-on-loving-confrontation)
 - `n60`: [JC-12–JC-13](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-12--retaining-rejected-opinions-and-learning-from-a-rival), [DC-09](../sources/deep-looking-and-continuation.md#dc-09--introductions-and-continuing-jewish-voices)
 - `n61`: [JC-12](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-12--retaining-rejected-opinions-and-learning-from-a-rival), [DC-09](../sources/deep-looking-and-continuation.md#dc-09--introductions-and-continuing-jewish-voices)
-- `n62`: [AS-10](../sources/semitic-gospel-witnesses.md#as-10--the-syriac-forgiveness-clause-and-remission), [DC-05](../sources/deep-looking-and-continuation.md#dc-05--temporal-expressions-as-perspective-not-a-verdict)
+- `n62`: [AS-10](../sources/semitic-gospel-witnesses.md#as-10--the-syriac-forgiveness-clause-and-remission), [DC-05](../sources/deep-looking-and-continuation.md#dc-05--temporal-expressions-as-perspective-not-a-verdict), [LS-04](../sources/listening-sufi-and-syriac-text.md#ls-04--complete-peshitta-verses-and-reading-aids)
 - `n63`: [ND-10](../sources/nonattachment-and-nondual-reading.md#nd-10--reason-paradox-and-the-diamond-sutra), [DC-04](../sources/deep-looking-and-continuation.md#dc-04--diamond-sutra-hear-the-tension-in-its-own-words)
 - `n64`: [DC-03](../sources/deep-looking-and-continuation.md#dc-03--the-spoon-and-the-tongue)
-- `n65`: [DC-08](../sources/deep-looking-and-continuation.md#dc-08--islamic-counsel-concerning-speech-and-mercy)
+- `n65`: [DC-08](../sources/deep-looking-and-continuation.md#dc-08--islamic-counsel-concerning-speech-and-mercy), [LS-03](../sources/listening-sufi-and-syriac-text.md#ls-03--a-complete-unit-of-religious-address); the main text now gives the complete verse in a project-supplied translation, not Khattab’s earlier brief excerpts.
 - `n66`: [DC-07](../sources/deep-looking-and-continuation.md#dc-07--abrahamic-comparisons-the-past-and-a-changed-life)
-- `n67`: [DC-06](../sources/deep-looking-and-continuation.md#dc-06--continuity-without-an-immutable-bearer)
+- `n68`: [LS-01](../sources/listening-sufi-and-syriac-text.md#ls-01--listening-and-the-abrahamic-orientation)
+- `n69`: [LS-02](../sources/listening-sufi-and-syriac-text.md#ls-02--al-ghazālī-knowing-and-undergoing)
 
-The October 14 revision also extended `n16` and `n22` through AS-10. The October 19 additions use new labels rather than renumbering inherited notes; printed numbering is generated from order of appearance. The latest source record does not retroactively claim a new full audit of earlier sources.
+**Retired from active v4:** `n67` formerly pointed to [DC-06](../sources/deep-looking-and-continuation.md#dc-06--continuity-without-an-immutable-bearer). Aaron removed the associated quotation and exposition. The source remains in the research dossier and earlier versions, but its call and unused definition are removed from the essay. The label has not been reused.
+
+The October 14 revision also extended `n16` and `n22` through AS-10. Later additions use new labels rather than renumbering inherited notes; printed numbering is generated from order of appearance. The latest source record does not retroactively claim a full audit of earlier sources.
