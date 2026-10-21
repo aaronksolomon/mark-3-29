@@ -1,6 +1,6 @@
 # Publication footnotes and research records
 
-The publication apparatus replaces reader-facing research IDs with full source names and stable locators. The following map preserves the connection to the project’s topic dossiers. Note labels are stable source labels, not final printed numbers. The October 19 work is documented in [Deep looking, hearing, and continuation](../sources/deep-looking-and-continuation.md) and the subsequent [Listening, Sufi practice, and the Syriac text](../sources/listening-sufi-and-syriac-text.md).
+The publication apparatus replaces reader-facing research IDs with full source names and stable locators. The following map preserves the connection to the project’s topic dossiers. Note labels are stable source labels, not final printed numbers. The October 19 work is documented in [Deep looking, hearing, and continuation](../sources/deep-looking-and-continuation.md) and the subsequent [Listening, Sufi practice, and the Syriac text](../sources/listening-sufi-and-syriac-text.md). The October 21 refinement is recorded in [Teaching, care, and religious fear](../sources/teaching-care-and-religious-fear.md).
 
 - `n01`: [RD-00](../sources/rigidity-and-discernment.md#rd-00--niv-opening)
 - `n02`: [B-02](../sources/biblical-texts.md#b-02)
@@ -9,8 +9,8 @@ The publication apparatus replaces reader-facing research IDs with full source n
 - `n05`: [HT-01](../sources/humanity-and-provocative-teaching.md#ht-01)
 - `n06`: [HT-01](../sources/humanity-and-provocative-teaching.md#ht-01)
 - `n07`: [JC-01](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-01), [RD-01](../sources/rigidity-and-discernment.md#rd-01--hardness-before-the-blasphemy-controversy)
-- `n09`: [JC-02](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-02)
-- `n10`: [JC-03](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-03)
+- `n09`: [JC-02](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-02), [TC-01](../sources/teaching-care-and-religious-fear.md#tc-01--a-named-jewish-english-voice)
+- `n10`: [JC-03](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-03), [TC-01](../sources/teaching-care-and-religious-fear.md#tc-01--a-named-jewish-english-voice)
 - `n11`: [B-02](../sources/biblical-texts.md#b-02)
 - `n13`: [B-02](../sources/biblical-texts.md#b-02), [R-02](../sources/interpretation-history.md#r-02)
 - `n14`: [ND-04](../sources/nonattachment-and-nondual-reading.md#nd-04--a-koan-involving-the-reader)
@@ -18,10 +18,10 @@ The publication apparatus replaces reader-facing research IDs with full source n
 - `n16`: [B-01](../sources/biblical-texts.md#b-01), [HT-07](../sources/humanity-and-provocative-teaching.md#ht-07), [JC-09](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-09), [AS-01–AS-02](../sources/semitic-gospel-witnesses.md#as-01--aramaic-in-its-different-settings)
 - `n17`: [JC-04](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-04)
 - `n18`: [B-02](../sources/biblical-texts.md#b-02)
-- `n19`: [B-02](../sources/biblical-texts.md#b-02), [L-01](../sources/greek-and-semantic-history.md#l-01), [L-04](../sources/greek-and-semantic-history.md#l-04)
+- `n19`: [B-02](../sources/biblical-texts.md#b-02), [L-01](../sources/greek-and-semantic-history.md#l-01), [L-04](../sources/greek-and-semantic-history.md#l-04), [TC-02](../sources/teaching-care-and-religious-fear.md#tc-02--age-language-and-the-peshittas-historical-location)
 - `n20`: [B-02](../sources/biblical-texts.md#b-02)
 - `n21`: [L-01–L-04](../sources/greek-and-semantic-history.md#l-01)
-- `n22`: [AS-03–AS-04](../sources/semitic-gospel-witnesses.md#as-04--peshitta-mark-32830-checked-wording), [LS-04](../sources/listening-sufi-and-syriac-text.md#ls-04--complete-peshitta-verses-and-reading-aids)
+- `n22`: [AS-03–AS-04](../sources/semitic-gospel-witnesses.md#as-04--peshitta-mark-32830-checked-wording), [LS-04](../sources/listening-sufi-and-syriac-text.md#ls-04--complete-peshitta-verses-and-reading-aids), [TC-02](../sources/teaching-care-and-religious-fear.md#tc-02--age-language-and-the-peshittas-historical-location)
 - `n23`: [TA-01](../sources/time-age-and-eternity.md#ta-01--aiōn-and-english-eon), [B-03](../sources/biblical-texts.md#b-03), [DC-05](../sources/deep-looking-and-continuation.md#dc-05--temporal-expressions-as-perspective-not-a-verdict), [LS-04](../sources/listening-sufi-and-syriac-text.md#ls-04--complete-peshitta-verses-and-reading-aids)
 - `n24`: [L-03](../sources/greek-and-semantic-history.md#l-03), [L-08](../sources/greek-and-semantic-history.md#l-08)
 - `n25`: [JC-04](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-04), [JC-05](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-05), [JC-14](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-14--rabbi-akiva-completes-the-yoma-passage), [DC-09](../sources/deep-looking-and-continuation.md#dc-09--introductions-and-continuing-jewish-voices)
@@ -30,7 +30,7 @@ The publication apparatus replaces reader-facing research IDs with full source n
 - `n29`: [R-03](../sources/interpretation-history.md#r-03), [R-04](../sources/interpretation-history.md#r-04)
 - `n30`: [R-05](../sources/interpretation-history.md#r-05)
 - `n31`: [R-07](../sources/interpretation-history.md#r-07), [R-06](../sources/interpretation-history.md#r-06)
-- `n32`: [B-03](../sources/biblical-texts.md#b-03)
+- `n32`: [B-03](../sources/biblical-texts.md#b-03), [TC-02](../sources/teaching-care-and-religious-fear.md#tc-02--age-language-and-the-peshittas-historical-location)
 - `n33`: [JC-10](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-10), [DC-01](../sources/deep-looking-and-continuation.md#dc-01--mark-4-and-the-scriptural-question-of-hearing)
 - `n34`: [ND-01](../sources/nonattachment-and-nondual-reading.md#nd-01--openness-and-nonattachment-to-views), [DC-02](../sources/deep-looking-and-continuation.md#dc-02--deep-looking-and-introduction-of-thích-nhất-hạnh)
 - `n35`: [RD-02](../sources/rigidity-and-discernment.md#rd-02--the-disciples-are-not-exempt), [ND-05](../sources/nonattachment-and-nondual-reading.md#nd-05--a-healing-outside-the-disciples-group)
@@ -39,11 +39,11 @@ The publication apparatus replaces reader-facing research IDs with full source n
 - `n38`: [RD-04](../sources/rigidity-and-discernment.md#rd-04--profession-claimed-power-and-conduct), [RD-05](../sources/rigidity-and-discernment.md#rd-05--hunger-imprisonment-recognition-and-judgment)
 - `n39`: [RD-09](../sources/rigidity-and-discernment.md#rd-09--christian-interpretation-and-the-holocaust)
 - `n40`: [RD-10](../sources/rigidity-and-discernment.md#rd-10--authoritative-teaching-can-also-correct-harmful-interpretation)
-- `n41`: [B-03–B-04](../sources/biblical-texts.md#b-03), [R-09](../sources/interpretation-history.md#r-09)
+- `n41`: [B-03–B-04](../sources/biblical-texts.md#b-03), [R-09](../sources/interpretation-history.md#r-09), [TC-06](../sources/teaching-care-and-religious-fear.md#tc-06--transmission-and-the-force-of-a-remembered-saying)
 - `n42`: [HT-02](../sources/humanity-and-provocative-teaching.md#ht-02)
 - `n43`: [HT-02](../sources/humanity-and-provocative-teaching.md#ht-02)
 - `n44`: [HT-03](../sources/humanity-and-provocative-teaching.md#ht-03)
-- `n45`: [HT-04](../sources/humanity-and-provocative-teaching.md#ht-04)
+- `n45`: [HT-04](../sources/humanity-and-provocative-teaching.md#ht-04), [TC-03](../sources/teaching-care-and-religious-fear.md#tc-03--buddhist-passages-heard-as-coherent-units)
 - `n46`: [ND-08](../sources/nonattachment-and-nondual-reading.md#nd-08--logic-and-the-choice-of-a-description)
 - `n47`: [ND-02](../sources/nonattachment-and-nondual-reading.md#nd-02--historical-and-ultimate-neither-monism-nor-separation)
 - `n48`: [TA-03](../sources/time-age-and-eternity.md#ta-03--passover-the-past-enters-present-practice)
@@ -52,7 +52,7 @@ The publication apparatus replaces reader-facing research IDs with full source n
 - `n51`: [PV-04](../sources/plum-village/time-and-transformation.md#pv-04)
 - `n52`: [TA-06–TA-07](../sources/time-age-and-eternity.md#ta-06--method-chronology-and-lived-time-are-not-mutually-exclusive), [DC-05–DC-07](../sources/deep-looking-and-continuation.md#dc-05--temporal-expressions-as-perspective-not-a-verdict)
 - `n53`: [ND-01](../sources/nonattachment-and-nondual-reading.md#nd-01--openness-and-nonattachment-to-views)
-- `n54`: [ND-09](../sources/nonattachment-and-nondual-reading.md#nd-09--truthful-beneficial-and-timely-speech)
+- `n54`: [ND-09](../sources/nonattachment-and-nondual-reading.md#nd-09--truthful-beneficial-and-timely-speech), [TC-03](../sources/teaching-care-and-religious-fear.md#tc-03--buddhist-passages-heard-as-coherent-units)
 - `n55`: [ND-04](../sources/nonattachment-and-nondual-reading.md#nd-04--a-koan-involving-the-reader)
 - `n56`: [B-09](../sources/biblical-texts.md#b-09)
 - `n57`: [B-11](../sources/biblical-texts.md#b-11)
@@ -62,12 +62,14 @@ The publication apparatus replaces reader-facing research IDs with full source n
 - `n61`: [JC-12](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-12--retaining-rejected-opinions-and-learning-from-a-rival), [DC-09](../sources/deep-looking-and-continuation.md#dc-09--introductions-and-continuing-jewish-voices)
 - `n62`: [AS-10](../sources/semitic-gospel-witnesses.md#as-10--the-syriac-forgiveness-clause-and-remission), [DC-05](../sources/deep-looking-and-continuation.md#dc-05--temporal-expressions-as-perspective-not-a-verdict), [LS-04](../sources/listening-sufi-and-syriac-text.md#ls-04--complete-peshitta-verses-and-reading-aids)
 - `n63`: [ND-10](../sources/nonattachment-and-nondual-reading.md#nd-10--reason-paradox-and-the-diamond-sutra), [DC-04](../sources/deep-looking-and-continuation.md#dc-04--diamond-sutra-hear-the-tension-in-its-own-words)
-- `n64`: [DC-03](../sources/deep-looking-and-continuation.md#dc-03--the-spoon-and-the-tongue)
-- `n65`: [DC-08](../sources/deep-looking-and-continuation.md#dc-08--islamic-counsel-concerning-speech-and-mercy), [LS-03](../sources/listening-sufi-and-syriac-text.md#ls-03--a-complete-unit-of-religious-address); the main text now gives the complete verse in a project-supplied translation, not Khattab’s earlier brief excerpts.
+- `n64`: [DC-03](../sources/deep-looking-and-continuation.md#dc-03--the-spoon-and-the-tongue), [TC-03](../sources/teaching-care-and-religious-fear.md#tc-03--buddhist-passages-heard-as-coherent-units)
+- `n65`: [DC-08](../sources/deep-looking-and-continuation.md#dc-08--islamic-counsel-concerning-speech-and-mercy), [LS-03](../sources/listening-sufi-and-syriac-text.md#ls-03--a-complete-unit-of-religious-address); the main text gives the complete verse in a project-supplied translation, not Khattab’s earlier brief excerpts.
 - `n66`: [DC-07](../sources/deep-looking-and-continuation.md#dc-07--abrahamic-comparisons-the-past-and-a-changed-life)
 - `n68`: [LS-01](../sources/listening-sufi-and-syriac-text.md#ls-01--listening-and-the-abrahamic-orientation)
 - `n69`: [LS-02](../sources/listening-sufi-and-syriac-text.md#ls-02--al-ghazālī-knowing-and-undergoing)
+- `n70`: [TC-04](../sources/teaching-care-and-religious-fear.md#tc-04--rūmī-and-the-teacher-who-needs-correction)
+- `n71`: [TC-05](../sources/teaching-care-and-religious-fear.md#tc-05--contemporary-anti-muslim-hostility-without-a-new-historical-survey)
 
 **Retired from active v4:** `n67` formerly pointed to [DC-06](../sources/deep-looking-and-continuation.md#dc-06--continuity-without-an-immutable-bearer). Aaron removed the associated quotation and exposition. The source remains in the research dossier and earlier versions, but its call and unused definition are removed from the essay. The label has not been reused.
 
-The October 14 revision also extended `n16` and `n22` through AS-10. Later additions use new labels rather than renumbering inherited notes; printed numbering is generated from order of appearance. The latest source record does not retroactively claim a full audit of earlier sources.
+The October 14 revision also extended `n16` and `n22` through AS-10. Later additions use new labels rather than renumbering inherited notes; printed numbering is generated from order of appearance. The latest source record does not retroactively claim a full audit of earlier sources. The [October 21 editorial record](2026-10-21-style-and-encounter.md) explains the latest targeted changes and remaining verification needs.
