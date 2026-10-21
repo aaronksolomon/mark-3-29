@@ -1,5 +1,52 @@
 -- The canonical Markdown remains readable on GitHub. Present its leading
 -- title/subtitle as publication metadata, and promote the section hierarchy.
+-- Group complete Syriac phrases (including internal spaces) so both shaping
+-- and word order work in an otherwise left-to-right paragraph. Keep adjacent
+-- English punctuation outside the RTL run, including study-note brackets.
+local function typeset_syriac(xs)
+  local result = pandoc.List()
+  local run, pending_space = '', false
+  local function flush()
+    if run ~= '' then
+      result:insert(pandoc.RawInline('latex', '\\textsyriac{' .. run .. '}'))
+      run = ''
+    end
+    if pending_space then result:insert(pandoc.Space()) end
+    pending_space = false
+  end
+  local function segment(text, syriac)
+    if syriac then
+      run = run .. (pending_space and ' ' or '') .. text
+      pending_space = false
+    else
+      flush()
+      result:insert(pandoc.Str(text))
+    end
+  end
+  for _, inline in ipairs(xs) do
+    if inline.t == 'Str' then
+      local text, script = '', nil
+      for _, code in utf8.codes(inline.text) do
+        local syriac = (code >= 0x0700 and code <= 0x074F)
+          or (code >= 0x0860 and code <= 0x086F)
+        if script ~= nil and script ~= syriac then
+          segment(text, script)
+          text = ''
+        end
+        text, script = text .. utf8.char(code), syriac
+      end
+      if text ~= '' then segment(text, script) end
+    elseif (inline.t == 'Space' or inline.t == 'SoftBreak') and run ~= '' then
+      pending_space = true
+    else
+      flush()
+      result:insert(inline)
+    end
+  end
+  flush()
+  return result
+end
+
 function Pandoc(doc)
   if #doc.blocks > 0 and doc.blocks[1].t == 'Header'
       and doc.blocks[1].level == 1 then
@@ -34,6 +81,9 @@ function Pandoc(doc)
       return {pandoc.RawBlock('latex', '\\needspace{5\\baselineskip}'), p}
     end
   end})
+  if FORMAT:match('latex') then
+    doc = doc:walk({Inlines = typeset_syriac})
+  end
   return doc:walk({BlockQuote = function(b)
     -- Forbid paragraph-boundary breaks explicitly so the attribution remains
     -- with its quotation even when list/parskip settings permit such a break.

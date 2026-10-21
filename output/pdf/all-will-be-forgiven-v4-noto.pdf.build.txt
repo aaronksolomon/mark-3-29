@@ -1,8 +1,11 @@
 PDF build receipt
-UTC: 2026-10-19T17:52:44Z
-Source commit: 6d6c9a89489c700c66c937f5d42a4c4111da9a6f
+UTC: 2026-10-19T22:40:45Z
+Source commit: efd99a220275bf5a63b2b8a313f3c15ba08f7a0d
 
 Working tree status (empty means clean):
+ M typesetting/README.md
+ M typesetting/header.tex
+ M typesetting/publication.lua
 
 Platform:
 Darwin arm64
@@ -41,13 +44,13 @@ Using Mac OS X Core Text and Cocoa frameworks
 Recipe: Pandoc with publication.lua, metadata.yaml, header.tex; two XeLaTeX passes.
 
 SHA-256 of source, build recipe, Pandoc executable, and PDF:
-bda3dac81ea0c0e4f249862d9596f349ffb8b4010f96e54c1b762d9e2d575983  essay/working-draft-v4.md
+13973e38c86ac968f87f45e6080100ada253b71574c2116045db2e98995bfcf2  essay/working-draft-v4.md
 2d3eb13ea911c9b51713c41b6548417e00047259a6986a1f427f3fe9add3bdb6  scripts/build-pdf.sh
-25b2494ded1689265f0ae765ebc1017f652c51af4120cb7b22e92dae62eede69  typesetting/publication.lua
+5a452ad24f60f1b359cb0dc4999f620d725d546929232e8eeac36140811bc8d1  typesetting/publication.lua
 3ce6364bce0ecfd27f95281ccf4020b9dd9968fa4185a82a637f8300a1be4ba2  typesetting/metadata.yaml
-77269b305aaec41e837d02e7a76be7df4cce810eaf6bf0b71241806ea927d068  typesetting/header.tex
+77440d3a0a1ed8b872a11d429205f3329f92fd9733d8be1a74decb9f306fc2f4  typesetting/header.tex
 57b1d3775520a9a2688a1597a13b9b77714ff5c9458cded1dfee05d73a83902f  /Users/phapman/.local/share/mark-3-29/tools/pandoc-3.1.11.1-arm64/bin/pandoc
-0a1632dfa6868c387e644bfe1312ab111ee40ba35e903a1d684b5eb3fb813c85  /private/tmp/mark-publication/all-will-be-forgiven-v4-noto-2026-10-19.pdf
+575fdbab5638766d6ceb2af6f1b547d464875d3e4d9d8b390e729cce94c87848  /private/tmp/mark-publication/all-will-be-forgiven-v4-efd99a2.pdf
 
 SHA-256 of font files recorded by XeLaTeX (if exposed by the engine):
 
@@ -56,28 +59,29 @@ Title:           All Will Be Forgiven?
 Author:          Aaron Solomon
 Creator:         LaTeX via pandoc
 Producer:        xdvipdfmx (20240305)
-CreationDate:    Mon Oct 19 10:52:44 2026 PDT
-Custom Metadata: no
+CreationDate:    Mon Oct 19 15:40:45 2026 PDT
+Custom Metadata: yes
 Metadata Stream: no
 Tagged:          no
 UserProperties:  no
 Suspects:        no
 Form:            none
 JavaScript:      no
-Pages:           28
+Pages:           30
 Encrypted:       no
 Page size:       612 x 792 pts (letter)
 Page rot:        0
-File size:       145419 bytes
+File size:       156198 bytes
 Optimized:       no
 PDF version:     1.5
 
 Embedded fonts:
 name                                 type              encoding         emb sub uni object ID
 ------------------------------------ ----------------- ---------------- --- --- --- ---------
-LUOTOV+NotoSerif                     CID TrueType      Identity-H       yes yes yes      4  0
-MTUJMW+NotoSerif-Italic              CID TrueType      Identity-H       yes yes yes      6  0
-TLYDRT+NotoSerif-Bold                CID TrueType      Identity-H       yes yes yes     10  0
+FQKAUF+NotoSerif                     CID TrueType      Identity-H       yes yes yes      4  0
+ZKTXNF+NotoSerif-Italic              CID TrueType      Identity-H       yes yes yes      6  0
+IRTTRK+NotoSerif-Bold                CID TrueType      Identity-H       yes yes yes     10  0
+VZOSDJ+NotoSansSyriac-Regular        CID TrueType      Identity-H       yes yes yes     62  0
 
 Typography warnings:
 None.

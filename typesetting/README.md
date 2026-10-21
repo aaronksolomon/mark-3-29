@@ -7,7 +7,11 @@ it does not change the essay's wording. It keeps standalone verse labels with
 their text, binds footnote callouts to the preceding punctuation, and keeps the
 closing paragraph intact. It also keeps block quotations with their attributions and the language-study heading with its first verse. A `bibliography` fenced div receives hanging indents
 and compact spacing, and its heading starts a new page. The PDF has embedded Noto Serif fonts,
-polytonic Greek coverage, clickable source links, bookmarks, and page numbers. Running headers are omitted for a consistent, quiet page design. Hyphenation is constrained to avoid one-letter fragments and word breaks across pages.
+polytonic Greek coverage, clickable source links, bookmarks, and page numbers.
+Syriac verses and inline Syriac terms use Noto Sans Syriac with right-to-left
+shaping. The Lua filter groups Syriac phrases while keeping surrounding English
+punctuation outside them; the canonical Markdown remains unchanged.
+Running headers are omitted for a consistent, quiet page design. Hyphenation is constrained to avoid one-letter fragments and word breaks across pages.
 Generated PDFs normally stay outside this repository, as do TeX intermediates
 and font binaries. At Aaron's request, `output/pdf/all-will-be-forgiven-v4-noto.pdf`
 is retained as a build snapshot. Rebuild it after source changes when a current
@@ -18,9 +22,9 @@ outside the repo; copy the reviewed PDF and receipt into `output/pdf` afterward.
 
 - Pandoc 3.x (tested with 3.1.11.1)
 - XeLaTeX / TeX Live, including fontspec, geometry, hyperref, bookmark,
-  microtype, fancyhdr, titlesec, needspace, footmisc, and the standard Pandoc
+  microtype, fancyhdr, titlesec, needspace, footmisc, bidi, and the standard Pandoc
   LaTeX template dependencies
-- System fonts: Noto Serif, Noto Sans, DejaVu Sans Mono
+- System fonts: Noto Serif, Noto Sans, Noto Sans Syriac, DejaVu Sans Mono
 - Optional review tools: Poppler (`pdfinfo`, `pdftoppm`, `pdftotext`)
 
 On Debian/Ubuntu these are supplied by `pandoc`, `texlive-xetex`,
@@ -33,6 +37,12 @@ MacTeX / TeX Live 2024, Pandoc 3.1.11.1, Noto Serif 2.015, Noto Sans 2.015,
 DejaVu 2.37, and Homebrew Poppler. The original review did not record its OS,
 TeX version, or font versions, so these are the local versions, not a claim
 of an identical historical environment.
+
+The subsequent Syriac build uses macOS's preinstalled Noto Sans Syriac at
+`/System/Library/Fonts/Supplemental/NotoSansSyriac-Regular.ttf` and TeX Live's
+`bidi` package. On other systems, install a font with the family name
+`Noto Sans Syriac` before building the current essay. The right-to-left package
+is loaded at the end of the preamble, after Pandoc's link packages.
 
 Homebrew supplies the fonts and review tools:
 

@@ -28,6 +28,10 @@
 \titleformat{\subsubsection}{\normalsize\itshape}{}{0pt}{}
 \titlespacing*{\subsubsection}{0pt}{1em}{0.3em}
 \makeatletter
+% Load bidi after Pandoc's packages, then restore our quiet title layout after
+% bidi applies its article-class compatibility definitions.
+\AtEndPreamble{%
+\usepackage{bidi}%
 \renewcommand{\maketitle}{%
   \thispagestyle{plain}%
   \begin{center}
@@ -36,4 +40,8 @@
   \end{center}
   \vspace{0.7em}%
 }
+}
 \makeatother
+% Syriac passages and inline study terms retain their logical Unicode order.
+\newfontfamily\syriacfont{Noto Sans Syriac}[Script=Syriac]
+\newcommand{\textsyriac}[1]{\RL{{\syriacfont #1}}}
