@@ -17,7 +17,7 @@ What the words declare, what speaking them seeks to accomplish, and what eventua
 
 We also bring our own histories to these words. Forgiveness may suggest pardon, release, or reconciliation; judgment may suggest discernment or condemnation. Jesus and those who heard him spoke from their own inherited language and religious life. As their exchange is remembered, written, translated, and taught, it enters other lives and other circumstances. What changes when words spoken to particular people become a judgment we pronounce about someone else—or an entire community?
 
-Teachings from other traditions can make familiar assumptions visible. The Gospels themselves challenge the assumption that faith and mercy will appear only within our own community. Jesus responds to a centurion’s trust with astonishment: “I have not found anyone in Israel with such great faith” (Matthew 8:10, NIV). In Luke’s parable of the Good Samaritan, the compassionate action comes from a Samaritan, a member of a related but contested Israelite tradition: he sees the wounded man and “took pity on him” (Luke 10:33, NIV). Jesus directs attention toward faith and compassionate action where his hearers might not expect to find them. [^n04]
+Teachings from other traditions can make familiar assumptions visible. The Gospels themselves challenge the assumption that faith and mercy will appear only within ["our own" seems to involve the reader in community membership? not necessarily clear here -- perhaps "one's own" is more general and approachable?] our own community. Jesus responds to a centurion’s trust with astonishment: “I have not found anyone in Israel with such great faith” (Matthew 8:10, NIV). In Luke’s parable of the Good Samaritan, the compassionate action comes from a Samaritan, a member of a related but contested Israelite tradition: he sees the wounded man and “took pity on him” (Luke 10:33, NIV). Jesus directs attention toward faith and compassionate action where his hearers might not expect to find them. [^n04]
 
 Jewish teaching has a valuable place in this inquiry, both as Jesus’s own religious inheritance and as a continuing voice with questions of its own. The Mishnah preserves rejected opinions of Hillel and Shammai, Jewish teachers associated with the period around the beginning of the Common Era, to teach that a person should not insist on their own position (Eduyot 1:4). Much later, the British rabbi and public thinker Jonathan Sacks (1948–2020) describes the ideal exemplified by Hillel’s school: “They sought truth, not victory.” The willingness to be corrected belongs here within a committed religious life. Fidelity to a teaching need not become the need to defend ourselves. [^n60]
 
@@ -99,7 +99,7 @@ Mark preserves Aramaic words elsewhere, including “Talitha koum” in the rais
 
 The human work of translation was recognized within Jewish tradition. In the prologue to Ben Sira, a Jewish wisdom book also called Sirach, the translator observes that Hebrew expression “does not have exactly the same effect when translated into another language” (prologue, lines 21–22, NRSVUE). This is not a reason to abandon the words. It is a reason to study them in relation to the life, language, and practice through which they are transmitted. [^n17]
 
-### Interpreting the passage
+### The passage in Greek
 
 **Mark 3:28**
 
@@ -119,7 +119,7 @@ The Greek verb is “will be forgiven”; the NIV opening renders the statement 
 
 **Literal English:** “But whoever blasphemes against the Holy Spirit does not have forgiveness [ἄφεσιν, *aphesin*: forgiveness / remission] into the age [εἰς τὸν αἰῶνα, *eis ton aiōna*: into / unto the age], but is answerable for an eternal sin [αἰωνίου ἁμαρτήματος, *aiōniou hamartēmatos*: of an eternal sin].”
 
-The idiom containing “age” gives an emphatic denial; it does not specify a period after which forgiveness resumes. “Answerable” distinguishes being held accountable for wrongdoing from the inward feeling of guilt. The adjective αἰωνίου, *aiōniou*, “eternal,” is an inflected form of *aiōnios*, derived from *aiōn*, “age.” It is not built from a negative prefix meaning “without age,” nor is it literally the phrase “from age to age.” The language of age appears twice in the verse: in the denial of forgiveness and in the description of the sin. That connection invites attention to how enduring time is being expressed, without a word’s derivation settling everything the saying means. [^n19]
+The idiom containing “age” gives an emphatic denial; it does not specify a period after which forgiveness resumes. “Answerable” distinguishes being held accountable for wrongdoing from the inward feeling of guilt. The adjective αἰωνίου, *aiōniou*, “eternal,” is an inflected form of *aiōnios*, derived from *aiōn*, “age.” It is not built from a negative prefix meaning “without age,” nor is it literally the phrase “from age to age.” [my original comment was intended to spur the appropriate idiomatic connection between aioniou and anionios, not to specify what it is not; can you elucidate it?] The language of age appears twice in the verse: in the denial of forgiveness and in the description of the sin. That connection invites attention to how enduring time is being expressed; this does not settle everything the saying means. [^n19]
 
 **Mark 3:30**
 
@@ -131,13 +131,13 @@ The idiom containing “age” gives an emphatic denial; it does not specify a p
 
 The NIV uses “impure” for *akatharton*. Mark’s explanation joins the warning to the accusation already being made. [^n20]
 
-The language is forceful. The breadth of forgiveness heightens the exception without becoming empty rhetoric, and the Greek does not remove the severity. The warning concerns what these people are already saying about Jesus’s work. What its denial of forgiveness means for them remains a question inside the translated words.
+The language is forceful. The breadth of forgiveness heightens the exception without becoming empty rhetoric, and the Greek does not remove the severity. The warning concerns what these people are already saying about Jesus’s work. What its denial of forgiveness means for them remains a question within the words.
 
-The final phrase further intensifies the expression. The critical SBLGNT reads “eternal sin”; the Textus Receptus, the printed Greek tradition behind the King James Version, reads “eternal judgment.” The difference is in the noun. “Eternal sin” does not itself specify a punishment, but it does speak of being answerable for wrongdoing. Neither a complete theory of punishment nor a purely inward account of blocked healing is contained in those words. Their meaning is sought within the story, the wider scriptural witness, and the continuing experience of repentance, mercy, and consequence. [^n21]
+The final phrase further intensifies the expression. The critical SBLGNT reads [give greek again here] “eternal sin”; the Textus Receptus, the printed Greek tradition behind the King James Version, reads “eternal judgment.” The difference is in the noun. “Eternal sin” does not itself specify a punishment, but it does speak of being answerable for wrongdoing. [this is a little bit of stating the obvious, slightly pedantic: can we make it less repetitive and say something consequential to our flow, or leave out/condense? It's also leading into  the following sections, but maybe we don't need to do that here? a concluding comment at the end of "Understanding the words should be sufficient. we should not interrupt to much of the textual study with interpretive work] Neither a complete theory of punishment nor a purely inward account of blocked healing is contained in those words. Their meaning is sought within the story, the wider scriptural witness, and the continuing experience of repentance, mercy, and consequence. [^n21]
 
-### The saying in Syriac
+### The passage in Syriac
 
-The Peshitta, the traditional Syriac version of the Bible, offers another witness to the reception of this saying. Its New Testament became standard around 400 CE, drawing on earlier Syriac translations and revision in relation to Greek texts. Syriac is a literary form of Aramaic. This version of Mark therefore brings us into an Aramaic-speaking Christian tradition several centuries after Jesus, rather than giving us a transcript of his speech. The following Syriac is quoted from the British and Foreign Bible Society edition as displayed by Dukhrana, with vowel marks omitted. The romanization is a reading aid, and the literal English is supplied here. [^n22]
+The Peshitta, the traditional Syriac version of the Bible, offers another witness to the reception of this saying (Syriac is a literary form of Aramaic). Its New Testament became standard around 400 CE, drawing on earlier Syriac translations and revision in relation to Greek texts. This version of Mark therefore brings us into an Aramaic-speaking Christian tradition several centuries after Jesus, rather than giving us a transcript of his speech. The following Syriac is quoted from the British and Foreign Bible Society edition as displayed by Dukhrana, with vowel marks omitted. The romanization is a reading aid, and the literal English is supplied here [this still does not make it evident that the literal english was generated for this essay -- the footnote should name the translation process through AI/your model info. there should be a general note on the use of AI for research and editorial and drafting work, with the author's careful review of every sentence, reference and exposition-- likely at the intro.]. [^n22]
 
 **Peshitta, Mark 3:29**
 
@@ -165,7 +165,7 @@ Our English words bring other associations into the question of what forgiveness
 
 Jewish reflection joins seeking mercy to how we treat another person. Ben Sira, a Jewish teacher writing in Jerusalem in the early second century BCE, says, “Forgive your neighbor the wrong he has done” (Sirach 28:2, NRSVUE), then connects that act with asking forgiveness in prayer. Later rabbinic teaching distinguishes wrongs against God from wrongs against another person: the latter are not atoned for by the Day of Atonement alone, “until one has appeased one’s fellow” (Mishnah Yoma 8:9; translation supplied from Hebrew). A religious act does not simply discharge the responsibility to the person harmed. The same passage ends with Rabbi Akiva, a teacher of Roman-era Judea in the late first and early second centuries CE, addressing Israel: “Who purifies you? Your Father in heaven.” Divine care and the obligation to the injured person sound together. The hope of purification does not make the work of repair unnecessary, and the demand for repair does not exhaust what the tradition says about mercy. [^n25]
 
-The possibility of turning remains a searching question within that inheritance: wrongdoing can become deeply established, and mercy cannot be understood without considering what a life has become. Later Jewish reflection includes severe accounts of hardening as well as invitations to return. [^n26]
+The possibility of turning remains a searching question within that inheritance: wrongdoing can become deeply established, and mercy cannot be understood without considering what a life has become. [I'm inclined to drop this sentence or adjust; what's critical here to our thrust and careful presentation?: Later Jewish reflection includes severe accounts of hardening as well as invitations to return.] [^n26]
 
 ### Interpretations over time
 
@@ -179,7 +179,7 @@ John Calvin, sixteenth-century Reformation theologian based in Geneva, draws the
 
 The Catholic Catechism also takes refusal seriously, affirming “There are no limits to the mercy of God” (§1864) before describing rejection of repentance and possible final loss. The nineteenth-century Scottish writer and preacher George MacDonald presses further, refusing to regard the condition as “a fixed, a final condition” (*It Shall Not Be Forgiven*). Whether resistance can itself ultimately change is where these readings diverge. [^n31]
 
-Each account brings something consequential to the saying: a distinction between ignorance and knowing rejection, a boundary at death, or trust in a further possibility of transformation. These are efforts to understand the warning within a larger vision of God and human life. Close reading and reasoning help us understand their differences, but cannot settle them without further judgments about that larger vision. Interpretation also involves attention to the life and teaching to which the saying belongs, and to the experience through which mercy and responsibility become more than concepts.
+Each account brings something consequential to the saying: a distinction between ignorance and knowing rejection, a boundary at death, or trust in a further possibility of transformation. These are efforts to understand the warning within a larger vision of God and human life. Close reading and reasoning help us understand their differences, but cannot settle them without deeper understanding of that larger vision. Interpretation also involves attention to the life and teaching to which the saying belongs, and to the experience through which mercy and responsibility become more than concepts.
 
 ### The warning and the work of hearing
 
@@ -189,9 +189,9 @@ Matthew’s parallel retains the broad promise and the warning, then distinguish
 >
 > — Matthew 12:32, excerpt, NIV. [^n32]
 
-This is a substantial reason for taking the strength of the expression seriously. A compassionate purpose can coexist with a conviction that the danger is irreversible. That reading deserves contemplation, not a diagnosis of closed-mindedness. Equally, hope for transformation cannot simply insert “only while the refusal continues” into the sentence. The words retain their force even as we continue to ask how they address a human life.
+This is a substantial reason for holding the strength of the expression carefully. A compassionate purpose can coexist with a conviction that the danger is irreversible. That reading deserves contemplation, not a diagnosis of closed-mindedness. Equally, hope for transformation cannot simply insert “only while the refusal continues” into the sentence [the missing and central point here is: *neither do they preclude transformation*]. The words retain their force even as we continue to ask how they address a human life.
 
-Mark 4 takes us further into the question of hearing. After the parable of the sower, the Twelve and others around Jesus ask about the parables. He speaks of the secret of God’s kingdom being given to them and of those outside receiving everything in parables. Then, with the words “so that,” he brings an ancient voice into the exchange:
+Mark 4 takes us further into the question of hearing. After the parable of the sower, the Twelve and others around Jesus ask about the parables. He speaks of the secret of God’s kingdom being given to them and of those outside receiving everything in parables. Then, with the words “so that,” he brings an ancient voice into the exchange [this no longer gives the remarkable context: he is saying that all must be in parables "so that, " and thus the discussion following is not contextualized--therefore a bit ungrounded and anemic? easy to include the lead in phrase from the scripture itself, the full quote]:
 
 > “they may be ever seeing but never perceiving,
 > and ever hearing but never understanding;
@@ -205,12 +205,12 @@ The same chapter places a lamp where its light can be seen and speaks of hidden 
 
 The *Dhammapada*, a collection of Buddhist teaching verses, offers a familiar image for the difference. One verse compares long association with the wise without understanding to a spoon that cannot taste soup. The next reverses the image:
 
-> “Even if for a moment,
-> the perceptive person stays with the wise,
-> he immediately knows the Dhamma —
-> as the tongue, the taste of the soup.”
+> “But if [one] who watches and sees is only a moment
+> with a wise person [they] soon know the path of wisom,
+> as the tongue knows taste of the soup.”
 >
-> — *Dhammapada* 65, translated by Ṭhānissaro Bhikkhu. [^n64]
+> — *Dhammapada* 65, translated by Juan Mascaro. [fix footnote] [^n64]
+[the difference between tasting of the tongue and spoon not tasting is not elucidated. is there commentary anywhere on this? nothing from TNH?]
 
 Closeness to a teaching and realization of it are not the same. The contrast need not become another division of people into fixed kinds. It can ask what our own familiarity has allowed us to understand—and what we still have not tasted.
 
@@ -224,7 +224,7 @@ What changes when we hear the saying as an address is not necessarily its truth,
 
 ### Clinging to a view, looking deeply
 
-Clinging to a view is not the same as reasoning carefully or holding a conviction. The danger begins when keeping a judgment becomes more important than discovering what is true. The scribes’ description of Jesus’s work gives that danger a concrete form: liberation is named evil and becomes something to resist rather than receive. Dogmatism gives this attachment a doctrinal form. We judge everything by the teaching as we have understood it, but no longer allow what happens, or what another person tells us, to question that understanding.
+Clinging to a view is not the same as looking deeply or holding a conviction. The danger begins when keeping a judgment becomes more important than discovering what is true. The scribes’ description of Jesus’s work gives that danger a concrete form: liberation is named evil and becomes something to resist rather than receive. Dogmatism gives this attachment a doctrinal form. We judge everything by the teaching as we have understood it, but no longer allow what happens, or what another person tells us, to question that understanding.
 
 The Order of Interbeing places this danger within its First Mindfulness Training, which commits practitioners to transforming dogmatism and the violence it can produce, including attachment to Buddhist doctrines. The Second Training turns toward the practice through which understanding develops: “compassionate listening, deep looking, and letting go of notions.” It says, “Truth is found in life.” This is not an instruction to stop studying. It asks that study remain in contact with what happens within us and around us, rather than become an accumulation that leaves our way of seeing untouched. [^n34]
 
@@ -250,7 +250,8 @@ The thirteenth-century Persian-language poet and Sufi teacher Jalāl al-Dīn Rū
 >
 > — Rūmī, *Mathnawī*, II.1751, translated by Ibrahim Gamard. [^n70]
 
-Rūmī asks us to attend to what correction does within a relationship. The question is not simply whether the shepherd’s words are accurate, but what becomes of his devotion when they are corrected in this way. The teacher, too, may need to hear a warning. This is a Sufi teaching story about Moses, not an account of the encounter in Mark; it gives us another way to ask whether defending sacred language can sometimes keep us from hearing the life expressed through it.
+Rūmī asks us to attend to what correction does within a relationship. The question is not simply whether the shepherd’s words are accurate, but what becomes of his devotion when they are corrected in this way. The teacher, too, may need to hear a warning. This is a Sufi teaching story about Moses, not an account of the encounter in Mark [the previous states the obvious -- do we need that? perhaps collapse further: this is a distinct story or something like]; it gives us another way to ask whether defending sacred language can sometimes keep us from hearing the life expressed through it.
+[ I like this sample, however I'm wondering if the short except of "Out beyond notions of right doing and wrong doing lies a field, I will meet you there.." I think daniel ladinsky has translated this in love poems from God, might not be quite the right source, but I think it's also an interesting one. I'm ok with current, but wanted to put that out as an alternate if you see it can help with notions of right and wrong--could go in another section]
 
 Mark directs the concern about failed recognition toward the disciples too. Jesus asks them, “Are your hearts hardened?” and “[D]on’t you remember?” (8:17–18, NIV), then continues to teach them. Later they try to stop someone driving out demons in Jesus’s name because “he was not one of us”; Jesus answers, “Do not stop him” (9:38–39, NIV). Attachment to belonging threatens to obstruct the work they claim to serve. Difficulty in recognizing what is good belongs within the circle of disciples as well as beyond it. [^n35]
 
@@ -258,7 +259,7 @@ The disciples’ misunderstandings prevent us from assigning failed recognition 
 
 ### Paul and changed seeing
 
-Paul’s life gives the possibility of change particular weight. He recalls, “I persecuted the church of God and tried to destroy it,” before describing God’s revelation of the Son (Galatians 1:13–16, NIV). Acts tells the change through blindness, restored sight, and Ananias’s words: “you may see again and be filled with the Holy Spirit” (9:17, NIV). The person who had worked to destroy the community comes to recognize what he had opposed. [^n36]
+Paul’s [maybe "the apostle paul, just for a little context for a non-christian reader? paul we have much more history on than matthew and mark (true?) so we can introduce him, though he's in a different category than others in the essay] life gives the possibility of change particular weight. He recalls, “I persecuted the church of God and tried to destroy it,” before describing God’s revelation of the Son (Galatians 1:13–16, NIV). Acts tells the change through blindness, restored sight, and Ananias’s words: “you may see again and be filled with the Holy Spirit” (9:17, NIV). The person who had worked to destroy the community comes to recognize what he had opposed. [^n36]
 
 First Timothy qualifies its account of mercy: “I acted in ignorance and unbelief” (1:13, NIV). This canonical portrayal has disputed authorship and should not simply be merged with Paul’s own account in Galatians or with Acts’ narrative. The distinction between ignorance and knowing rejection matters, and none of these passages establishes that Paul made the particular accusation in Mark. His life does not cancel the warning. It does prevent destructive religious opposition from becoming, by itself, proof that a person cannot change. Paul’s own severe words against a different gospel also keep him from becoming a simple emblem of openness: transformation does not remove every hard boundary from a person’s convictions. [^n37]
 
@@ -282,21 +283,21 @@ Christian anti-Judaism makes the stakes historical as well as personal. In its a
 
 The responsibility includes questioning interpretations that enabled people and institutions to disregard Jewish lives. It also includes correction: the Second Vatican Council’s declaration *Nostra aetate* §4 states that Jews “should not be presented as rejected or accursed by God.” The declaration does not undo earlier injury, but shows that authoritative teaching can restrain harm as well as be used to sustain it. The problem is not simply that there is a doctrine. It is whether that doctrine and its application remain answerable to the truth and human dignity they claim to serve. [^n40]
 
-Anti-Muslim hostility, often called Islamophobia, makes the question immediate in another setting. In March 2026, the Organization for Security and Co-operation in Europe described continuing threats, physical violence, and attacks on property directed at Muslims. These are distinct histories, not interchangeable examples. Yet they bring a related responsibility before us: to notice when a religious identity becomes sufficient reason to distrust or exclude a person before we have heard them. [^n71]
+Anti-Muslim hostility, Islamophobia, makes the question immediate in another setting. In March 2026, the Organization for Security and Co-operation in Europe described continuing threats, physical violence, and attacks on property directed at Muslims. [we must contextualize the US here also.] These are distinct histories, not interchangeable examples [this previous refrain is repeated frequently and does not really serve; what do we want to say here?]. Yet they bring a related responsibility before us: to notice when a religious identity becomes sufficient reason to distrust or exclude a person before we have heard them. [^n71]
 
 We can question a doctrine without treating its practitioners as a threat, and oppose violence without making a whole faith answerable for it. What do we fail to hear when someone’s religious identity seems to tell us everything we need to know about them? Encounter does not require agreement. It asks that another person remain able to speak, and that our response be answerable to what they actually say and do. This question belongs within our own communities as much as between traditions.
 
-The antidote to dogmatism is therefore not indifference. It includes study, prayer, listening, concrete care, and willingness to change what we do when harm becomes visible. It also leaves room for honest disagreement. Another person’s refusal to accept our interpretation does not establish that their heart is closed. The same test returns upon a compassionate reading of Mark: if we dismiss every difficult verse or contrary interpretation as a failure of compassion, we have protected our own view from the encounter we ask of others.
+The antidote to dogmatism is therefore not indifference [where does indifference come from? is not ... many expressions could fit there? what is important to say here. Maybe just say what it requires without the contrast? also dogmatism within oneself requiring one approach, dogmatism in relationship requiring compassionate dialog?]. It includes study, prayer and comtemplation, listening, concrete care, and willingness to change what we do when harm becomes visible. It also leaves room for honest disagreement. Another person’s refusal to accept our interpretation does not establish that their heart is closed. The same test returns upon a compassionate reading of Mark: if we dismiss every difficult verse or contrary interpretation as a failure of compassion, we have protected our own view from the encounter we ask of others.
 
 ## 5. Humanity without distance from the divine
 
-The call to look again does not stop with those whom Jesus addresses. It also concerns how we see Jesus himself. Reverence can bring us close to a life, but it can also place that life at such a distance that we no longer hear a person speaking to other people. Then a warning becomes a timeless classification before we have attended to the act of address. Recovering the human encounter does not weaken the words; it restores the relation in which their force is first felt.
+The call to look again does not stop with those whom Jesus addresses. It also concerns how we see Jesus himself. Reverence can bring us close to a life, but it can also place that life at such a distance that we no longer hear a person speaking to other people. Then a warning becomes a timeless classification before we have attended to the act of address. Recovering the human encounter allows us to hear the words within the relation in which their force is first felt.
 
 ### A human teacher, a human transmission
 
 The teaching reaches us through lives as well as words. Matthew retains the exchange about Jesus’s power; Luke places the warning beside the promise that “the Holy Spirit will teach you at that time what you should say” (12:12, NIV). The different settings guide different acts of understanding. *Dei verbum*, the Second Vatican Council’s constitution on divine revelation, recognizes the evangelists as “selecting some things from the many which had been handed on” (§19), while affirming the truth of the Gospels. Interpretation already participates in how the tradition is given, not simply in what later readers add. [^n41]
 
-The warning’s preservation in Mark, Matthew, and Luke shows its importance within the tradition that carried it. It does not by itself give us three independent memories of one exchange, or recover the sound of Jesus’s voice. What did the evangelists hear in these words, and what did they hope those who came after them would hear? A saying may be preserved for its force, its challenge, or the urgency it continues to carry. The written account allows the encounter to reach us while leaving much of the original moment beyond our reach.
+The warning’s preservation in Mark, Matthew, and Luke shows its importance within the tradition that carried it. It does not by itself give us three independent memories of one exchange, the full context, or give us Jesus's inner intentions. What did the evangelists hear in these words, and what did they hope those who came after them would hear? A saying may be preserved for its force, its challenge, or the urgency it continues to carry. The written account allows the encounter to reach us while leaving much of the original moment beyond our direct knowing.
 
 Jesus’s humanity belongs within this stream. Luke says that he “grew in wisdom” (2:52, NIV); John shows him “tired as he was from the journey” (4:6, NIV). Mark gives us prayer, anger, grief, questions, and encounters under pressure. These are not incidental concessions to a human appearance. They are part of the life through which his teaching is encountered. A human teacher speaks to particular hearers, with words that may console in one moment and confront in another. [^n42]
 
@@ -318,7 +319,7 @@ Matthew’s call to “love your enemies” (5:44, NIV), grounded in the Father�
 
 The people addressed in Mark remain within that field of care. Their accusation is serious, and Jesus can confront it without their humanity disappearing. His concern need not depend on their agreement. The question is not whether their words matter, but whether those words become all that can be seen of them.
 
-### A person is more than a description
+### A person more than a description
 
 A statement about what someone has done can become the final account of who they are. This is not a choice between logic and insight. Careful reasoning can expose the hidden step from “this person did harm” to “this is all this person can ever be”; insight asks whether the description we are using is adequate to the living person before us. Telling the truth about harmful action helps us recognize what needs protection or repair and what responsibility asks of us. That truth need not become an exhaustive account of a life. [^n46]
 
@@ -352,7 +353,7 @@ The Qur’an addresses Muhammad’s work of inviting people to the way of God an
 
 > “Call to your Lord’s way with wisdom and good counsel, and conduct your argument with them in the best manner. Your Lord knows best who has strayed from his way, and he knows best those who are guided.”
 >
-> — Qur’an 16:125, English translation supplied for this essay. [^n65]
+> — Qur’an 16:125, English translation supplied for this essay. [would be better to quote a well-established authoratative version if we can?] [^n65]
 
 The invitation is not without conviction: it calls people toward God. Yet conviction does not remove the responsibility to address another person wisely, or give the speaker complete knowledge of that person’s relation to guidance.
 
@@ -394,9 +395,11 @@ The question of what lasts also becomes more searching. An accusation can contin
 
 Humanizing Jesus does not require making him ordinary in the sense of insignificant. It means allowing his teaching to arise within a human life, grounded in time, place, culture, relationships, conflicts, grief, courage, and love. His Jewish inheritance belongs to that humanity, as do the people who shared it and understood it differently. The disciples, religious teachers, evangelists, and later interpreters belong to that arc of human experience. His divinity need not be protected by making that life less human. Reverence can bring us closer to these lives rather than place them beyond understanding.
 
-Listening alongside Jewish, Muslim, and Buddhist voices can make familiar assumptions visible and bring neglected questions back into view. We do not have to make these teachings identical to let them question how we receive our own. Their differences may be part of what helps us look again. The encounter becomes more than a comparison of ideas when it changes how we regard the person whose tradition we have learned to fear, or whose words we had already dismissed.
+Listening alongside Jewish, Muslim, and Buddhist voices can make familiar assumptions visible and bring neglected questions back into view. We do not have to make these teachings identical to let them support our inquiry. Their differences may be part of what helps us look again. The encounter becomes more than a comparison of ideas when it changes how we regard the person whose tradition we have learned to fear, or whose words we had already dismissed. [the flow into the next paragraph is off to me in feeling. this last sentence is quite something to sit with. we need some space or transition before entering the next big idea set -- possibly]
 
-An understanding of forgiveness can remain generous in its claims while becoming anemic in practice. We can defend mercy and fail to hear someone asking for accountability; we can defend truth while refusing an encounter that might deepen our understanding of it. Remaining in the teaching asks more than finding a formulation that no longer troubles us. It asks that understanding become visible in how we listen, acknowledge harm, make repair, and care for the lives before us. Whom have we already decided we understand—perhaps ourselves—and what might become possible if we listened again?
+[what comes to me is this: how do these two paragraph blocks, above and below fit together. we have below: anemic practice, missing accountability, defending truth, remaining. above is fear and inter-religious dialog.. I think there's a fit possibly. consolidate? or let them speak to each other? part of the issue is that we've begun essentially an informal list of insights, with each paragraph offering more. the first and second are connected. then there is the question of lasting and time, then humanity of jesus, then interreligious dialog, then I think, and most appropriate and important--the core invitations for practice: regarding forgiveness, accountability, remaining, listening deeply. I'm writing a lot here, but the fix may be very small, a connecting phrase or word even, a slight reorg.]
+
+An understanding of forgiveness can remain generous in its claims while becoming anemic in practice. We can defend mercy and fail to hear someone asking for accountability; we can defend truth while refusing an encounter that might deepen our understanding of it. Remaining in the teaching asks more than finding a formulation that no longer troubles us. It asks that understanding become visible in how we listen, acknowledge harm, make repair, and care for the lives before us. Whom have we already decided we understand—even ourselves—and what might become possible if we listened again?
 
 ### Translation acknowledgments
 
