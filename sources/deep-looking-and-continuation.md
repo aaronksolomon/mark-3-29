@@ -24,6 +24,8 @@ See [ND-01](nonattachment-and-nondual-reading.md#nd-01--openness-and-nonattachme
 
 ## DC-03 — The spoon and the tongue
 
+**Status update, October 28, 2026:** Aaron confirms that he has checked the active Mascaró adaptation of verse 65 against the source; mark that check verified. The adaptation label remains. At his direction, no further search for a Thích Nhất Hạnh use of the simile is required. Earlier access descriptions below record the prior research stage.
+
 **Dhammapada 63–65**, translated by Acharya Buddharakkhita, *The Dhammapada: The Buddha's Path of Wisdom* (Buddhist Publication Society, 1985), displayed at [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.05.budd.html), revised November 30, 2013. Named verses and neighboring text checked; Pali not independently collated.
 
 Verse 64 compares proximity without understanding to a spoon unable to taste soup. Verse 65 contrasts the tongue's immediate tasting; verse 63 commends recognition of one's lack of understanding. These supply the attested comparison used in the essay.

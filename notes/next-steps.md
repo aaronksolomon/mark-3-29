@@ -1,5 +1,14 @@
 # Next steps — v4
 
+## October 28, 2026 — author decisions on verification
+
+- **Mascaró, Dhammapada 65:** verified by Aaron against the source, as confirmed on October 28. Retain the adaptation label and inclusive-language brackets; no further source check is pending for this passage.
+- **Syriac:** independent specialist review will not be obtained and is not a requirement for this project. Retain the accurate provenance of the project’s working translation without treating external certification as a publication condition.
+- **Diamond Sutra:** review of the full published commentary remains pending. The cited official sutra text has been checked; these are distinct tasks.
+- **Spoon/tongue simile:** no further search for a Thích Nhất Hạnh attribution is needed. The Dhammapada citation and the essay’s present interpretation are sufficient.
+
+These author decisions supersede earlier recommendations and pending-check language on these four points. Dated research records retain their historical scope.
+
 **Publication branch update, October 14, 2026:** The polishing and public-facing source apparatus were developed on `publication-polish`; the branch was later merged into `main` as v4 after the prior v3 was frozen. Use the current [publication review](publication-review.md) for completed work and the remaining author, specialist, outlet, and permissions decisions. The earlier section-by-section guidance below is retained as background, not an outstanding checklist.
 
 **Active draft:** [working-draft-v4.md](../essay/working-draft-v4.md).

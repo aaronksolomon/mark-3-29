@@ -1,6 +1,6 @@
 # Mark 3:28–30 — forgiveness, interpretation, and the human transmission of teaching
 
-A writing and research workspace directed by Aaron Solomon.
+A writing and research workspace directed by Aaron K. Solomon.
 
 The project hears Mark 3:28–30 as a severe warning that may awaken its hearers and disrupt a harmful judgment. Its possible compassion includes care for those making the accusation and for others whose understanding the accusation could shape. This reading remains accountable to the wording and its difficult claims about forgiveness. The inquiry brings together the human encounter, Jewish scriptural inheritance, language and interpretation, Paul’s transformation, and the practice of listening deeply. Buddhist and Plum Village teachings participate as substantive comparative resources, not substitutes for Greek exegesis.
 
