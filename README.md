@@ -6,7 +6,7 @@ The project hears Mark 3:28–30 as a severe warning that may awaken its hearers
 
 ## Publication-polish branch
 
-The publication candidate developed from v3 at `229d3c0`, incorporating Aaron’s framing at `c448513`, is now designated v4 and is the active [essay](essay/working-draft-v4.md). The immediately preceding v3 draft and its outline are preserved as [working-draft-v3-frozen.md](essay/working-draft-v3-frozen.md) and [outline-v3-frozen.md](essay/outline-v3-frozen.md) for comparison. Read the [editorial/verification record](notes/publication-review.md) and [PDF build instructions](typesetting/README.md); the review records the publication branch’s checks and remaining author, specialist, outlet, and permissions decisions. Generated PDFs are kept outside this text-only repository.
+The publication candidate developed from v3 at `229d3c0`, incorporating Aaron’s framing at `c448513`, is now designated v4 and is the active [essay](essay/working-draft-v4.md). The immediately preceding v3 draft and its outline are preserved as [working-draft-v3-frozen.md](essay/working-draft-v3-frozen.md) and [outline-v3-frozen.md](essay/outline-v3-frozen.md) for comparison. Read the [editorial/verification record](notes/publication-review.md) and [PDF build instructions](typesetting/README.md); the review records the publication branch’s checks and remaining author, specialist, outlet, and permissions decisions. Build intermediates stay outside the repository; the reviewed [reading PDF](output/pdf/all-will-be-forgiven-v4-noto.pdf) and its build receipt are retained as a snapshot.
 
 ## Active work: version 4
 
@@ -17,7 +17,7 @@ The publication candidate developed from v3 at `229d3c0`, incorporating Aaron’
 - [Earlier v1 review, 2026-10-10](essay/reviews/2026-10-10-working-draft-review.md) — the review that helped shape v2; its baseline predates the author’s final v1 edits.
 - [Next steps](notes/next-steps.md) — priorities for section-by-section revision.
 
-The reading of warning as potentially compassionate disruption remains qualified, not a settled account of Jesus’s intention or an answer about finality. Active v3 preserves the unfolding prose and complete print-visible Greek study restored at `e0ba679`, incorporating selected clarity improvements approved by Aaron. The alternate remains unchanged. The lexical, historical, and reception research remains bounded and incomplete.
+The reading of warning as potentially compassionate disruption remains qualified, not a settled account of Jesus’s intention or an answer about finality. Active v4 preserves the unfolding prose and complete print-visible Greek study restored at `e0ba679`, incorporating selected clarity improvements approved by Aaron. The alternate remains unchanged. The lexical, historical, and reception research remains bounded and incomplete.
 
 ## Preserved version 2
 

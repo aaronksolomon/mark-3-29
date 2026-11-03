@@ -11,10 +11,10 @@ polytonic Greek coverage, clickable source links, bookmarks, and page numbers.
 Syriac verses and inline Syriac terms use Noto Sans Syriac with right-to-left
 shaping. The Lua filter groups Syriac phrases while keeping surrounding English
 punctuation outside them; the canonical Markdown remains unchanged.
-When the author’s note is preceded by the instruction to combine it into a
-footnote after the author name in the PDF, the filter places its attached note (`n72`) in one byline footnote and omits
-the instruction from print. The disclosure is maintained only in `n72`; its
-label and text print together as a single paragraph.
+The source byline carries the author’s disclosure footnote (`n72`). The filter
+moves that byline into the PDF title block and prints the disclosure once,
+without an added label. No editorial instruction is needed in the
+source body. The source byline must match the author in `metadata.yaml`.
 The title block displays the working-draft status and date from `metadata.yaml`
 below the author’s name; update that date explicitly for a new reading copy.
 Running headers are omitted for a consistent, quiet page design. Hyphenation is constrained to avoid one-letter fragments and word breaks across pages.

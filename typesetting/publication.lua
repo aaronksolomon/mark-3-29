@@ -58,47 +58,28 @@ function Pandoc(doc)
       table.remove(doc.blocks, 1)
     end
   end
-  -- Honor the author's PDF-only instruction without moving the source prose.
-  -- Flatten its existing note into the same byline footnote, not a nested one.
+  -- The source byline carries the one canonical author note. Move it into
+  -- publication metadata without relying on a visible editorial instruction.
   if FORMAT:match('latex') then
-    for i, block in ipairs(doc.blocks) do
-      if block.t == 'Para' and pandoc.utils.stringify(block):match(
-          '^%[combine this altogether as a single footnote after author name in PDF%]') then
-        local content, extra = pandoc.List(), pandoc.List()
-        local started = false
-        for _, inline in ipairs(block.content) do
-          if inline.t == 'Emph' and pandoc.utils.stringify(inline) == 'Author’s note:' then
-            started = true
-          end
-          if started then content:insert(inline) end
-        end
-        assert(started, 'Byline footnote instruction must precede the author note.')
-        local paragraph = pandoc.Para(content):walk({Note = function(note)
-          extra:extend(note.content)
-          return {}
-        end})
-        local blocks
-        if pandoc.utils.stringify(paragraph):match('^Author’s note:%s*$') and #extra > 0 then
-          -- The disclosure has one canonical source in n72. Put its label in
-          -- the same paragraph instead of printing a second version above it.
-          assert(extra[1].t == 'Para', 'Author disclosure must begin with a paragraph.')
-          table.insert(extra[1].content, 1, pandoc.Space())
-          table.insert(extra[1].content, 1, pandoc.Emph({pandoc.Str('Author’s note:')}))
-          blocks = extra
-        else
-          blocks = pandoc.List({paragraph})
-          blocks:extend(extra)
-        end
-        -- LaTeX's author argument cannot contain literal paragraph tokens.
-        local latex = pandoc.write(pandoc.Pandoc(blocks), 'latex')
-          :gsub('\n%s*\n', '\\endgraf\n')
-        doc.meta.author = pandoc.MetaInlines({
-          pandoc.Str(pandoc.utils.stringify(doc.meta.author)),
-          pandoc.RawInline('latex', '\\footnote{' .. latex .. '}')})
-        table.remove(doc.blocks, i)
-        break
-      end
-    end
+    local byline = doc.blocks[1]
+    assert(byline and byline.t == 'Para', 'Expected the author byline after the subtitle.')
+    local notes = pandoc.List()
+    local author = byline:walk({Note = function(note)
+      notes:insert(note)
+      return {}
+    end})
+    assert(pandoc.utils.stringify(author) == pandoc.utils.stringify(doc.meta.author),
+      'Source byline must match the publication author metadata.')
+    assert(#notes == 1, 'The author byline must carry exactly one disclosure note.')
+    local blocks = notes[1].content
+    assert(blocks[1].t == 'Para', 'Author disclosure must begin with a paragraph.')
+    -- LaTeX's author argument cannot contain literal paragraph tokens.
+    local latex = pandoc.write(pandoc.Pandoc(blocks), 'latex')
+      :gsub('\n%s*\n', '\\endgraf\n')
+    doc.meta.author = pandoc.MetaInlines({
+      pandoc.Str(pandoc.utils.stringify(doc.meta.author)),
+      pandoc.RawInline('latex', '\\footnote{' .. latex .. '}')})
+    table.remove(doc.blocks, 1)
   end
   -- Keep the closing paragraph intact before the acknowledgments.
   for i = #doc.blocks, 2, -1 do

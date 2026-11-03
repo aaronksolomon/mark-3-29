@@ -1,6 +1,6 @@
 # Version 4 outline and revision map
 
-**Active text:** [working-draft-v4.md](working-draft-v4.md). **Current pass:** October 19, 2026, approved comparative and concluding refinement from Aaron’s author revision `c9c6387c4cc14c4314725d7adc81c990a88e0c3e`. See the [current revision record](../notes/2026-10-19-comparative-refinement.md). The preceding [deep-looking revision](../notes/2026-10-19-deep-looking-revision.md) remains its own record. The [October 17 review](reviews/2026-10-17-working-draft-v4-rev.md) examined `d2f7201`; it does not override later author edits.
+**Active text:** [working-draft-v4.md](working-draft-v4.md). **Current pass:** November 2, 2026, annotation and publication-reference repairs, I01–I04, P02–P05/P07–P08, P09–P10, P11–P16, P17–P21, P22–P23, selected P24–P27, adapted P28, and P29–P32 from the [polishing review](reviews/2026-11-01-working-draft-v4-polish-rev.md), with the author’s specific direction on AI disclosure. See [implementation status](../notes/next-steps.md#november-1-2026--polishing-review-implementation). The [October 19 comparative refinement](../notes/2026-10-19-comparative-refinement.md) and [deep-looking revision](../notes/2026-10-19-deep-looking-revision.md) retain their historical scope.
 
 **Preservation:** v1, frozen v2, frozen v3, v3-alt, their outlines, dated reviews, and archives remain unchanged. V4 remains the active version. Earlier maps remain available in Git history, including [the prior map](https://github.com/aaronksolomon/mark-3-29/blob/c9c6387c4cc14c4314725d7adc81c990a88e0c3e/essay/outline-v4.md).
 
@@ -18,7 +18,7 @@ Temporal vocabulary opens perspective on what it means for something to last. Du
 
 **Purpose:** preserve the opening's gradual movement from broad forgiveness to a sharp exception and a situated human address.
 
-Keep the first paragraph's full development and the author’s interrogative approach to the warning. A compact scene-setting sentence identifies the scribes’ accusation before the introductory questions rely on it. Care for witnesses remains possible, not narrated as an established outcome. State the declaration/purpose/outcome distinction once and let the crowd passage develop it later.
+Preserve Aaron’s completed P01 opening paragraph, beginning “In the span of a single sentence.” The review’s whole-paragraph alternative is not applied. A compact scene-setting sentence identifies the scribes’ accusation before the introductory questions rely on it. Care for witnesses remains possible, not narrated as an established outcome. State the declaration/purpose/outcome distinction once and let the crowd passage develop it later.
 
 The context paragraph traces how speech enters later lives through remembering, writing, translation, and teaching. The ambiguous phrase about reaching beyond the occasion has been replaced with this concrete transmission.
 
@@ -34,7 +34,7 @@ Introduce Thích Nhất Hạnh through the author’s preferred wording: Vietnam
 
 Preserve Mark 1–3's developing narrative: Spirit, proclamation, healing and prayer, disputed forgiveness, meals, Sabbath, family, and community. Keep *grammateis* in the main text, defined as scribes or learned interpreters of Torah. The Greek script and NIV translation comparison remain in the footnote, following the author’s latest revision.
 
-Torah gives form to religious and communal life; commandments require interpretation in particular circumstances. Avoid the false choice between spiritual practice and legal obligation. Explain Sabbath's purpose and the encounter around healing rather than defining Judaism against a modern legal code.
+P06 is excluded at Aaron’s direction: preserve the Sabbath paragraph as written. Torah gives form to religious and communal life; commandments require interpretation in particular circumstances. Avoid the false choice between spiritual practice and legal obligation. Explain Sabbath's purpose and the encounter around healing rather than defining Judaism against a modern legal code.
 
 ### Mercy and warning within the Jewish inheritance
 
@@ -62,15 +62,15 @@ Retain the question of what could be welcomed as healing when liberation itself 
 
 Keep the author’s simpler section title. Keep composition distinct from manuscript dates and from an exact transcript of Jesus's speech. Separate that orientation from the multilingual context with a paragraph break. Ben Sira's translator makes ancient awareness of translation visible.
 
-### Interpreting the passage
+### The passage in Greek
 
 For each of Mark 3:28–30, retain full Greek, romanization, and literal English. Do not restore repeated natural-English verse translations; keep the observations about the future passive/NIV “can,” answerability, the temporal idiom, and the accusation.
 
 Connect the Greek sin/judgment variation with the later Syriac witness without pretending that the witnesses are one source. The Greek analysis itself is unchanged in this refinement.
 
-### The saying in Syriac
+### The passage in Syriac
 
-Introduce the SBLGNT and the BFBS Peshitta displayed by Dukhrana together in the section opening, with brief orientation to the older Syriac tradition and revision toward Greek; place display conventions and translation provenance in n22, and do not repeat the introduction under the Syriac heading. Syriac is a literary form of Aramaic, not merely a related language. Present Peshitta Mark 3:28–30 in the same readable pattern as the Greek: Syriac text, romanization, literal English with critical expressions identified. The Syriac wording is attested; its English is supplied for the essay. Omission of vowel marks, limits of conventional romanization, and the provenance of the literal English belong in n22.
+Introduce the SBLGNT and the BFBS Peshitta displayed by Dukhrana together in the section opening, with brief orientation to the older Syriac tradition and revision toward Greek; place display conventions and translation provenance in n22, and do not repeat the introduction under the Syriac heading. Begin the Syriac orientation by identifying Syriac as a literary form of Aramaic, before naming the Peshitta. Keep the Diatessaron and the fuller version history in the source dossier, with references in n22. Present Peshitta Mark 3:28–30 in the same readable pattern as the Greek: Syriac text, romanization, literal English with critical expressions identified. The Syriac wording is attested; its English is supplied for the essay. Omission of vowel marks, limits of conventional romanization, and the provenance of the literal English belong in n22.
 
 Allow the reader to see the verse sequence before explaining it: the broad promise of forgiveness; then Spirit of holiness, forgiveness, age-expression, judgment; then the impure-spirit accusation. Preserve the difference between the Peshitta judgment-ending and the critical Greek sin-ending. Do not present the earlier hybrid back-translation as manuscript text.
 
@@ -84,7 +84,7 @@ Maimonides remains as a substantive counterpoint in note n26, with his importanc
 
 ### Interpretations over time
 
-Start with recognition of what the accusation rejects; recognition may open into repentance, a changed direction. The Christian interpreters then address the question of response without being reduced to a list of interchangeable positions. Preserve quotations, polemical context, and disagreement.
+P15 focuses the opening on what turning would mean for the judgment pronounced. Recognition of what the accusation rejects may open into repentance, a changed direction. P16 keeps Chrysostom’s insight alongside his harmful judgment of Jewish people, retaining the preceding account of punitive anti-Jewish polemic. The Christian interpreters then address the question of response without being reduced to a list of interchangeable positions. Preserve quotations, polemical context, and disagreement.
 
 ### The warning and the work of hearing
 
@@ -112,7 +112,7 @@ The return to Mark's disciples names the shared challenge of understanding rathe
 
 ### Paul and changed seeing
 
-Retain the differentiated witnesses: Galatians, Acts, and 1 Timothy. Paul is a counterweight to treating destructive religious certainty as an immutable identity, not a proved instance of the precise accusation in Mark. Revelation need not begin with a self-generated decision to become receptive. Changed perception is not automatic absolution, erased harm, or restored access.
+Retain the differentiated witnesses: Galatians, Acts, and 1 Timothy. Following Aaron’s P23 direction, state the mercy/ignorance connection directly in the body and put disputed authorship and the distinction between accounts in n37. Paul is a counterweight to treating destructive religious certainty as an immutable identity, not a proved instance of the precise accusation in Mark. Revelation need not begin with a self-generated decision to become receptive. Changed perception is not automatic absolution, erased harm, or restored access.
 
 ### The warning turns toward its interpreters
 
@@ -120,9 +120,13 @@ Keep the critique of imposed forgiveness and the protection for boundaries and h
 
 Preserve the historical account of Christian anti-Judaism and the corrective role of Nostra aetate. The compassionate interpretation is accountable to the same deep looking it asks of others; no contrary reader is diagnosed as closed-hearted solely for disagreeing.
 
+The two Islamophobia paragraphs move from differentiated U.S./European evidence to collective suspicion, equal dignity, and practical responsibilities. Figures and population/method limits belong in n71. The November 1 source check distinguishes a rising U.S. attitudes index from broadly stable discrimination/bullying reports, and identifies the European comparison as 2022 versus 2016. Earlier OSCE/California sources remain in the dossier.
+
 ## 5. Humanity without distance from the divine
 
 ### A human teacher, a human transmission
+
+P25’s setting sentence is accepted. Its proposed narrowing of why the saying was preserved is rejected: retain force, challenge, continuing urgency, the questions about the evangelists, and the limits on reconstructing their purposes.
 
 The turn from interpreting others to encountering Jesus remains explicit. Preserve the human work of Gospel transmission, the concrete humanity in the narratives, and the positive doctrinal affirmation of humanity with divinity. Incarnation brings attention toward a particular person speaking under accusation, not away from him into disembodied propositions.
 
@@ -138,7 +142,7 @@ Retain logic and insight together, the hidden step from action to exhaustive ide
 
 Begin with the positive question: what continues through changed form, habit, influence, or response? Preserve the author’s removal of the milk/butter exposition. The remaining questions are the essay’s own; orphaned n67 is retired rather than used to force the removed paragraph back into the text. Its source remains in the research dossier.
 
-Keep Passover, Augustine, John, and Laity in their developed sequence, together with John's grain image and the comparison between Ezekiel 18 and Qur'an 25. These preserve their own religious accounts, not one theory of karma. The subsection ends on present responsibility rather than another attempt to settle the duration of judgment.
+Keep Passover, Augustine, John, and Laity in their developed sequence, together with John's grain image and the comparison between Ezekiel 18 and Qur'an 25. These preserve their own religious accounts, not one theory of karma. The subsection ends on present responsibility rather than another attempt to settle the duration of judgment. Aaron’s adapted P28 keeps the final two sentences beginning “These comparisons do not change Mark’s ‘never,’” after the new opening about a past action continuing through remorse, repair, renewed harm, or a different way of living.
 
 ### Compassion that is not merely reassurance
 

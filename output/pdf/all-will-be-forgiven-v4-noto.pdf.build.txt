@@ -1,6 +1,6 @@
 PDF build receipt
-UTC: 2026-11-01T03:54:18Z
-Source commit: 3dc8982bcb5ee1be1aead99ce4c6c3e37cd62f0b
+UTC: 2026-11-02T20:30:54Z
+Source commit: cd54f43931ef23bcd5d32954374a41ef246ce355
 
 Working tree status (empty means clean):
  M README.md
@@ -10,11 +10,9 @@ Working tree status (empty means clean):
  M notes/publication-source-map.md
  M output/pdf/all-will-be-forgiven-v4-noto.pdf
  M output/pdf/all-will-be-forgiven-v4-noto.pdf.build.txt
- M sources/deep-looking-and-continuation.md
  M sources/listening-sufi-and-syriac-text.md
- M sources/nonattachment-and-nondual-reading.md
+ M sources/teaching-care-and-religious-fear.md
  M typesetting/README.md
- M typesetting/header.tex
  M typesetting/metadata.yaml
  M typesetting/publication.lua
 
@@ -55,13 +53,13 @@ Using Mac OS X Core Text and Cocoa frameworks
 Recipe: Pandoc with publication.lua, metadata.yaml, header.tex; two XeLaTeX passes.
 
 SHA-256 of source, build recipe, Pandoc executable, and PDF:
-10c0915338dfcecdcb7227012ea645b212f92e1e924ecc8eff4d5dc8de1c8dcb  essay/working-draft-v4.md
+1b8c5eca50988153153069163f4e009cd528be5a1854961df6e410852f39469e  essay/working-draft-v4.md
 2d3eb13ea911c9b51713c41b6548417e00047259a6986a1f427f3fe9add3bdb6  scripts/build-pdf.sh
-06f1d634613fb96a7d2bddd491777756bd1df24eb09ad19df1bbf693f33063db  typesetting/publication.lua
-9f0d26f73195ab46342d327ed4759361dc36fa0b6d3c342d975fd9eb5801bbb7  typesetting/metadata.yaml
+a21da458c68ceb4bc3c362a6f4e6248f77cdaf6e71293898e72f960f5c9333c2  typesetting/publication.lua
+50e563d5839b9fb4dbd2f1ae70c7949f971ededc1e9c90e4830e28189586e0b4  typesetting/metadata.yaml
 0aa1422d51724762c94c3965beeac712a16e19fa40b189d5441626c8921bf2dd  typesetting/header.tex
 57b1d3775520a9a2688a1597a13b9b77714ff5c9458cded1dfee05d73a83902f  /Users/phapman/.local/share/mark-3-29/tools/pandoc-3.1.11.1-arm64/bin/pandoc
-36414505426c14786f1eedbdacc64837d438fd25918f50c52b1123c0bcc01562  /private/tmp/mark-comments-oct31/all-will-be-forgiven-v4-noto.pdf
+b91e7164d01ad8a06df8c755506bd4af150a2fad9f74cd0ee69c58d50049eb04  /private/tmp/mark-review-p32-nov2/all-will-be-forgiven-v4-noto.pdf
 
 SHA-256 of font files recorded by XeLaTeX (if exposed by the engine):
 
@@ -70,7 +68,7 @@ Title:           All Will Be Forgiven?
 Author:          Aaron K. Solomon
 Creator:         LaTeX via pandoc
 Producer:        xdvipdfmx (20240305)
-CreationDate:    Sat Oct 31 20:54:18 2026 PDT
+CreationDate:    Mon Nov  2 12:30:53 2026 PST
 Custom Metadata: yes
 Metadata Stream: no
 Tagged:          no
@@ -82,17 +80,17 @@ Pages:           35
 Encrypted:       no
 Page size:       612 x 792 pts (letter)
 Page rot:        0
-File size:       172917 bytes
+File size:       171476 bytes
 Optimized:       no
 PDF version:     1.5
 
 Embedded fonts:
 name                                 type              encoding         emb sub uni object ID
 ------------------------------------ ----------------- ---------------- --- --- --- ---------
-BFITBD+NotoSerif                     CID TrueType      Identity-H       yes yes yes      4  0
-IRUQHN+NotoSerif-Italic              CID TrueType      Identity-H       yes yes yes      6  0
-RTHKNH+NotoSerif-Bold                CID TrueType      Identity-H       yes yes yes     10  0
-SCDDKE+NotoSansSyriac-Regular        CID TrueType      Identity-H       yes yes yes     62  0
+HYLNKA+NotoSerif                     CID TrueType      Identity-H       yes yes yes      4  0
+WURBWG+NotoSerif-Italic              CID TrueType      Identity-H       yes yes yes      6  0
+CAIAAE+NotoSerif-Bold                CID TrueType      Identity-H       yes yes yes     10  0
+IDTQOQ+NotoSansSyriac-Regular        CID TrueType      Identity-H       yes yes yes     62  0
 
 Typography warnings:
 None.
