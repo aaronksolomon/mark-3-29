@@ -1,6 +1,6 @@
 # Building the reading PDF
 
-The active Markdown essay is the only content source. Pandoc converts its
+The active v5 Markdown essay is the content source. The previous v4 source and PDF are preserved for comparison. Pandoc converts its
 ordinary Markdown footnotes to numbered page footnotes. A small Lua filter moves
 the leading title and subtitle into the title block and promotes section levels;
 it does not change the essay's wording. It keeps standalone verse labels with
@@ -14,13 +14,14 @@ punctuation outside them; the canonical Markdown remains unchanged.
 The source byline carries the author’s disclosure footnote (`n72`). The filter
 moves that byline into the PDF title block and prints the disclosure once,
 without an added label. No editorial instruction is needed in the
-source body. The source byline must match the author in `metadata.yaml`.
-The title block displays the working-draft status and date from `metadata.yaml`
+source body. The source byline must match the author in the selected metadata file.
+The title block displays the working-draft status and date from the selected metadata file
 below the author’s name; update that date explicitly for a new reading copy.
 Running headers are omitted for a consistent, quiet page design. Hyphenation is constrained to avoid one-letter fragments and word breaks across pages.
 Generated PDFs normally stay outside this repository, as do TeX intermediates
-and font binaries. At Aaron's request, `output/pdf/all-will-be-forgiven-v4-noto.pdf`
-is retained as a build snapshot. Rebuild it after source changes when a current
+and font binaries. At Aaron’s request, `output/pdf/all-will-be-forgiven-v4-noto.pdf`
+is retained as the preceding review snapshot. The active v5 PDF is
+`output/pdf/all-will-be-forgiven-v5-noto.pdf`; each has its own receipt. Rebuild it after source changes when a current
 reading copy is needed. The build script continues to require an output path
 outside the repo; copy the reviewed PDF and receipt into `output/pdf` afterward.
 
@@ -92,8 +93,26 @@ For the installed macOS setup matching the documented Pandoc version:
 
 ```sh
 PANDOC="$HOME/.local/share/mark-3-29/tools/pandoc-3.1.11.1-arm64/bin/pandoc" \
-  bash scripts/build-pdf.sh /tmp/mark-publication/all-will-be-forgiven-v4-noto.pdf
+  bash scripts/build-pdf.sh /tmp/mark-publication/all-will-be-forgiven-v5-noto.pdf
 ```
+
+The script defaults to `essay/working-draft-v5.md` and
+`typesetting/metadata-v5.yaml`. Optional second and third arguments select a
+source and metadata pair. To reproduce a v4 reading copy elsewhere without
+overwriting the comparison PDF:
+
+```sh
+bash scripts/build-pdf.sh /tmp/mark-publication/v4-comparison.pdf \
+  essay/working-draft-v4.md typesetting/metadata.yaml
+```
+
+Keep the two versions’ font, margin, and spacing settings aligned for comparison;
+the v5 title block identifies its version and date. Its `keep-language-units`
+metadata keeps each verse’s original text, romanization, and literal English
+on one page, keeps each language-study introductory paragraph intact, and
+keeps the translation acknowledgments together. The opening paragraph stays
+with its section heading.
+This option leaves the older v4 layout behavior available for reproduction.
 
 `PANDOC` may name any installed Pandoc executable; it defaults to `pandoc` on
 `PATH`. Each successful build also writes `<output>.build.txt` (source commit,
@@ -122,3 +141,9 @@ pdftoppm -r 130 -png /tmp/mark-publication/all-will-be-forgiven.pdf \
 
 Inspect every rendered page for Greek glyphs, line breaks, notes, orphaned
 headings, and clipping after any content or layout change.
+
+### V5 external-link styling
+
+V5 uses blue external links (`urlcolor: blue`) without underlining, following Aaron’s November 5 preference. Internal note links stay black. No additional underline package or filter is needed. Link rendering and destination/content verification are separate checks; see [the source-link checklist](../notes/source-links-todo.md).
+
+The completed November 5 footnote-link pass retains 35 pages. All 110 distinct external source targets appear in the PDF’s 230 URI annotations (wrapped and repeated links can have multiple annotations). The 68 note texts and emphasis were compared before and after removing link wrappers; none changed.

@@ -1,4 +1,61 @@
-# Next steps — v4
+# Next steps — v5
+
+## November 5, 2026 — footnote links continued
+
+Completed the practical footnote linking pass: 66 of 68 notes now contain external references, with 118 note links. Added 109 links across 60 notes; the source wording and emphasis remain intact. N46 (the essay’s reasoning) and n72 (author disclosure) intentionally remain unlinked. The [source-link checklist](source-links-todo.md#continuation-completed--november-5) records destination checks, access limits, all groups covered, and repairs to Dukhrana, Saheeh International, USCCB Sirach, and Cambridge routes. Blocher retains its DOI plus a checked journal-page alternative. These are access checks, not a new comprehensive source audit or permission clearance. The rebuilt 35-page PDF now includes this continuation. All pages were inspected in rendered contact sheets, with full-size checks of the language-study notes, patristic references, chronology, contemporary evidence, time comparisons, and final bibliography. All 110 distinct external targets are embedded (230 URI annotations); no missing-glyph or overfull-box warnings. Saved PDF/receipt hashes match the current source and recipe; preserved comparison files remain unchanged.
+
+**Latest November 5 PDF refinement:** Aaron prefers blue alone. Removed underlining and its unused filter/package support, rebuilt the 35-page v5 PDF, and visually checked the page overview and representative footnote/bibliography pages. All 92 external targets are retained (113 URI annotations); no typography warnings. Saved PDF/receipt hashes match the current source and recipe. Earlier underlining descriptions below are historical and superseded.
+
+## November 5, 2026 — blue underlined PDF links
+
+At Aaron’s request, rebuilt v5 with external links blue and underlined, retaining black internal note markers. The underlining is opt-in through v5 metadata; shared typesetting support preserves italics and allows wrapped labels. All 35 pages were reviewed in contact sheets, with full-size checks of selected footnotes and bibliography pages. No missing-glyph or overfull-box warnings were reported. Qpdf inspection found all 92 distinct external Markdown targets among 110 PDF URI annotations; this verifies embedded targets, not continuing availability of every website. PDF and source/recipe hashes match the receipt. Preserved v4 and frozen/alternate/review files were hash-checked unchanged. This build includes the November 5 acknowledgment edits and first footnote-link batch, superseding earlier pending-build statements below.
+
+## November 5, 2026 — source-link pass started
+
+The [source-link checklist](source-links-todo.md) records the phased plan, a 52-entry bibliography inventory, and the first completed batch. All 52 bibliography entries already had external links; none of the 68 notes did. Added nine links across eight selected notes (n06, n14, n15, n22, n34, n53, n54, n63), retaining their visible prose, and added the NABRE Mark 2:6 destination to its bibliography entry. Checked page identity and relevant content at the named destinations, with the Dukhrana 3:28 tool failure/navigation recovery recorded. This does not expand earlier verification or permissions claims. Remaining bibliography/footnote batches and the PDF styling, URI-annotation check, and rebuild are tracked there. The current PDF predates this pass and the acknowledgment edit.
+
+## November 5, 2026 — translation acknowledgments
+
+At Aaron’s direction, removed both “Used by permission” statements from the active v5 acknowledgments (NIV and NRSVUE), retaining the translation identities, copyright notices, and rights reservations. No individual permission has been obtained. Aaron intends the current work for nonprofit use and defers outreach to possible publication consideration. This wording change does not establish permission or a legal fair-use determination; copyright acknowledgment and nonprofit purpose alone do not settle the applicable conditions. The November 5 check of [Biblica’s permissions](https://www.biblica.com/permissions/), [its terms](https://www.biblica.com/terms-of-use/), and [HarperCollins Christian Publishing’s policy](https://www.harpercollinschristian.com/sales-and-rights/permissions/) identified blanket quotation conditions, required acknowledgment wording, a commercial commentary exception, and a broad AI-use provision whose application to this workflow remains unresolved. NRSVUE permission conditions have not been newly checked in this pass. Revisit the relevant policies and intended distribution before publication. No outreach was sent. The PDF still contains the previous acknowledgment wording and awaits rebuilding.
+
+## November 4, 2026 — v5 comparison draft
+
+**Latest v5 rebuild, November 4:** the 35-page PDF now includes the revised forgiveness note (printed 3), Torah clarification (printed 9), first-century Palestine and Latin context, and “may be a warning” qualification (printed 14). All pages were reviewed in rendered contact sheets, with full-size checks of pages 1, 4, 6, and 8–11. The six Greek/Syriac verse units remain intact. No missing-glyph or overfull-box warnings were reported. The saved PDF and receipt match the current essay source; the preserved v4 and frozen/alternate/review files were hash-checked unchanged. Earlier pending-build statements below describe the intervening editing history and are superseded by this rebuild.
+
+**Author refinement after the v5 proof:** printed footnote 3 (n02) retains its textual observations but replaces the statement about final salvation with “The nature and scope of forgiveness remain central questions in this inquiry.” The v5 PDF predates this refinement and awaits the next build.
+
+**Further author refinement, footnote 9 (n06):** clarify “law” as Torah in ancient Jewish life, encompassing religious, ethical, and communal obligations with binding force, rather than simply modern secular law. The NABRE note on Mark 2:6 was checked; JC-01 records the source and existing Torah context. This also awaits the next v5 PDF build.
+
+Aaron authorized a separate v5 with the entire [November 2 follow-up review](../essay/reviews/2026-11-02-working-draft-v4-follow-up-rev.md) applied for side-by-side reading. The active files are [working-draft-v5.md](../essay/working-draft-v5.md) and [outline-v5.md](../essay/outline-v5.md). V4 source, outline, PDF, and receipt are preserved at their existing paths. The v5 source begins from the current v4, including the November 3 vow-and-commitment footnote; the previous v4 PDF predates some of those source changes.
+
+| Proposal | V5 implementation |
+|---|---|
+| F01 | Three language-study opening paragraphs; edition and historical detail stay in n16/n22. |
+| F02 | Remove the general reminder after the verse-28 translation observation. |
+| F03 | Apply the optional age-language paragraph in full. |
+| F04 | Name “both passages” after the Diamond Sutra. |
+| F05 | Use Paul’s self-identification as a Pharisee; add Philippians 3:5–6 and Acts 22:3 to n36. Include the optional 30s CE orientation, with the two proposed chronologies identified as reconstructions. |
+| F06 | Introduce anti-Muslim prejudice as turning identity into a verdict; remove the duplicate next-paragraph opener. |
+| F07 | Use “The saying” to repair the singular/plural handoff. |
+| F08 | Complete the shared-religious-world sentence. |
+| F09 | Keep the turning question and n26; let the next subsection begin “That question…”. |
+| F10 | Remove the general relativism disclaimer; retain the concrete questions and conduct. |
+| F11 | Use “brings that danger into view” for the tentative narrative diagnosis. |
+| F12 | Remove the generic ignorance/rejection sentence; retain the First Timothy note and Paul’s severe words. |
+| F13 | Ask the severe-speech question directly. |
+| F14 | Apply the optional person-and-timing sentence after Abhaya. |
+
+The bibliography’s selective check-date list is replaced with a reference to dated source records. All four inline author comments are resolved. The prior opening, Sabbath paragraph, original-language displays, literal translations, conclusion, and final question are retained. The Third Training note continues to express a vow and commitment. No independent Syriac review requirement is introduced; the full Diamond Sutra commentary review remains pending.
+
+**Source check, November 4:** the official USCCB Mark introduction (historical paragraphs), GEDSH “Peshitta” (opening and NT dating), Philippians 3:5–6, and Acts 22:3 were inspected. The first Mark URL returned 403; its official query-parameter variant provided the text. Nicholas J. Frederick’s online chapter and Mato Zovkić’s English abstract were checked for the chronology examples; the Croatian full article was not read. This is targeted orientation, not a new comprehensive source audit. Links and locators are retained in the draft and the source dossiers. The ISPU/FRA evidence is inherited from the November 1 check.
+
+**V5 PDF proof, November 4:** 35 pages, with all pages visually inspected and close checks of the new language-study introduction, Greek/Syriac displays, expanded Paul note, revised Islamophobia entrance, Third Training vow, and final question. The font families, margins, and base spacing match the earlier recipe. V5-specific grouping keeps each verse’s script/romanization/literal-English unit together, keeps the short introductory paragraphs intact, and avoids splitting the acknowledgments. No missing-glyph or overfull-box warnings were reported. Receipt hashes match the final source and recipe. V4 source, outline, PDF, receipt, and metadata were verified unchanged from the start of this pass. The new proof is [all-will-be-forgiven-v5-noto.pdf](../output/pdf/all-will-be-forgiven-v5-noto.pdf).
+
+**Further November 4 refinement:** the language-study introduction now names first-century Palestine and includes Latin alongside Aramaic, Hebrew, and Greek, distinguishing Latin’s Roman military/administrative associations from Greek communication across communities. Macfarlane and Isaac were checked for this limited claim; records are in AS-02 and n16. The current PDF predates this refinement and the latest n02/n06 edits; rebuilding remains pending.
+
+## November 3, 2026 — Third Training footnote
+
+At Aaron’s direction, n53 (printed footnote 63 in the current review PDF) now describes the Third Mindfulness Training as a vow and commitment, quoting its complete sentence on respecting others’ freedom. The wording was checked against the official Plum Village text; see ND-01. The PDF awaits the next build.
 
 ## November 1, 2026 — polishing review implementation
 

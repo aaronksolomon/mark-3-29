@@ -1,5 +1,9 @@
 # Publication footnotes and research records
 
+**Active publication text:** v5, authorized November 4 for comparison with preserved v4. Footnote labels are inherited unchanged. F01 expands n16’s historical citation; F05 expands n36 for Paul’s self-identification, training, and approximate chronology. See [v5 implementation](next-steps.md#november-4-2026--v5-comparison-draft). The November 3 Third Training correction remains in n53.
+
+The [November 5 source-link checklist](source-links-todo.md) tracks external destination checks and selective footnote linking separately from source verification. The continuation links 66/68 notes, leaving the reasoning note n46 and author disclosure n72 unlinked. All 68 note texts and their stable labels are preserved; destination repairs and access limitations are recorded in the checklist.
+
 The publication apparatus replaces reader-facing research IDs with full source names and stable locators. The following map preserves the connection to the project’s topic dossiers. Note labels are stable source labels, not final printed numbers. The October 19 work is documented in [Deep looking, hearing, and continuation](../sources/deep-looking-and-continuation.md) and the subsequent [Listening, Sufi practice, and the Syriac text](../sources/listening-sufi-and-syriac-text.md). The October 21 refinement is recorded in [Teaching, care, and religious fear](../sources/teaching-care-and-religious-fear.md). The [current author decisions](next-steps.md#october-28-2026--author-decisions-on-verification) supersede earlier pending checks where specified. The [October 24 polish and provenance record](2026-10-24-polish-and-provenance.md) documents that pass’s targeted checks and source changes.
 
 - `n01`: [RD-00](../sources/rigidity-and-discernment.md#rd-00--niv-opening)
@@ -7,7 +11,7 @@ The publication apparatus replaces reader-facing research IDs with full source n
 - `n03`: [ND-01](../sources/nonattachment-and-nondual-reading.md#nd-01--openness-and-nonattachment-to-views), [JC-01–JC-07](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-01), [DC-02](../sources/deep-looking-and-continuation.md#dc-02--deep-looking-and-introduction-of-thích-nhất-hạnh)
 - `n04`: [ND-06](../sources/nonattachment-and-nondual-reading.md#nd-06--the-neighbor-and-worship-beyond-rival-locations)
 - `n05`: [HT-01](../sources/humanity-and-provocative-teaching.md#ht-01)
-- `n06`: [HT-01](../sources/humanity-and-provocative-teaching.md#ht-01)
+- `n06`: [HT-01](../sources/humanity-and-provocative-teaching.md#ht-01), [JC-01](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-01). November 4: the NABRE Mark 2:6 note supports the scribes’ interpretive role; v5 now clarifies Torah’s ancient Jewish setting and binding obligations.
 - `n07`: [JC-01](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-01), [RD-01](../sources/rigidity-and-discernment.md#rd-01--hardness-before-the-blasphemy-controversy)
 - `n09`: [JC-02](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-02), [TC-01](../sources/teaching-care-and-religious-fear.md#tc-01--a-named-jewish-english-voice)
 - `n10`: [JC-03](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-03), [TC-01](../sources/teaching-care-and-religious-fear.md#tc-01--a-named-jewish-english-voice)
@@ -15,7 +19,7 @@ The publication apparatus replaces reader-facing research IDs with full source n
 - `n13`: [B-02](../sources/biblical-texts.md#b-02), [R-02](../sources/interpretation-history.md#r-02)
 - `n14`: [ND-04](../sources/nonattachment-and-nondual-reading.md#nd-04--a-koan-involving-the-reader)
 - `n15`: [R-02](../sources/interpretation-history.md#r-02), [HT-08](../sources/humanity-and-provocative-teaching.md#ht-08)
-- `n16`: [B-01](../sources/biblical-texts.md#b-01), [HT-07](../sources/humanity-and-provocative-teaching.md#ht-07), [JC-09](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-09), [AS-01–AS-02](../sources/semitic-gospel-witnesses.md#as-01--aramaic-in-its-different-settings)
+- `n16`: [B-01](../sources/biblical-texts.md#b-01), [HT-07](../sources/humanity-and-provocative-teaching.md#ht-07), [JC-09](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-09), [AS-01–AS-02](../sources/semitic-gospel-witnesses.md#as-01--aramaic-in-its-different-settings). November 4: AS-02 adds Macfarlane and Isaac for Latin’s Roman military/administrative role and Greek communication, without assigning a language to this encounter.
 - `n17`: [JC-04](../sources/jewish-context-and-cross-tradition-inquiry.md#jc-04)
 - `n18`: [B-02](../sources/biblical-texts.md#b-02)
 - `n19`: [B-02](../sources/biblical-texts.md#b-02), [L-01](../sources/greek-and-semantic-history.md#l-01), [L-04](../sources/greek-and-semantic-history.md#l-04), [TC-02](../sources/teaching-care-and-religious-fear.md#tc-02--age-language-and-the-peshittas-historical-location), [PP-01](2026-10-24-polish-and-provenance.md#pp-01--greek-relation-and-mark-4-context)
@@ -51,7 +55,7 @@ The publication apparatus replaces reader-facing research IDs with full source n
 - `n50`: [TA-05](../sources/time-age-and-eternity.md#ta-05--eternal-life-as-present-and-future), [DC-07](../sources/deep-looking-and-continuation.md#dc-07--abrahamic-comparisons-the-past-and-a-changed-life)
 - `n51`: [PV-04](../sources/plum-village/time-and-transformation.md#pv-04)
 - `n52`: [TA-06–TA-07](../sources/time-age-and-eternity.md#ta-06--method-chronology-and-lived-time-are-not-mutually-exclusive), [DC-05–DC-07](../sources/deep-looking-and-continuation.md#dc-05--temporal-expressions-as-perspective-not-a-verdict)
-- `n53`: [ND-01](../sources/nonattachment-and-nondual-reading.md#nd-01--openness-and-nonattachment-to-views)
+- `n53`: [ND-01](../sources/nonattachment-and-nondual-reading.md#nd-01--openness-and-nonattachment-to-views). November 3: the Third Training’s vow and commitment are stated positively, with one complete sentence checked against the official text.
 - `n54`: [ND-09](../sources/nonattachment-and-nondual-reading.md#nd-09--truthful-beneficial-and-timely-speech), [TC-03](../sources/teaching-care-and-religious-fear.md#tc-03--buddhist-passages-heard-as-coherent-units)
 - `n55`: [ND-04](../sources/nonattachment-and-nondual-reading.md#nd-04--a-koan-involving-the-reader)
 - `n56`: [B-09](../sources/biblical-texts.md#b-09)

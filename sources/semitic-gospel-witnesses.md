@@ -34,6 +34,12 @@ Fassberg argues that Jesus’s Aramaic is secure and that the evidence for livin
 
 **Israel Antiquities Authority, “Languages and Scripts.”** [Dead Sea Scrolls overview](https://www.deadseascrolls.org.il/learn-about-the-scrolls/languages-and-scripts). **Status:** institutional description checked. Hebrew, Aramaic, and Greek manuscripts document multilingual literary activity, not the language of every individual conversation.
 
+### November 4, 2026 — Latin and the multilingual setting
+
+**Roger T. Macfarlane, “Hebrew, Aramaic, Greek, and Latin: Languages of New Testament Judea,” BYU Studies 36.3, opening and “Linguistic History of Judea.”** [Full article](https://byustudies.byu.edu/article/hebrew-aramaic-greek-and-latin-languages-of-new-testament-judea). **Checked:** online opening and linguistic-history discussion, including the four-language evidence from Masada, Latin military administration, and Greek communication between Romans and local inhabitants. This supports a multilingual regional setting, not the language of the particular Mark 3 encounter.
+
+**Benjamin Isaac, “Latin in Cities of the Roman Near East,” Empire and Ideology in the Graeco-Roman World: Selected Papers (Cambridge University Press, 2017), chapter 12, 257–284.** [Publisher’s chapter](https://doi.org/10.1017/9781316476963.014). **Checked:** full HTML accessible; opening methodological discussion and passages on military language, first-century Judaea, and the limits of inscriptional evidence inspected. Isaac distinguishes Latin’s military and administrative role from individuals’ first or daily languages, and cautions against treating it as the army’s uniformly exclusive official language. His regional and chronological scope is wider than first-century Palestine; only the relevant contextual claims are used. No claim is made that Jesus spoke Latin.
+
 ## AS-03 — The Old Syriac Gospels and Peshitta
 
 **Andreas Juckel, “Old Syriac Version,” Gorgias Encyclopedic Dictionary of the Syriac Heritage, hosted by Beth Mardutho.** [Entry](https://gedsh.bethmardutho.org/Old-Syriac-Version). **Status:** entry checked.

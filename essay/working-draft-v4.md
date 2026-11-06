@@ -620,7 +620,7 @@ Wink, Walter. *Jesus and Nonviolence: A Third Way*. Minneapolis: Fortress Press,
 
 [^n52]: The comparison concerns lived memory, expectation, continuity, and responsibility, not a single ancient theory of time. On the danger of a neat Hebrew/Greek opposition, see Henri Blocher, “Yesterday, Today, Forever,” especially pp. 185–90. The fact that later conditions arise from earlier ones does not prove that every karmic result lasts infinitely or that an unchanging guilt is transmitted forever. The status of the person before God, the persistence of harm, and the transformation of conduct must remain distinguishable.
 
-[^n53]: Order of Interbeing, *The Fourteen Mindfulness Trainings*, Third, “Freedom of Thought.” Its prohibition of imposed belief belongs alongside its positive commitment to compassionate dialogue.
+[^n53]: Order of Interbeing, *The Fourteen Mindfulness Trainings*, Third, “Freedom of Thought.” The training expresses a vow of respect for others’ freedom: “We are committed to respecting the right of others to be different, to choose what to believe and how to decide.” It joins this commitment with learning to help others transform fanaticism and narrowness through loving speech and compassionate dialogue.
 
 [^n54]: *Majjhima Nikāya* 58, “Abhaya Sutta: To Prince Abhaya,” translated by Ṭhānissaro Bhikkhu (1997), Access to Insight edition revised November 30, 2013. The block quotes the complete third category in the sixfold account of speech. The opening concerns Devadatta and a severe prediction of hell and incurability. The comparison therefore distinguishes beneficial speech from agreeable speech; it does not dissolve judgment into reassurance. Tathagata is the designation used by the Buddha for himself in the discourse.
 

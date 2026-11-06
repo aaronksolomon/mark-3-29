@@ -6,6 +6,8 @@ Jewish sources have two roles here: the religious and linguistic inheritance of 
 
 ## JC-01
 
+**November 4, 2026 — v5 note n06 (printed footnote 9):** the [NABRE note on Mark 2:6](https://bible.usccb.org/bible/mark/2) was checked for its description of scribes’ training in oral interpretation of written law. The v5 clarification locates “law” in Torah’s religious, ethical, and communal obligations within ancient Jewish life, while retaining their binding force. The existing Exodus/Deuteronomy discussion below supplies the setting of worship, conduct, and communal obligation; this clarification does not reduce Torah to a modern secular category or deny its legal dimensions.
+
 **Sabbath, covenant, and healing: Exodus 20:8–11; Deuteronomy 5:12–15; Mark 3:1–6; Mishnah Yoma 8:6.**
 
 - [Exodus 20, NIV](https://www.biblegateway.com/passage/?search=Exodus+20&version=NIV)

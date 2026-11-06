@@ -6,18 +6,21 @@ The project hears Mark 3:28–30 as a severe warning that may awaken its hearers
 
 ## Publication-polish branch
 
-The publication candidate developed from v3 at `229d3c0`, incorporating Aaron’s framing at `c448513`, is now designated v4 and is the active [essay](essay/working-draft-v4.md). The immediately preceding v3 draft and its outline are preserved as [working-draft-v3-frozen.md](essay/working-draft-v3-frozen.md) and [outline-v3-frozen.md](essay/outline-v3-frozen.md) for comparison. Read the [editorial/verification record](notes/publication-review.md) and [PDF build instructions](typesetting/README.md); the review records the publication branch’s checks and remaining author, specialist, outlet, and permissions decisions. Build intermediates stay outside the repository; the reviewed [reading PDF](output/pdf/all-will-be-forgiven-v4-noto.pdf) and its build receipt are retained as a snapshot.
+The publication candidate developed from v3 at `229d3c0`, incorporating Aaron’s framing at `c448513`, is preserved as [v4](essay/working-draft-v4.md). On November 4, Aaron authorized [v5](essay/working-draft-v5.md) to apply the follow-up review in full for comparison. The immediately preceding v3 draft and its outline are preserved as [working-draft-v3-frozen.md](essay/working-draft-v3-frozen.md) and [outline-v3-frozen.md](essay/outline-v3-frozen.md) for comparison. Read the [editorial/verification record](notes/publication-review.md) and [PDF build instructions](typesetting/README.md); the review records the publication branch’s checks and remaining author, specialist, outlet, and permissions decisions. Build intermediates stay outside the repository; the [v5 reading PDF](output/pdf/all-will-be-forgiven-v5-noto.pdf), [previous v4 PDF](output/pdf/all-will-be-forgiven-v4-noto.pdf), and their build receipts are retained for comparison.
 
-## Active work: version 4
+## Active work: version 5
 
-- [Working draft v4](essay/working-draft-v4.md) — publication revision developed from v3, with selected corrections, further source work, and publication apparatus.
-- [V4 outline and revision map](essay/outline-v4.md) — follows the active text and records the accepted and declined editorial suggestions.
+- [Working draft v5](essay/working-draft-v5.md) — all F01–F14 suggestions from the November 2 follow-up review, including optional refinements, applied to the current v4 source.
+- [V5 outline](essay/outline-v5.md) — follows the active comparison draft.
+- [Preserved v4 draft](essay/working-draft-v4.md) and [outline](essay/outline-v4.md) — the preceding source track, including Aaron’s author edits and the November 3 Third Training footnote correction.
+- [Follow-up review](essay/reviews/2026-11-02-working-draft-v4-follow-up-rev.md) — proposals applied to v5; preserved unchanged.
 - [V3 alternate draft](essay/working-draft-v3-alt.md) and [alternate outline](essay/outline-v3-alt.md) — preserve the remote revision at `f8679bb` for comparison, not as a replacement language base.
 - [Prior v2 review, 2026-10-12](essay/reviews/2026-10-12-working-draft-v2-rev.md) — review of an earlier v2 state; a historical reference, not a v3 review.
 - [Earlier v1 review, 2026-10-10](essay/reviews/2026-10-10-working-draft-review.md) — the review that helped shape v2; its baseline predates the author’s final v1 edits.
 - [Next steps](notes/next-steps.md) — priorities for section-by-section revision.
+- [Source-link checklist](notes/source-links-todo.md) — bibliography destination audit, selected footnote links, and PDF link checks.
 
-The reading of warning as potentially compassionate disruption remains qualified, not a settled account of Jesus’s intention or an answer about finality. Active v4 preserves the unfolding prose and complete print-visible Greek study restored at `e0ba679`, incorporating selected clarity improvements approved by Aaron. The alternate remains unchanged. The lexical, historical, and reception research remains bounded and incomplete.
+The reading of warning as potentially compassionate disruption remains qualified, not a settled account of Jesus’s intention or an answer about finality. Active v5 preserves the unfolding prose and complete print-visible Greek study restored at `e0ba679`, incorporating selected clarity improvements approved by Aaron. The alternate remains unchanged. The lexical, historical, and reception research remains bounded and incomplete.
 
 ## Preserved version 2
 

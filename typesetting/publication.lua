@@ -90,6 +90,39 @@ function Pandoc(doc)
       table.insert(doc.blocks, i-1, pandoc.RawBlock('latex', '\\begin{samepage}'))
     end
   end
+  -- V5 proofing: keep each complete language display together, including its
+  -- heading for the first verse. Metadata leaves older v4 builds unchanged.
+  local keep_units = FORMAT:match('latex') and doc.meta['keep-language-units']
+  if keep_units then
+    local blocks, grouped, acknowledgments = pandoc.List(), false, false
+    for i, b in ipairs(doc.blocks) do
+      local label = b.t == 'Para' and #b.content == 1 and b.content[1].t == 'Strong'
+        and pandoc.utils.stringify(b) or ''
+      local heading = b.t == 'Header' and pandoc.utils.stringify(b.content) or ''
+      local language_heading = heading == 'The passage in Greek' or heading == 'The passage in Syriac'
+      local verse_label = label:match('^Mark 3:%d+$') or label:match('^Peshitta, Mark 3:%d+$')
+      local study_start = heading == '3. Understanding the words'
+      local source_intro = b.t == 'Para' and (pandoc.utils.stringify(b):match('^Mark’s Gospel, generally dated')
+        or pandoc.utils.stringify(b):match('^Syriac, a literary form of Aramaic')
+        or pandoc.utils.stringify(b):match('^The difficulty of carrying meaning between languages'))
+      if heading == 'Translation acknowledgments' then acknowledgments = true end
+      if not grouped and (language_heading or verse_label or study_start or source_intro or acknowledgments) then
+        blocks:insert(pandoc.RawBlock('latex', '\\begin{samepage}'))
+        grouped = true
+      elseif grouped then
+        blocks:insert(pandoc.RawBlock('latex', '\\nopagebreak[4]'))
+      end
+      blocks:insert(b)
+      local literal = b.t == 'Para' and b.content[1] and b.content[1].t == 'Strong'
+        and pandoc.utils.stringify(b.content[1]) == 'Literal English:'
+      if grouped and (literal or source_intro or (acknowledgments and b.t == 'Para')) then
+        blocks:insert(pandoc.RawBlock('latex', '\\end{samepage}'))
+        grouped, acknowledgments = false, false
+      end
+    end
+    assert(not grouped, 'Unclosed publication group.')
+    doc.blocks = blocks
+  end
   -- A standalone bold paragraph is a verse label: keep it with its text.
   -- Remove source-space before note calls so markers cannot orphan on a line.
   doc = doc:walk({Inlines = function(xs)
@@ -100,12 +133,13 @@ function Pandoc(doc)
     end
     return xs
   end, Para = function(p)
-    if #p.content == 1 and p.content[1].t == 'Strong' then
+    if not keep_units and #p.content == 1 and p.content[1].t == 'Strong' then
       return {pandoc.RawBlock('latex', '\\needspace{5\\baselineskip}'), p}
     end
   end})
   if FORMAT:match('latex') then
     doc = doc:walk({Inlines = typeset_syriac})
+
   end
   return doc:walk({BlockQuote = function(b)
     -- Forbid paragraph-boundary breaks explicitly so the attribution remains
@@ -119,7 +153,9 @@ function Pandoc(doc)
     h.level = math.max(1, h.level - 1)
     if pandoc.utils.stringify(h.content) == 'The passage in Greek'
         or pandoc.utils.stringify(h.content) == 'The passage in Syriac' then
-      return {pandoc.RawBlock('latex', '\\needspace{9\\baselineskip}'), h}
+      if not keep_units then
+        return {pandoc.RawBlock('latex', '\\needspace{9\\baselineskip}'), h}
+      end
     end
     if pandoc.utils.stringify(h.content) == 'Bibliography' then
       return {pandoc.RawBlock('latex', '\\clearpage'), h}

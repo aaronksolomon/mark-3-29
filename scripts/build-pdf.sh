@@ -4,6 +4,8 @@ set -euo pipefail
 ROOT="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd -P)"
 OUT="${1:-${TMPDIR:-/tmp}/mark-publication/all-will-be-forgiven.pdf}"
 PANDOC="${PANDOC:-pandoc}"
+SOURCE_MARKDOWN="${2:-essay/working-draft-v5.md}"
+BUILD_METADATA="${3:-typesetting/metadata-v5.yaml}"
 mkdir -p "$(dirname -- "$OUT")"
 OUT="$(cd -- "$(dirname -- "$OUT")" && pwd -P)/$(basename -- "$OUT")"
 for target in "$OUT" "$OUT.build.txt" "$OUT.build.log"; do
@@ -46,10 +48,11 @@ if ! kpsewhich xelatex.fmt >/dev/null 2>&1; then
   export TEXFORMATS="$TEXMFVAR/web2c/xetex//:"
 fi
 cd "$ROOT"
-"$PANDOC" essay/working-draft-v4.md \
+[[ -f "$SOURCE_MARKDOWN" && -f "$BUILD_METADATA" ]] || { echo "Source or metadata file missing." >&2; exit 1; }
+"$PANDOC" "$SOURCE_MARKDOWN" \
   --from=markdown+footnotes --standalone \
   --lua-filter=typesetting/publication.lua \
-  --metadata-file=typesetting/metadata.yaml \
+  --metadata-file="$BUILD_METADATA" \
   --include-in-header=typesetting/header.tex \
   --output="$BUILD/essay.tex"
 for pass in 1 2; do
@@ -76,10 +79,11 @@ cp "$BUILD/essay.log" "$OUT.build.log"
   command -v "$PANDOC" xelatex
   "$PANDOC" --version
   xelatex --version
-  printf '\nRecipe: Pandoc with publication.lua, metadata.yaml, header.tex; two XeLaTeX passes.\n'
+  printf '\nRecipe: Pandoc with publication.lua, selected metadata, header.tex; two XeLaTeX passes.\n'
+  printf 'Source: %s\nMetadata: %s\n' "$SOURCE_MARKDOWN" "$BUILD_METADATA"
   printf '\nSHA-256 of source, build recipe, Pandoc executable, and PDF:\n'
-  "${HASH[@]}" essay/working-draft-v4.md scripts/build-pdf.sh \
-    typesetting/publication.lua typesetting/metadata.yaml typesetting/header.tex \
+  "${HASH[@]}" "$SOURCE_MARKDOWN" scripts/build-pdf.sh \
+    typesetting/publication.lua "$BUILD_METADATA" typesetting/header.tex \
     "$(command -v "$PANDOC")" "$OUT"
   printf '\nSHA-256 of font files recorded by XeLaTeX (if exposed by the engine):\n'
   awk '/^INPUT / {sub(/^INPUT /, ""); if ($0 ~ /\.(ttf|otf|ttc)$/) print}' \

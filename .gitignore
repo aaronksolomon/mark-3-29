@@ -9,8 +9,9 @@ private/
 local-only/
 # Do not commit full third-party books, articles, or recordings.
 *.pdf
-# Author-requested local build snapshot.
+# Author-requested local build snapshots for comparison.
 !/output/pdf/all-will-be-forgiven-v4-noto.pdf
+!/output/pdf/all-will-be-forgiven-v5-noto.pdf
 *.epub
 *.mobi
 *.mp3

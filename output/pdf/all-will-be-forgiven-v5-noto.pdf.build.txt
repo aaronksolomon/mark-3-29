@@ -1,0 +1,109 @@
+PDF build receipt
+UTC: 2026-11-06T05:18:44Z
+Source commit: d1856cc880b632d5ecc5e5d150a37c119ad03350
+
+Working tree status (empty means clean):
+ M .gitignore
+ M AGENTS.md
+ M README.md
+ M essay/working-draft-v4.md
+ M notes/claim-audit.md
+ M notes/next-steps.md
+ M notes/publication-source-map.md
+ M scripts/build-pdf.sh
+ M sources/biblical-texts.md
+ M sources/jewish-context-and-cross-tradition-inquiry.md
+ M sources/listening-sufi-and-syriac-text.md
+ M sources/nonattachment-and-nondual-reading.md
+ M sources/semitic-gospel-witnesses.md
+ M typesetting/README.md
+ M typesetting/publication.lua
+?? essay/outline-v5.md
+?? essay/working-draft-v5.md
+?? notes/source-links-todo.md
+?? output/pdf/all-will-be-forgiven-v5-noto.pdf
+?? output/pdf/all-will-be-forgiven-v5-noto.pdf.build.txt
+?? typesetting/metadata-v5.yaml
+
+Platform:
+Darwin arm64
+ProductName:		macOS
+ProductVersion:		15.6.1
+BuildVersion:		24G90
+
+Tools:
+/Users/phapman/.local/share/mark-3-29/tools/pandoc-3.1.11.1-arm64/bin/pandoc
+/Library/TeX/texbin/xelatex
+pandoc 3.1.11.1
+Features: +server +lua
+Scripting engine: Lua 5.4
+User data directory: /Users/phapman/.local/share/pandoc
+Copyright (C) 2006-2023 John MacFarlane. Web: https://pandoc.org
+This is free software; see the source for copying conditions. There is no
+warranty, not even for merchantability or fitness for a particular purpose.
+XeTeX 3.141592653-2.6-0.999996 (TeX Live 2024)
+kpathsea version 6.4.0
+Copyright 2024 SIL International, Jonathan Kew and Khaled Hosny.
+There is NO warranty.  Redistribution of this software is
+covered by the terms of both the XeTeX copyright and
+the Lesser GNU General Public License.
+For more information about these matters, see the file
+named COPYING and the XeTeX source.
+Primary author of XeTeX: Jonathan Kew.
+Compiled with ICU version 74.2; using 74.2
+Compiled with zlib version 1.3.1; using 1.3.1
+Compiled with FreeType2 version 2.13.2; using 2.13.2
+Compiled with Graphite2 version 1.3.14; using 1.3.14
+Compiled with HarfBuzz version 8.3.0; using 8.3.0
+Compiled with libpng version 1.6.43; using 1.6.43
+Compiled with pplib version v2.2
+Using Mac OS X Core Text and Cocoa frameworks
+
+Recipe: Pandoc with publication.lua, selected metadata, header.tex; two XeLaTeX passes.
+Source: essay/working-draft-v5.md
+Metadata: typesetting/metadata-v5.yaml
+
+SHA-256 of source, build recipe, Pandoc executable, and PDF:
+1706da0b5e68e6898aeb4602e7f020d9ad8c89e1da2fcab5adc71e6266473725  essay/working-draft-v5.md
+dac9e82b584fce8ad8c928935bce4f4ec5f7710e280e9a7ab3c5666bc9f55320  scripts/build-pdf.sh
+85c04af175394b624180a08926f95cf9e95ae49c124e3f90e3e82e14ec7706e5  typesetting/publication.lua
+abaa419ef6fc86b8ea30d5ef2cca560f47a3d95588440dfc4a377a8278070b0b  typesetting/metadata-v5.yaml
+0aa1422d51724762c94c3965beeac712a16e19fa40b189d5441626c8921bf2dd  typesetting/header.tex
+57b1d3775520a9a2688a1597a13b9b77714ff5c9458cded1dfee05d73a83902f  /Users/phapman/.local/share/mark-3-29/tools/pandoc-3.1.11.1-arm64/bin/pandoc
+028cdf90c0cffb89af2cc02e2bad2c1103501be1fe8257281a16bbc7083897da  /private/tmp/mark-v5-footnote-links-nov5/all-will-be-forgiven-v5-noto.pdf
+
+SHA-256 of font files recorded by XeLaTeX (if exposed by the engine):
+
+PDF information:
+Title:           All Will Be Forgiven?
+Author:          Aaron K. Solomon
+Creator:         LaTeX via pandoc
+Producer:        xdvipdfmx (20240305)
+CreationDate:    Thu Nov  5 21:18:44 2026 PST
+Custom Metadata: yes
+Metadata Stream: no
+Tagged:          no
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           35
+Encrypted:       no
+Page size:       612 x 792 pts (letter)
+Page rot:        0
+File size:       180826 bytes
+Optimized:       no
+PDF version:     1.5
+
+Embedded fonts:
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+DOCBZU+NotoSerif                     CID TrueType      Identity-H       yes yes yes      4  0
+ZQHLWS+NotoSerif-Italic              CID TrueType      Identity-H       yes yes yes      6  0
+OZLWXU+NotoSerif-Bold                CID TrueType      Identity-H       yes yes yes     10  0
+CLSSZJ+NotoSansSyriac-Regular        CID TrueType      Identity-H       yes yes yes    106  0
+
+Typography warnings:
+None.
+
+Visual review is separate from this automated receipt.

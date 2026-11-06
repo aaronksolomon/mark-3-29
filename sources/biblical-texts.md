@@ -200,3 +200,11 @@ The ending relates claiming to see to sin remaining. It is an important comparis
 ## Corpus still to build
 
 Read Matthew 18:21–35 as forgiveness and judgment in the same sequence; John 13:17 and 15:1–17 for doing and abiding; Exodus 34:6–7 and Numbers 14:18–23 for mercy and consequences together; Leviticus 25:10 for release; Numbers 15:27–31 for differentiated wrongdoing; Isaiah 5:20 for calling good evil. These are research assignments, not a completed comparative argument. Consult Hebrew and Septuagint editions before making lexical claims about them.
+
+## November 4, 2026 — v5 historical orientation and Paul annotation
+
+For the authorized v5 comparison draft, the [USCCB introduction to Mark](https://bible.usccb.org/bible/mark/0?bk=Mark&ch=), final historical paragraphs, was inspected for approximate dating around 70 CE. The body keeps “around”; n16 distinguishes composition from surviving copies. The ordinary introduction URL returned 403, while the official query-parameter version supplied the text. No fuller rereading of Fassberg or Porter is claimed.
+
+[Philippians 3:5–6](https://bible.usccb.org/bible/philippians/3) supports Paul’s self-identification as a Pharisee and his account of persecution. [Acts 22:3, NIV](https://www.biblegateway.com/passage/?search=Acts+22%3A3&version=NIV) separately presents education under Gamaliel. These do not establish that Paul held the role of a scribe; the distinction is recorded in v5 n36.
+
+The optional chronology note uses the decade of the 30s CE. [Nicholas J. Frederick, “The Life of the Apostle Paul: An Overview”](https://rsc.byu.edu/new-testament-history-culture-society/life-apostle-paul), *New Testament History, Culture, and Society* (2019), section on the encounter, proposes about 34. [Mato Zovkić, “Chronology of Paul’s Evangelization and Writing”](https://hrcak.srce.hr/index.php/en/clanak/43885), *Bogoslovska smotra* 73.1 (2003), 45–70, adopts 36 in the English abstract. Only that abstract, not the Croatian full article, was consulted. These are examples of reconstruction rather than independent datings or grounds for an exact year in the body. No new quotation from either scholar is added.
